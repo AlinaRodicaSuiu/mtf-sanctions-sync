@@ -1,41 +1,12 @@
 name: Sync Monaco Trade Forum sanctions data
 
-# What this does, end to end, with no manual step after the one-time setup:
-#   1. Checks out this repo (data/sanctions-list.json + data/sanctions-changelog.json
-#      here are the persistent state — each entity keeps the same mtf-NNNNN id
-#      across runs, which is what makes "View history" correct over time).
-#   2. Runs scripts/build_sanctions_data.py with no arguments, which downloads
-#      the current OFAC SDN list and UK Sanctions List (FCDO) directly from
-#      their official URLs, normalises + deduplicates them against the
-#      existing data/*.json, and rewrites data/*.json in place.
-#   3. Commits the updated data/*.json back to this repo (free, permanent
-#      audit trail of every sync — git history IS the changelog of changelogs).
-#   4. Pushes the same two JSON files to Cloudflare Workers KV, which is what
-#      monacotradeforum.com actually reads at request time via
-#      functions/api/sanctions-list.js / sanctions-changelog.js.
-#
-# See claude/arhitectura-mtf-sanctions-checker.md in the Monaco Trade Forum
-# project for the full design + the one-time setup runbook (repo secrets,
-# Cloudflare API token scope, KV namespace binding).
-#
-# Required repository secrets (set once in GitHub → Settings → Secrets and
-# variables → Actions):
-#   CF_API_TOKEN        Cloudflare API token, scoped to "Workers KV Storage:Edit"
-#                        for the one namespace below only.
-#   CF_ACCOUNT_ID        Cloudflare account ID.
-#   CF_KV_NAMESPACE_ID   The Workers KV namespace ID bound to the Pages
-#                        project as SANCTIONS_DATA.
-
 on:
   schedule:
-    # 03:17 UTC daily. An off-the-hour minute is deliberate (avoids piling
-    # onto the exact top of the hour with every other scheduled workflow on
-    # GitHub's infrastructure) — there is no other significance to this time.
     - cron: '17 3 * * *'
-  workflow_dispatch: {}   # lets Alina trigger a sync on demand from the Actions tab
+  workflow_dispatch: {}
 
 permissions:
-  contents: write   # needed to commit data/*.json back to the repo
+  contents: write
 
 jobs:
   sync:
@@ -56,7 +27,6 @@ jobs:
         run: |
           echo "--- data/sanctions-list.json entry count ---"
           python3 -c "import json; print(len(json.load(open('data/sanctions-list.json'))['entries']))"
-          echo "--- new changelog events this run ---"
           git diff --stat -- data/ || true
 
       - name: Commit updated data back to the repo (audit trail)
@@ -77,26 +47,46 @@ jobs:
           CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
           CF_KV_NAMESPACE_ID: ${{ secrets.CF_KV_NAMESPACE_ID }}
         run: |
-          set -euo pipefail
+          set -uo pipefail
+
+          # Defensive trim: a pasted secret sometimes carries a trailing
+          # newline or space, which silently breaks the request below.
+          CF_ACCOUNT_ID="$(printf '%s' "$CF_ACCOUNT_ID" | tr -d '[:space:]')"
+          CF_KV_NAMESPACE_ID="$(printf '%s' "$CF_KV_NAMESPACE_ID" | tr -d '[:space:]')"
+          CF_API_TOKEN="$(printf '%s' "$CF_API_TOKEN" | tr -d '[:space:]')"
 
           push_key () {
             local key_name="$1"
             local file_path="$2"
+            local url="https://api.cloudflare.com/client/v4/accounts/${CF_ACCOUNT_ID}/storage/kv/namespaces/${CF_KV_NAMESPACE_ID}/values/${key_name}"
             echo "Writing $key_name from $file_path to Workers KV..."
-            http_code=$(curl -sS -o /tmp/kv_write_response.json -w '%{http_code}' \
-              "https://api.cloudflare.com/client/v4/accounts/${CF_ACCOUNT_ID}/storage/kv/namespaces/${CF_KV_NAMESPACE_ID}/values/${key_name}" \
+            echo "URL: $url"
+            set +e
+            http_code=$(curl -sS -v -o /tmp/kv_write_response.json -w '%{http_code}' \
+              "$url" \
               -X PUT \
               -H "Authorization: Bearer ${CF_API_TOKEN}" \
-              -F "value=@${file_path};type=application/json")
-            if [ "$http_code" != "200" ]; then
-              echo "FATAL: Cloudflare KV write for '${key_name}' returned HTTP ${http_code}:"
-              cat /tmp/kv_write_response.json
+              -F "value=@${file_path}" 2>/tmp/kv_curl_stderr.log)
+            curl_exit=$?
+            set -e
+            echo "--- curl stderr/verbose log ---"
+            cat /tmp/kv_curl_stderr.log
+            echo "--- end curl log ---"
+            if [ "$curl_exit" -ne 0 ]; then
+              echo "FATAL: curl itself failed (exit code $curl_exit) before getting a response."
               exit 1
             fi
-            success=$(python3 -c "import json,sys; print(json.load(open('/tmp/kv_write_response.json')).get('success'))")
+            echo "HTTP status: $http_code"
+            echo "--- response body ---"
+            cat /tmp/kv_write_response.json || true
+            echo ""
+            if [ "$http_code" != "200" ]; then
+              echo "FATAL: Cloudflare KV write for '${key_name}' returned HTTP ${http_code}."
+              exit 1
+            fi
+            success=$(python3 -c "import json; print(json.load(open('/tmp/kv_write_response.json')).get('success'))")
             if [ "$success" != "True" ]; then
-              echo "FATAL: Cloudflare KV write for '${key_name}' reported success=false:"
-              cat /tmp/kv_write_response.json
+              echo "FATAL: Cloudflare KV write for '${key_name}' reported success=false."
               exit 1
             fi
             echo "OK: ${key_name} written."
