@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "last_synchronised": "2026-09-09",
+  "last_synchronised": "2026-09-10",
   "note": "Live data, normalised and deduplicated by Monaco Trade Forum from the sources listed below.",
   "sources": [
     {
@@ -360139,9 +360139,9 @@
       ]
     },
     {
-      "id": "mtf-18949",
+      "id": "mtf-19346",
       "type": "person",
-      "name": "ABDELHAKIM, Boukich",
+      "name": "BOUKICH, Abdelhakim",
       "aliases": [],
       "country": null,
       "program": "SDGT",
@@ -360628,6 +360628,25 @@
         {
           "code": "OFAC",
           "source_id": "SDN-58004",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19347",
+      "type": "entity",
+      "name": "LOS TIGUERONES",
+      "aliases": [],
+      "country": null,
+      "program": "FTO] [SDGT",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58005",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]
@@ -365497,6 +365516,44 @@
       ]
     },
     {
+      "id": "mtf-19348",
+      "type": "entity",
+      "name": "XINBI GUARANTEE",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58361",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19349",
+      "type": "entity",
+      "name": "ANWEN TECHNOLOGY CO., LTD.",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58362",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
       "id": "mtf-19231",
       "type": "vessel",
       "name": "SIEMPRE MI ARCA",
@@ -365530,6 +365587,25 @@
         {
           "code": "OFAC",
           "source_id": "SDN-58364",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19350",
+      "type": "entity",
+      "name": "SAFEW TECHNOLOGY CO., LTD.",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58365",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]

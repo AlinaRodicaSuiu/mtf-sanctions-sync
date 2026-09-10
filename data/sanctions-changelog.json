@@ -116071,6 +116071,42 @@
       "entity_id": "mtf-19345",
       "action": "added",
       "note": "New listing detected: GOLDEN GLOBAL PORTFOY YONETIMI ANONIM SIRKETI"
+    },
+    {
+      "date": "2026-09-10",
+      "entity_id": "mtf-19346",
+      "action": "added",
+      "note": "New listing detected: BOUKICH, Abdelhakim"
+    },
+    {
+      "date": "2026-09-10",
+      "entity_id": "mtf-19347",
+      "action": "added",
+      "note": "New listing detected: LOS TIGUERONES"
+    },
+    {
+      "date": "2026-09-10",
+      "entity_id": "mtf-19348",
+      "action": "added",
+      "note": "New listing detected: XINBI GUARANTEE"
+    },
+    {
+      "date": "2026-09-10",
+      "entity_id": "mtf-19349",
+      "action": "added",
+      "note": "New listing detected: ANWEN TECHNOLOGY CO., LTD."
+    },
+    {
+      "date": "2026-09-10",
+      "entity_id": "mtf-19350",
+      "action": "added",
+      "note": "New listing detected: SAFEW TECHNOLOGY CO., LTD."
+    },
+    {
+      "date": "2026-09-10",
+      "entity_id": "mtf-18949",
+      "action": "removed",
+      "note": "No longer present in source lists: ABDELHAKIM, Boukich"
     }
   ],
   "note": "Live changelog — append-only history of Monaco Trade Forum sanctions data synchronisations."
