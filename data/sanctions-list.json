@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "last_synchronised": "2026-09-10",
+  "last_synchronised": "2026-09-11",
   "note": "Live data, normalised and deduplicated by Monaco Trade Forum from the sources listed below.",
   "sources": [
     {
@@ -358182,6 +358182,44 @@
       ]
     },
     {
+      "id": "mtf-19351",
+      "type": "person",
+      "name": "AL-DHUHAIBAWI, Hussein Ahmed Hussein",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-57834",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19352",
+      "type": "person",
+      "name": "AL-SHAIKHLI, Mohamed Ameen Fadhil Ali",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-57835",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
       "id": "mtf-18846",
       "type": "entity",
       "name": "FUTURE WING FINANCIAL COMPANY LIMITED",
@@ -359284,6 +359322,44 @@
       ]
     },
     {
+      "id": "mtf-19353",
+      "type": "person",
+      "name": "AL-HRAISHAWI, Karrar Mohammed Qasim",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-57896",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19354",
+      "type": "person",
+      "name": "AL-LAMI, Ali Hasan Farhan",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-57897",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
       "id": "mtf-18904",
       "type": "entity",
       "name": "MINISTRY OF THE REVOLUTIONARY ARMED FORCES OF CUBA",
@@ -359488,6 +359564,63 @@
         {
           "code": "OFAC",
           "source_id": "SDN-57914",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19355",
+      "type": "entity",
+      "name": "SHAMS AND BAHR TRADING COMPANY L.L.C.",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-57915",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19356",
+      "type": "person",
+      "name": "AL-MANDALAWI, Majid Ali Akbar Namdar",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-57916",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19357",
+      "type": "person",
+      "name": "AL-MANDALAWI, Abdulhasan Ali Akbar Namdar",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-57917",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]
@@ -367511,6 +367644,25 @@
       ]
     },
     {
+      "id": "mtf-19358",
+      "type": "person",
+      "name": "IBRAHIM, Hussein",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58525",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
       "id": "mtf-19333",
       "type": "entity",
       "name": "AVA AIRLINES",
@@ -367753,6 +367905,215 @@
         {
           "code": "OFAC",
           "source_id": "SDN-58548",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19359",
+      "type": "person",
+      "name": "HAMIEH, Abdallah",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58552",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19360",
+      "type": "person",
+      "name": "WEHBE, Ghaith Hussein",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58553",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19361",
+      "type": "person",
+      "name": "ZAHRELDINE, Mervat Jamil",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58554",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19362",
+      "type": "entity",
+      "name": "YOUSEF IBRAHIM MANSOUR AND PARTNER FOR EXCHANGE",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58555",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19363",
+      "type": "entity",
+      "name": "GOLD PRO SARL",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58556",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19364",
+      "type": "person",
+      "name": "AL-MAKANSI, Amir",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58557",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19365",
+      "type": "person",
+      "name": "AL-TAMEEMI, Abbas Jawad Kadhim",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58558",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19366",
+      "type": "person",
+      "name": "AL AMERI, Abdullah Nadhim Luaibi",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58559",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19367",
+      "type": "entity",
+      "name": "AL BROUJ FOR GENERAL CONTRACTING COMPANY",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58560",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19368",
+      "type": "entity",
+      "name": "AIN AL IRAQ FOR PROTECTION SYSTEMS TECHNOLOGY AND AUDIO, VISUAL, AND COMMUNICATIONS SOLUTIONS COMPANY LTD",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58561",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19369",
+      "type": "person",
+      "name": "AL ABADA, Khaldoon Naser Maryoosh",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58562",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]

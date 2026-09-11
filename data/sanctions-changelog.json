@@ -116107,6 +116107,120 @@
       "entity_id": "mtf-18949",
       "action": "removed",
       "note": "No longer present in source lists: ABDELHAKIM, Boukich"
+    },
+    {
+      "date": "2026-09-11",
+      "entity_id": "mtf-19351",
+      "action": "added",
+      "note": "New listing detected: AL-DHUHAIBAWI, Hussein Ahmed Hussein"
+    },
+    {
+      "date": "2026-09-11",
+      "entity_id": "mtf-19352",
+      "action": "added",
+      "note": "New listing detected: AL-SHAIKHLI, Mohamed Ameen Fadhil Ali"
+    },
+    {
+      "date": "2026-09-11",
+      "entity_id": "mtf-19353",
+      "action": "added",
+      "note": "New listing detected: AL-HRAISHAWI, Karrar Mohammed Qasim"
+    },
+    {
+      "date": "2026-09-11",
+      "entity_id": "mtf-19354",
+      "action": "added",
+      "note": "New listing detected: AL-LAMI, Ali Hasan Farhan"
+    },
+    {
+      "date": "2026-09-11",
+      "entity_id": "mtf-19355",
+      "action": "added",
+      "note": "New listing detected: SHAMS AND BAHR TRADING COMPANY L.L.C."
+    },
+    {
+      "date": "2026-09-11",
+      "entity_id": "mtf-19356",
+      "action": "added",
+      "note": "New listing detected: AL-MANDALAWI, Majid Ali Akbar Namdar"
+    },
+    {
+      "date": "2026-09-11",
+      "entity_id": "mtf-19357",
+      "action": "added",
+      "note": "New listing detected: AL-MANDALAWI, Abdulhasan Ali Akbar Namdar"
+    },
+    {
+      "date": "2026-09-11",
+      "entity_id": "mtf-19358",
+      "action": "added",
+      "note": "New listing detected: IBRAHIM, Hussein"
+    },
+    {
+      "date": "2026-09-11",
+      "entity_id": "mtf-19359",
+      "action": "added",
+      "note": "New listing detected: HAMIEH, Abdallah"
+    },
+    {
+      "date": "2026-09-11",
+      "entity_id": "mtf-19360",
+      "action": "added",
+      "note": "New listing detected: WEHBE, Ghaith Hussein"
+    },
+    {
+      "date": "2026-09-11",
+      "entity_id": "mtf-19361",
+      "action": "added",
+      "note": "New listing detected: ZAHRELDINE, Mervat Jamil"
+    },
+    {
+      "date": "2026-09-11",
+      "entity_id": "mtf-19362",
+      "action": "added",
+      "note": "New listing detected: YOUSEF IBRAHIM MANSOUR AND PARTNER FOR EXCHANGE"
+    },
+    {
+      "date": "2026-09-11",
+      "entity_id": "mtf-19363",
+      "action": "added",
+      "note": "New listing detected: GOLD PRO SARL"
+    },
+    {
+      "date": "2026-09-11",
+      "entity_id": "mtf-19364",
+      "action": "added",
+      "note": "New listing detected: AL-MAKANSI, Amir"
+    },
+    {
+      "date": "2026-09-11",
+      "entity_id": "mtf-19365",
+      "action": "added",
+      "note": "New listing detected: AL-TAMEEMI, Abbas Jawad Kadhim"
+    },
+    {
+      "date": "2026-09-11",
+      "entity_id": "mtf-19366",
+      "action": "added",
+      "note": "New listing detected: AL AMERI, Abdullah Nadhim Luaibi"
+    },
+    {
+      "date": "2026-09-11",
+      "entity_id": "mtf-19367",
+      "action": "added",
+      "note": "New listing detected: AL BROUJ FOR GENERAL CONTRACTING COMPANY"
+    },
+    {
+      "date": "2026-09-11",
+      "entity_id": "mtf-19368",
+      "action": "added",
+      "note": "New listing detected: AIN AL IRAQ FOR PROTECTION SYSTEMS TECHNOLOGY AND AUDIO, VISUAL, AND COMMUNICATIONS SOLUTIONS COMPANY LTD"
+    },
+    {
+      "date": "2026-09-11",
+      "entity_id": "mtf-19369",
+      "action": "added",
+      "note": "New listing detected: AL ABADA, Khaldoon Naser Maryoosh"
     }
   ],
   "note": "Live changelog — append-only history of Monaco Trade Forum sanctions data synchronisations."
