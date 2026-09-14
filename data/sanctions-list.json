@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "last_synchronised": "2026-09-13",
+  "last_synchronised": "2026-09-14",
   "note": "Live data, normalised and deduplicated by Monaco Trade Forum from the sources listed below.",
   "sources": [
     {
