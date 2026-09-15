@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "last_synchronised": "2026-09-14",
+  "last_synchronised": "2026-09-15",
   "note": "Live data, normalised and deduplicated by Monaco Trade Forum from the sources listed below.",
   "sources": [
     {
@@ -57306,7 +57306,7 @@
       "name": "VTB BANK PUBLIC JOINT STOCK COMPANY",
       "aliases": [],
       "country": null,
-      "program": "UKRAINE-EO13662] [RUSSIA-EO14024",
+      "program": "UKRAINE-EO13662] [IRAN-EO13902] [RUSSIA-EO14024",
       "listing_date": null,
       "imo": null,
       "flag": "-0-",

@@ -116221,6 +116221,12 @@
       "entity_id": "mtf-19369",
       "action": "added",
       "note": "New listing detected: AL ABADA, Khaldoon Naser Maryoosh"
+    },
+    {
+      "date": "2026-09-15",
+      "entity_id": "mtf-03013",
+      "action": "modified",
+      "note": "Record updated: VTB BANK PUBLIC JOINT STOCK COMPANY"
     }
   ],
   "note": "Live changelog — append-only history of Monaco Trade Forum sanctions data synchronisations."
