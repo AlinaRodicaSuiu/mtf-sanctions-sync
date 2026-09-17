@@ -116227,6 +116227,24 @@
       "entity_id": "mtf-03013",
       "action": "modified",
       "note": "Record updated: VTB BANK PUBLIC JOINT STOCK COMPANY"
+    },
+    {
+      "date": "2026-09-17",
+      "entity_id": "mtf-01245",
+      "action": "removed",
+      "note": "No longer present in source lists: VEGA SANCHEZ, Jose Raul"
+    },
+    {
+      "date": "2026-09-17",
+      "entity_id": "mtf-10516",
+      "action": "removed",
+      "note": "No longer present in source lists: BOMATTER, Hans Peter"
+    },
+    {
+      "date": "2026-09-17",
+      "entity_id": "mtf-15464",
+      "action": "removed",
+      "note": "No longer present in source lists: MODULSAN MAKINA KESICI TAKIM VE DISLI SANAYI TICARET LIMITED SIRKETI"
     }
   ],
   "note": "Live changelog — append-only history of Monaco Trade Forum sanctions data synchronisations."

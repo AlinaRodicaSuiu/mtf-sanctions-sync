@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "last_synchronised": "2026-09-16",
+  "last_synchronised": "2026-09-17",
   "note": "Live data, normalised and deduplicated by Monaco Trade Forum from the sources listed below.",
   "sources": [
     {
@@ -23699,25 +23699,6 @@
         {
           "code": "OFAC",
           "source_id": "SDN-10975",
-          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
-        }
-      ]
-    },
-    {
-      "id": "mtf-01245",
-      "type": "person",
-      "name": "VEGA SANCHEZ, Jose Raul",
-      "aliases": [],
-      "country": null,
-      "program": "SDNTK",
-      "listing_date": null,
-      "imo": null,
-      "flag": "-0-",
-      "vessel_type": "-0-",
-      "sources": [
-        {
-          "code": "OFAC",
-          "source_id": "SDN-10982",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]
@@ -199887,25 +199868,6 @@
       ]
     },
     {
-      "id": "mtf-10516",
-      "type": "person",
-      "name": "BOMATTER, Hans Peter",
-      "aliases": [],
-      "country": null,
-      "program": "RUSSIA-EO14024",
-      "listing_date": null,
-      "imo": null,
-      "flag": "-0-",
-      "vessel_type": "-0-",
-      "sources": [
-        {
-          "code": "OFAC",
-          "source_id": "SDN-40948",
-          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
-        }
-      ]
-    },
-    {
       "id": "mtf-10517",
       "type": "person",
       "name": "MORETTI, Svetlana Alekseyevna",
@@ -293914,25 +293876,6 @@
         {
           "code": "OFAC",
           "source_id": "SDN-51040",
-          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
-        }
-      ]
-    },
-    {
-      "id": "mtf-15464",
-      "type": "entity",
-      "name": "MODULSAN MAKINA KESICI TAKIM VE DISLI SANAYI TICARET LIMITED SIRKETI",
-      "aliases": [],
-      "country": null,
-      "program": "RUSSIA-EO14024",
-      "listing_date": null,
-      "imo": null,
-      "flag": "-0-",
-      "vessel_type": "-0-",
-      "sources": [
-        {
-          "code": "OFAC",
-          "source_id": "SDN-51041",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]
