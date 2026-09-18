@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "last_synchronised": "2026-09-17",
+  "last_synchronised": "2026-09-18",
   "note": "Live data, normalised and deduplicated by Monaco Trade Forum from the sources listed below.",
   "sources": [
     {
@@ -22920,25 +22920,6 @@
         {
           "code": "OFAC",
           "source_id": "SDN-10755",
-          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
-        }
-      ]
-    },
-    {
-      "id": "mtf-01204",
-      "type": "entity",
-      "name": "LAKOKRASKA OAO",
-      "aliases": [],
-      "country": null,
-      "program": "BELARUS",
-      "listing_date": null,
-      "imo": null,
-      "flag": "-0-",
-      "vessel_type": "-0-",
-      "sources": [
-        {
-          "code": "OFAC",
-          "source_id": "SDN-10756",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]
@@ -237085,25 +237066,6 @@
       ]
     },
     {
-      "id": "mtf-12475",
-      "type": "entity",
-      "name": "BELARUSIAN PRODUCTION AND TRADE CONCERN OF TIMBER WOODWORKING AND PULP AND PAPER INDUSTRY",
-      "aliases": [],
-      "country": null,
-      "program": "BELARUS-EO14038",
-      "listing_date": null,
-      "imo": null,
-      "flag": "-0-",
-      "vessel_type": "-0-",
-      "sources": [
-        {
-          "code": "OFAC",
-          "source_id": "SDN-46477",
-          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
-        }
-      ]
-    },
-    {
       "id": "mtf-12476",
       "type": "entity",
       "name": "REPUBLICAN PRODUCTION AND TRADE UNITARY ENTERPRISE MANAGEMENT COMPANY OF THE HOLDING BELARUSIAN CEMENT COMPANY",
@@ -368057,6 +368019,310 @@
         {
           "code": "OFAC",
           "source_id": "SDN-58562",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19370",
+      "type": "entity",
+      "name": "EMPRESA DE SERVICIOS TECNICOS DE COMPUTACION COMUNICACIONES Y ELECTRONICA",
+      "aliases": [],
+      "country": null,
+      "program": "CUBA-EO14404",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58614",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19371",
+      "type": "entity",
+      "name": "EMPRESA DE INGENIERIA Y PROYECTOS DEL NIQUEL",
+      "aliases": [],
+      "country": null,
+      "program": "CUBA-EO14404",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58615",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19372",
+      "type": "entity",
+      "name": "CENTRO DE INVESTIGACIONES DEL NIQUEL CAPITAN ALBERTO FERNANDEZ MONTES DE OCA",
+      "aliases": [],
+      "country": null,
+      "program": "CUBA-EO14404",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58616",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19373",
+      "type": "entity",
+      "name": "PINARES S.A.",
+      "aliases": [],
+      "country": null,
+      "program": "CUBA-EO14404",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58617",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19374",
+      "type": "entity",
+      "name": "PISHTAZ SIMORGH ELECTRONIC TRADE COMPANY",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN] [IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58618",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19375",
+      "type": "entity",
+      "name": "BITBANK",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN] [IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58619",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19376",
+      "type": "person",
+      "name": "ZAKER HOSSEIN, Hossein Ali",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN] [IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58620",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19377",
+      "type": "person",
+      "name": "ZAKER HOSSEIN, Mohammad Mahdi",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN] [IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58630",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19378",
+      "type": "person",
+      "name": "HEIDARI, Seyed Adel",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN] [IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58631",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19379",
+      "type": "entity",
+      "name": "CENTRO DE INVESTIGACION Y DESARROLLO DE SIMULADORES",
+      "aliases": [],
+      "country": null,
+      "program": "CUBA-EO14404",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58647",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19380",
+      "type": "person",
+      "name": "CANCIO MONTEAGUDO, Joaquin Francisco",
+      "aliases": [],
+      "country": null,
+      "program": "CUBA-EO14404",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58648",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19381",
+      "type": "entity",
+      "name": "CENTRO DE INVESTIGACION Y DESARROLLO NAVAL",
+      "aliases": [],
+      "country": null,
+      "program": "CUBA-EO14404",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58649",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19382",
+      "type": "person",
+      "name": "PEDRERA ARGUELLO, Dioglis",
+      "aliases": [],
+      "country": null,
+      "program": "CUBA-EO14404",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58650",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19383",
+      "type": "entity",
+      "name": "CENTRO DE INVESTIGACION Y DESARROLLO DE ARMAMENTO DE INFANTERIA",
+      "aliases": [],
+      "country": null,
+      "program": "CUBA-EO14404",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58651",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19384",
+      "type": "person",
+      "name": "HURTADO BETANCOURT, Julio",
+      "aliases": [],
+      "country": null,
+      "program": "CUBA-EO14404",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58652",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-19385",
+      "type": "entity",
+      "name": "CENTRO DE INVESTIGACION, DESARROLLO Y PRODUCCION GRITO DE BAIRE",
+      "aliases": [],
+      "country": null,
+      "program": "CUBA-EO14404",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58653",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]

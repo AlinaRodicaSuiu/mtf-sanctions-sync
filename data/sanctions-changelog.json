@@ -116245,6 +116245,114 @@
       "entity_id": "mtf-15464",
       "action": "removed",
       "note": "No longer present in source lists: MODULSAN MAKINA KESICI TAKIM VE DISLI SANAYI TICARET LIMITED SIRKETI"
+    },
+    {
+      "date": "2026-09-18",
+      "entity_id": "mtf-19370",
+      "action": "added",
+      "note": "New listing detected: EMPRESA DE SERVICIOS TECNICOS DE COMPUTACION COMUNICACIONES Y ELECTRONICA"
+    },
+    {
+      "date": "2026-09-18",
+      "entity_id": "mtf-19371",
+      "action": "added",
+      "note": "New listing detected: EMPRESA DE INGENIERIA Y PROYECTOS DEL NIQUEL"
+    },
+    {
+      "date": "2026-09-18",
+      "entity_id": "mtf-19372",
+      "action": "added",
+      "note": "New listing detected: CENTRO DE INVESTIGACIONES DEL NIQUEL CAPITAN ALBERTO FERNANDEZ MONTES DE OCA"
+    },
+    {
+      "date": "2026-09-18",
+      "entity_id": "mtf-19373",
+      "action": "added",
+      "note": "New listing detected: PINARES S.A."
+    },
+    {
+      "date": "2026-09-18",
+      "entity_id": "mtf-19374",
+      "action": "added",
+      "note": "New listing detected: PISHTAZ SIMORGH ELECTRONIC TRADE COMPANY"
+    },
+    {
+      "date": "2026-09-18",
+      "entity_id": "mtf-19375",
+      "action": "added",
+      "note": "New listing detected: BITBANK"
+    },
+    {
+      "date": "2026-09-18",
+      "entity_id": "mtf-19376",
+      "action": "added",
+      "note": "New listing detected: ZAKER HOSSEIN, Hossein Ali"
+    },
+    {
+      "date": "2026-09-18",
+      "entity_id": "mtf-19377",
+      "action": "added",
+      "note": "New listing detected: ZAKER HOSSEIN, Mohammad Mahdi"
+    },
+    {
+      "date": "2026-09-18",
+      "entity_id": "mtf-19378",
+      "action": "added",
+      "note": "New listing detected: HEIDARI, Seyed Adel"
+    },
+    {
+      "date": "2026-09-18",
+      "entity_id": "mtf-19379",
+      "action": "added",
+      "note": "New listing detected: CENTRO DE INVESTIGACION Y DESARROLLO DE SIMULADORES"
+    },
+    {
+      "date": "2026-09-18",
+      "entity_id": "mtf-19380",
+      "action": "added",
+      "note": "New listing detected: CANCIO MONTEAGUDO, Joaquin Francisco"
+    },
+    {
+      "date": "2026-09-18",
+      "entity_id": "mtf-19381",
+      "action": "added",
+      "note": "New listing detected: CENTRO DE INVESTIGACION Y DESARROLLO NAVAL"
+    },
+    {
+      "date": "2026-09-18",
+      "entity_id": "mtf-19382",
+      "action": "added",
+      "note": "New listing detected: PEDRERA ARGUELLO, Dioglis"
+    },
+    {
+      "date": "2026-09-18",
+      "entity_id": "mtf-19383",
+      "action": "added",
+      "note": "New listing detected: CENTRO DE INVESTIGACION Y DESARROLLO DE ARMAMENTO DE INFANTERIA"
+    },
+    {
+      "date": "2026-09-18",
+      "entity_id": "mtf-19384",
+      "action": "added",
+      "note": "New listing detected: HURTADO BETANCOURT, Julio"
+    },
+    {
+      "date": "2026-09-18",
+      "entity_id": "mtf-19385",
+      "action": "added",
+      "note": "New listing detected: CENTRO DE INVESTIGACION, DESARROLLO Y PRODUCCION GRITO DE BAIRE"
+    },
+    {
+      "date": "2026-09-18",
+      "entity_id": "mtf-01204",
+      "action": "removed",
+      "note": "No longer present in source lists: LAKOKRASKA OAO"
+    },
+    {
+      "date": "2026-09-18",
+      "entity_id": "mtf-12475",
+      "action": "removed",
+      "note": "No longer present in source lists: BELARUSIAN PRODUCTION AND TRADE CONCERN OF TIMBER WOODWORKING AND PULP AND PAPER INDUSTRY"
     }
   ],
   "note": "Live changelog — append-only history of Monaco Trade Forum sanctions data synchronisations."
