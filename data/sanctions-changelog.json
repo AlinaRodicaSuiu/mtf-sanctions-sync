@@ -116353,6 +116353,42 @@
       "entity_id": "mtf-12475",
       "action": "removed",
       "note": "No longer present in source lists: BELARUSIAN PRODUCTION AND TRADE CONCERN OF TIMBER WOODWORKING AND PULP AND PAPER INDUSTRY"
+    },
+    {
+      "date": "2026-09-19",
+      "entity_id": "mtf-07618",
+      "action": "removed",
+      "note": "No longer present in source lists: PEOPLE'S FRONT FOR DEMOCRACY AND JUSTICE"
+    },
+    {
+      "date": "2026-09-19",
+      "entity_id": "mtf-07630",
+      "action": "removed",
+      "note": "No longer present in source lists: W KIDAN, Hagos Ghebrehiwet"
+    },
+    {
+      "date": "2026-09-19",
+      "entity_id": "mtf-07631",
+      "action": "removed",
+      "note": "No longer present in source lists: NEMARIAM, Abraha Kassa"
+    },
+    {
+      "date": "2026-09-19",
+      "entity_id": "mtf-07641",
+      "action": "removed",
+      "note": "No longer present in source lists: ERITREAN DEFENSE FORCES"
+    },
+    {
+      "date": "2026-09-19",
+      "entity_id": "mtf-07841",
+      "action": "removed",
+      "note": "No longer present in source lists: RED SEA TRADING CORPORATION"
+    },
+    {
+      "date": "2026-09-19",
+      "entity_id": "mtf-07842",
+      "action": "removed",
+      "note": "No longer present in source lists: HIDRI TRUST"
     }
   ],
   "note": "Live changelog — append-only history of Monaco Trade Forum sanctions data synchronisations."

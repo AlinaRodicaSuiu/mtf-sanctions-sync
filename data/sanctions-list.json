@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "last_synchronised": "2026-09-18",
+  "last_synchronised": "2026-09-19",
   "note": "Live data, normalised and deduplicated by Monaco Trade Forum from the sources listed below.",
   "sources": [
     {
@@ -144787,25 +144787,6 @@
       ]
     },
     {
-      "id": "mtf-07618",
-      "type": "entity",
-      "name": "PEOPLE'S FRONT FOR DEMOCRACY AND JUSTICE",
-      "aliases": [],
-      "country": null,
-      "program": "ETHIOPIA-EO14046",
-      "listing_date": null,
-      "imo": null,
-      "flag": "-0-",
-      "vessel_type": "-0-",
-      "sources": [
-        {
-          "code": "OFAC",
-          "source_id": "SDN-33451",
-          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
-        }
-      ]
-    },
-    {
       "id": "mtf-07619",
       "type": "person",
       "name": "HERNANDEZ SALAS, Ofelia",
@@ -145015,44 +144996,6 @@
       ]
     },
     {
-      "id": "mtf-07630",
-      "type": "person",
-      "name": "W KIDAN, Hagos Ghebrehiwet",
-      "aliases": [],
-      "country": null,
-      "program": "ETHIOPIA-EO14046",
-      "listing_date": null,
-      "imo": null,
-      "flag": "-0-",
-      "vessel_type": "-0-",
-      "sources": [
-        {
-          "code": "OFAC",
-          "source_id": "SDN-33534",
-          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
-        }
-      ]
-    },
-    {
-      "id": "mtf-07631",
-      "type": "person",
-      "name": "NEMARIAM, Abraha Kassa",
-      "aliases": [],
-      "country": null,
-      "program": "ETHIOPIA-EO14046",
-      "listing_date": null,
-      "imo": null,
-      "flag": "-0-",
-      "vessel_type": "-0-",
-      "sources": [
-        {
-          "code": "OFAC",
-          "source_id": "SDN-33535",
-          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
-        }
-      ]
-    },
-    {
       "id": "mtf-07632",
       "type": "entity",
       "name": "MYANMAR WAR VETERANS ORGANIZATION",
@@ -145219,25 +145162,6 @@
         {
           "code": "OFAC",
           "source_id": "SDN-33596",
-          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
-        }
-      ]
-    },
-    {
-      "id": "mtf-07641",
-      "type": "entity",
-      "name": "ERITREAN DEFENSE FORCES",
-      "aliases": [],
-      "country": null,
-      "program": "ETHIOPIA-EO14046",
-      "listing_date": null,
-      "imo": null,
-      "flag": "-0-",
-      "vessel_type": "-0-",
-      "sources": [
-        {
-          "code": "OFAC",
-          "source_id": "SDN-33597",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]
@@ -149019,44 +148943,6 @@
         {
           "code": "OFAC",
           "source_id": "SDN-33917",
-          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
-        }
-      ]
-    },
-    {
-      "id": "mtf-07841",
-      "type": "entity",
-      "name": "RED SEA TRADING CORPORATION",
-      "aliases": [],
-      "country": null,
-      "program": "ETHIOPIA-EO14046",
-      "listing_date": null,
-      "imo": null,
-      "flag": "-0-",
-      "vessel_type": "-0-",
-      "sources": [
-        {
-          "code": "OFAC",
-          "source_id": "SDN-33918",
-          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
-        }
-      ]
-    },
-    {
-      "id": "mtf-07842",
-      "type": "entity",
-      "name": "HIDRI TRUST",
-      "aliases": [],
-      "country": null,
-      "program": "ETHIOPIA-EO14046",
-      "listing_date": null,
-      "imo": null,
-      "flag": "-0-",
-      "vessel_type": "-0-",
-      "sources": [
-        {
-          "code": "OFAC",
-          "source_id": "SDN-33919",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]
