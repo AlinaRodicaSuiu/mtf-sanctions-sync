@@ -152,6 +152,7 @@ guessing or inventing a value.
 
 import argparse
 import csv
+import hashlib
 import json
 import re
 import sys
@@ -371,7 +372,23 @@ def dedupe_key_entity(name, country):
     # requiring a country match would silently defeat cross-source dedup.
     # Country is still merged into the record as a display field, it just
     # isn't part of the identity key.
-    n = re.sub(r"[^a-z0-9]+", " ", (name or "").lower()).strip()
+    #
+    # BUGFIX (found in production, 2026-09-22): normalisation used to strip
+    # everything except [a-z0-9], which silently discards every character
+    # of a name written entirely in a non-Latin script (Arabic, Cyrillic,
+    # Chinese, ...) — collapsing ALL such names onto the same empty-string
+    # key and merging every unrelated person/entity with a non-Latin-only
+    # name into a single record. Confirmed live: one Arabic-named individual
+    # had absorbed 14,000+ aliases, 1,500+ identifiers and 3,000+ source
+    # citations from completely unrelated Cyrillic-named individuals this
+    # way. Fixed by normalising with \w (Unicode word characters — letters
+    # in any script, digits, underscore) instead of the ASCII-only class,
+    # and by giving a name that still normalises to nothing (blank/
+    # whitespace-only source name) a unique key derived from the raw name,
+    # rather than letting it collide with every other blank name.
+    n = re.sub(r"[^\w]+", " ", (name or "").lower(), flags=re.UNICODE).strip()
+    if not n:
+        n = "unnamed:" + hashlib.sha1((name or "").encode("utf-8")).hexdigest()[:12]
     return ("entity", n)
 
 
