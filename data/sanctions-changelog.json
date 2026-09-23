@@ -270265,6 +270265,48 @@
       "entity_id": "mtf-22109",
       "action": "modified",
       "note": "Record updated: ОOO \"АЭРОМАКС\""
+    },
+    {
+      "date": "2026-09-23",
+      "entity_id": "mtf-25645",
+      "action": "added",
+      "note": "New listing detected: דניאלה וייס"
+    },
+    {
+      "date": "2026-09-23",
+      "entity_id": "mtf-25646",
+      "action": "added",
+      "note": "New listing detected: מאיר דויטש"
+    },
+    {
+      "date": "2026-09-23",
+      "entity_id": "mtf-25647",
+      "action": "added",
+      "note": "New listing detected: אביחי סויסה"
+    },
+    {
+      "date": "2026-09-23",
+      "entity_id": "mtf-25648",
+      "action": "added",
+      "note": "New listing detected: Amana – Cooperative Society for Community Settlement Ltd"
+    },
+    {
+      "date": "2026-09-23",
+      "entity_id": "mtf-25649",
+      "action": "added",
+      "note": "New listing detected: נחלה"
+    },
+    {
+      "date": "2026-09-23",
+      "entity_id": "mtf-25650",
+      "action": "added",
+      "note": "New listing detected: רגבים"
+    },
+    {
+      "date": "2026-09-23",
+      "entity_id": "mtf-25651",
+      "action": "added",
+      "note": "New listing detected: השומר יו״ש"
     }
   ],
   "note": "Live changelog — append-only history of Monaco Trade Forum sanctions data synchronisations."

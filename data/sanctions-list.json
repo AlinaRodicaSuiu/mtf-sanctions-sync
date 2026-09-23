@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "mode": "live",
-  "last_synchronised": "2026-09-22",
+  "last_synchronised": "2026-09-23",
   "note": "Live data, normalised and deduplicated by Monaco Trade Forum from the sources listed below.",
   "sources": [
     {
@@ -28,7 +28,7 @@
       "list_url": "https://webgate.ec.europa.eu/fsd/fsf",
       "license": "EU document reuse policy — CC BY 4.0 (Commission Decision 2011/833/EU); attribution required",
       "code": "EU",
-      "last_updated": "05/08/2026",
+      "last_updated": "22/09/2026",
       "fetched_this_run": true
     },
     {
@@ -37,7 +37,7 @@
       "list_url": "https://main.un.org/securitycouncil/en/content/un-sc-consolidated-list",
       "license": "UN Terms of Use (un.org/en/about-us/terms-of-use) — not an explicit open-data license; see script docstring",
       "code": "UN",
-      "last_updated": "2026-09-21T23:00:06.615Z",
+      "last_updated": "2026-09-22T23:00:06.060Z",
       "fetched_this_run": true
     }
   ],
@@ -558032,6 +558032,181 @@
           "code": "EU",
           "source_id": "EU.14921.4",
           "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601817"
+        }
+      ]
+    },
+    {
+      "id": "mtf-25645",
+      "type": "person",
+      "name": "דניאלה וייס",
+      "aliases": [
+        "Daniella WEISS"
+      ],
+      "country": null,
+      "program": "HR",
+      "listing_date": "2026-05-28",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.14992.77",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177"
+        }
+      ]
+    },
+    {
+      "id": "mtf-25646",
+      "type": "person",
+      "name": "מאיר דויטש",
+      "aliases": [
+        "Meir DEUTSCH"
+      ],
+      "country": null,
+      "program": "HR",
+      "listing_date": "2026-05-28",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.14993.76",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177"
+        }
+      ]
+    },
+    {
+      "id": "mtf-25647",
+      "type": "person",
+      "name": "אביחי סויסה",
+      "aliases": [
+        "Avichai SUISSA"
+      ],
+      "country": null,
+      "program": "HR",
+      "listing_date": "2026-05-28",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "National identification card",
+          "value": "038172441 (id-National identification card)"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.14994.75",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177"
+        }
+      ]
+    },
+    {
+      "id": "mtf-25648",
+      "type": "entity",
+      "name": "Amana – Cooperative Society for Community Settlement Ltd",
+      "aliases": [
+        "Amana",
+        "אמנה"
+      ],
+      "country": "ISRAEL",
+      "program": "HR",
+      "listing_date": "2026-05-28",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "Registration Number",
+          "value": "570025742 (regnumber-Registration Number)  (on 1979-02-18)"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.14995.74",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177"
+        }
+      ]
+    },
+    {
+      "id": "mtf-25649",
+      "type": "entity",
+      "name": "נחלה",
+      "aliases": [
+        "Nachala Movement"
+      ],
+      "country": "PALESTINIAN TERRITORY, Occupied",
+      "program": "HR",
+      "listing_date": "2026-05-28",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.14996.73",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177"
+        }
+      ]
+    },
+    {
+      "id": "mtf-25650",
+      "type": "entity",
+      "name": "רגבים",
+      "aliases": [
+        "Regavim Movement",
+        "Regavim"
+      ],
+      "country": "ISRAEL",
+      "program": "HR",
+      "listing_date": "2026-05-28",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.14997.72",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177"
+        }
+      ]
+    },
+    {
+      "id": "mtf-25651",
+      "type": "entity",
+      "name": "השומר יו״ש",
+      "aliases": [
+        "Hashomer Yehudah V’Shomron",
+        "Hashomer Judea and Samaria",
+        "Guardians of Yehuda and the Shomron",
+        "Guardians of Judea and Samaria",
+        "Hashomer Yosh"
+      ],
+      "country": "PALESTINIAN TERRITORY, Occupied",
+      "program": "HR",
+      "listing_date": "2026-05-28",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "Registration Number",
+          "value": "580575629 (regnumber-Registration Number)  (on 2013-06-18)"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.14998.71",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177"
         }
       ]
     },
