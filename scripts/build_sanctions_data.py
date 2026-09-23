@@ -111,6 +111,11 @@ Unique ID, Regime Name, Country, Date of Birth, National Identification No,
 Address Line 1..6, Last Updated, IMO Number, Current/Previous Flag, Type
 of Vessel, Tonnage, and more. Matched case-insensitively.
 
+NOTE (added 23 September 2026, live bug found and fixed): the published
+CSV is preceded by a one-cell preamble row (e.g. "Report Date:
+21-Sep-2026") before the real header row — parse_uk_csv() below scans the
+first few rows for the real header row instead of assuming row 0 is it.
+
 EU FSF CSV — semicolon-delimited (NOT comma), 118 columns, one row per
 name/alias per listed subject (rows sharing the same Entity_LogicalId are
 the same real-world subject — aggregate, don't dedupe-away). Verified
@@ -475,7 +480,30 @@ def parse_uk_csv(path):
         print(f"[UK] WARNING: {path} is empty — no entries parsed.", file=sys.stderr)
         return entries
 
-    headers = rows[0]
+    # FIX (23 September 2026, live bug): the published UK CSV is preceded
+    # by a one-cell preamble row like "Report Date: 21-Sep-2026" before the
+    # real header row — trusting rows[0] blindly made every column lookup
+    # fail and silently zeroed out the entire source. Scan the first few
+    # rows and use the first one that actually contains a recognisable
+    # "Name 1" column instead.
+    header_row_index = None
+    for i, row in enumerate(rows[:5]):
+        row_norm = [normalise_header(c) for c in row]
+        if find_col(row_norm, UK_COLUMN_ALIASES["name1"]) is not None:
+            header_row_index = i
+            break
+
+    if header_row_index is None:
+        print(f"[UK] WARNING: could not find a real header row in the first 5 rows of {path} "
+              f"(no column matching Name 1). First row seen: {rows[0]!r}. "
+              f"Adjust the header-detection logic and re-run.", file=sys.stderr)
+        return entries
+
+    if header_row_index > 0:
+        print(f"[UK] Note: skipped {header_row_index} preamble row(s) before the real header "
+              f"row (e.g. {rows[0]!r}).", file=sys.stderr)
+
+    headers = rows[header_row_index]
     headers_norm = [normalise_header(h) for h in headers]
 
     def col(field):
@@ -491,7 +519,7 @@ def parse_uk_csv(path):
         i = idx.get(field)
         return row[i].strip() if i is not None and i < len(row) else ""
 
-    for row in rows[1:]:
+    for row in rows[header_row_index + 1:]:
         if not row or not any(row):
             continue
         name_parts = [get(row, f"name{n}") for n in range(1, 7)]
