@@ -361375,6 +361375,18 @@
       "entity_id": "mtf-22451",
       "action": "modified",
       "note": "Record updated: The Houthis"
+    },
+    {
+      "date": "2026-09-29",
+      "entity_id": "mtf-38497",
+      "action": "added",
+      "note": "New listing detected: KHATIBA JAMA`AT AL-TAWHID WAL-JIHAD (KTJ)"
+    },
+    {
+      "date": "2026-09-29",
+      "entity_id": "mtf-22448",
+      "action": "modified",
+      "note": "Record updated: Khatiba al-Tawhid wal-Jihad (KTJ)"
     }
   ],
   "note": "Live changelog — append-only history of Monaco Trade Forum sanctions data synchronisations."
