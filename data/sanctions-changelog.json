@@ -361387,6 +361387,384 @@
       "entity_id": "mtf-22448",
       "action": "modified",
       "note": "Record updated: Khatiba al-Tawhid wal-Jihad (KTJ)"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38498",
+      "action": "added",
+      "note": "New listing detected: KAVOSHCOM ASIA R AND D GROUP"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38499",
+      "action": "added",
+      "note": "New listing detected: EC MOJO TECHNOLOGY CO LIMITED"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38500",
+      "action": "added",
+      "note": "New listing detected: LALI, Parisa"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38501",
+      "action": "added",
+      "note": "New listing detected: LI, Fen"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38502",
+      "action": "added",
+      "note": "New listing detected: AHMADY, Ali Fotowat"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38503",
+      "action": "added",
+      "note": "New listing detected: ZAMBADA SICAIROS, Ismael"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38504",
+      "action": "added",
+      "note": "New listing detected: GASTELUM GARCIA, Hildegardo"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38505",
+      "action": "added",
+      "note": "New listing detected: TAJAMMAL, Waseem Pasha"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38506",
+      "action": "added",
+      "note": "New listing detected: CAVALIER DYNAMICS PRIVATE LIMITED"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38507",
+      "action": "added",
+      "note": "New listing detected: CAVALIER DYNAMICS FOR TECHNOLOGIES COMPANY"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38508",
+      "action": "added",
+      "note": "New listing detected: CAVALIER DYNAMICS TEKNOLOJI TICARET ANONIM SIRKETI"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38509",
+      "action": "added",
+      "note": "New listing detected: MIA CENTRO CAMBIARIO, S.A. DE C.V."
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38510",
+      "action": "added",
+      "note": "New listing detected: TABATABAI, Seyyed Asghar Alizadeh"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38511",
+      "action": "added",
+      "note": "New listing detected: CHAPOTIN VILLALBA, Diosvany Samuel"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38512",
+      "action": "added",
+      "note": "New listing detected: MARTINEZ RODRIGUEZ, Pedro Humberto"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38513",
+      "action": "added",
+      "note": "New listing detected: YOCUPICIO YOCUPICIO, Jesus Rafael"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38514",
+      "action": "added",
+      "note": "New listing detected: HUEZO HERNANDEZ, Franklin Ernesto"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38515",
+      "action": "added",
+      "note": "New listing detected: CASTILLO MALDONADO, Lorenzo"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38516",
+      "action": "added",
+      "note": "New listing detected: MENDOZA URIARTE, Jorge Luis"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38517",
+      "action": "added",
+      "note": "New listing detected: MENDOZA URIARTE, Francisco Javier"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38518",
+      "action": "added",
+      "note": "New listing detected: FELIX RIVERA, Ilia Elizabeth"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38519",
+      "action": "added",
+      "note": "New listing detected: VERA AYALA, Jeronimo Javier"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38520",
+      "action": "added",
+      "note": "New listing detected: VERA AYALA, Jorge Mario"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38521",
+      "action": "added",
+      "note": "New listing detected: TORRES TORRES, Carlos Alberto"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38522",
+      "action": "added",
+      "note": "New listing detected: TORRES TORRES, Luis Alfonso"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38523",
+      "action": "added",
+      "note": "New listing detected: MENDIVIL GARCIA, Pedro Ariel"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38524",
+      "action": "added",
+      "note": "New listing detected: MORENO GOMEZ SANTELICES, Marco Antonio"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38525",
+      "action": "added",
+      "note": "New listing detected: VILLELA GOMEZ SANTELICES, Carlos"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38526",
+      "action": "added",
+      "note": "New listing detected: BUENROSTRO MARTIN, Rafael"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38527",
+      "action": "added",
+      "note": "New listing detected: RIVOS SERVICIOS, S.A. DE C.V."
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38528",
+      "action": "added",
+      "note": "New listing detected: SERVICIOS HOTELEROS GASTELUM, S.A. DE C.V."
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38529",
+      "action": "added",
+      "note": "New listing detected: GALERIAS CENTRO CAMBIARIO, S.A. DE C.V."
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38530",
+      "action": "added",
+      "note": "New listing detected: GRUPO GASOLINERO NUEVA ESPERANZA, S. DE R.L. DE C.V."
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38531",
+      "action": "added",
+      "note": "New listing detected: BAJA FIXER GROUP, S.A. DE C.V."
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38532",
+      "action": "added",
+      "note": "New listing detected: INTELIPROOF EFFICIENT, S. DE R.L. DE C.V."
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38533",
+      "action": "added",
+      "note": "New listing detected: PRIVATE EQUITY BAJA S.A.P.I. DE C.V."
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38534",
+      "action": "added",
+      "note": "New listing detected: FESTIVALES ARTISTAS MOBILIARIO ASESORIA, S.A. DE C.V."
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38535",
+      "action": "added",
+      "note": "New listing detected: PRIVATE EQUITY BURSATIL, S.A. DE C.V."
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38536",
+      "action": "added",
+      "note": "New listing detected: CONCIERTOS Y ESPECTACULOS INHOUSE S.A.P.I. DE C.V."
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38537",
+      "action": "added",
+      "note": "New listing detected: WERMAK PUBLIRED, S.A. DE C.V."
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38538",
+      "action": "added",
+      "note": "New listing detected: HOLISTIC WELLWAVES S. DE R.L. DE C.V."
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38539",
+      "action": "added",
+      "note": "New listing detected: PROYECTO ALERTA VERDE, S.A.P.I. DE C.V."
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38540",
+      "action": "added",
+      "note": "New listing detected: VIDEOVIGILANCIA COLABORATIVA, S.A.P.I. DE C.V."
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38541",
+      "action": "added",
+      "note": "New listing detected: LTHINGS MEXICO, S. DE R.L. DE C.V."
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38542",
+      "action": "added",
+      "note": "New listing detected: XOLO GAS DE BAJA CALIFORNIA, S. DE R.L. DE C.V."
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38543",
+      "action": "added",
+      "note": "New listing detected: CODESUAM, S. DE R.L. DE C.V."
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38544",
+      "action": "added",
+      "note": "New listing detected: GRUPO BAJA FIRME, S.A. DE C.V."
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38545",
+      "action": "added",
+      "note": "New listing detected: VIDA ORGANICA TIJUANA, S. DE R.L. DE C.V."
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38546",
+      "action": "added",
+      "note": "New listing detected: EDIFIKA DESARROLLOS BAJA, S. DE R.L. DE C.V."
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38547",
+      "action": "added",
+      "note": "New listing detected: THE WOODS BAR, S. DE R.L. DE C.V."
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38548",
+      "action": "added",
+      "note": "New listing detected: RAES RESTAURANTE S. DE R.L. DE C.V."
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38549",
+      "action": "added",
+      "note": "New listing detected: DISTRIBUIDORA Y COMERCIALIZADORA ATAF"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38550",
+      "action": "added",
+      "note": "New listing detected: PUBLICIDAD E IMAGEN INTEGRAL ENLA-C, S. DE R.L. DE C.V."
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38551",
+      "action": "added",
+      "note": "New listing detected: Katiba al-Tawhid wal-Jihad"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-22448",
+      "action": "removed",
+      "note": "No longer present in source lists: Khatiba al-Tawhid wal-Jihad (KTJ)"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-09239",
+      "action": "modified",
+      "note": "Record updated: MG-FLOT LIMITED LIABILITY COMPANY"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-09794",
+      "action": "modified",
+      "note": "Record updated: RIVERA ZAZUETA, Jose Angel"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-09890",
+      "action": "modified",
+      "note": "Record updated: ARZATE GARCIA, Alfonso"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-09891",
+      "action": "modified",
+      "note": "Record updated: ARZATE GARCIA, Rene"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-11170",
+      "action": "modified",
+      "note": "Record updated: JOINT STOCK COMPANY EXPERIMENTAL DESIGN BUREAU NAMED AFTER A.S. YAKOVLEV"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-19327",
+      "action": "modified",
+      "note": "Record updated: SAHA AIRLINES"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-29759",
+      "action": "modified",
+      "note": "Record updated: Zhi CHEN"
+    },
+    {
+      "date": "2026-09-30",
+      "entity_id": "mtf-38497",
+      "action": "modified",
+      "note": "Record updated: Khatiba Jama'at al-Tawhid wal-Jihad (KTJ)"
     }
   ],
   "note": "Live changelog — append-only history of Monaco Trade Forum sanctions data synchronisations."
