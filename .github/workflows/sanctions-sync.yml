@@ -28,7 +28,6 @@ jobs:
           echo "--- data/sanctions-list.json entry count ---"
           python3 -c "import json; print(len(json.load(open('data/sanctions-list.json'))['entries']))"
           git diff --stat -- data/ || true
-
       - name: Commit updated data back to the repo (audit trail)
         run: |
           git config user.name "mtf-sanctions-sync[bot]"
@@ -40,7 +39,6 @@ jobs:
             git commit -m "Automated sanctions data sync ($(date -u +%Y-%m-%d))"
             git push
           fi
-
       - name: Push updated data to Cloudflare Workers KV
         env:
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
@@ -48,12 +46,26 @@ jobs:
           CF_KV_NAMESPACE_ID: ${{ secrets.CF_KV_NAMESPACE_ID }}
         run: |
           set -uo pipefail
-
           # Defensive trim: a pasted secret sometimes carries a trailing
           # newline or space, which silently breaks the request below.
           CF_ACCOUNT_ID="$(printf '%s' "$CF_ACCOUNT_ID" | tr -d '[:space:]')"
           CF_KV_NAMESPACE_ID="$(printf '%s' "$CF_KV_NAMESPACE_ID" | tr -d '[:space:]')"
           CF_API_TOKEN="$(printf '%s' "$CF_API_TOKEN" | tr -d '[:space:]')"
+
+          # Cloudflare KV rejects values above ~27 MiB (HTTP 413). The files in
+          # the repo are pretty-printed (indent=2) for readable git history;
+          # for KV we send a compact copy of the exact same data.
+          mkdir -p /tmp/kv
+          python3 - <<'PY'
+          import json
+          for name in ("sanctions-list", "sanctions-changelog"):
+              with open("data/%s.json" % name, encoding="utf-8") as f:
+                  data = json.load(f)
+              with open("/tmp/kv/%s.json" % name, "w", encoding="utf-8") as f:
+                  json.dump(data, f, separators=(",", ":"), ensure_ascii=False)
+          PY
+          echo "--- compact sizes sent to KV ---"
+          ls -l /tmp/kv/
 
           push_key () {
             local key_name="$1"
@@ -91,6 +103,5 @@ jobs:
             fi
             echo "OK: ${key_name} written."
           }
-
-          push_key "sanctions-list" "data/sanctions-list.json"
-          push_key "sanctions-changelog" "data/sanctions-changelog.json"
+          push_key "sanctions-list" "/tmp/kv/sanctions-list.json"
+          push_key "sanctions-changelog" "/tmp/kv/sanctions-changelog.json"
