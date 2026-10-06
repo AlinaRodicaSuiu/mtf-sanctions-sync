@@ -383707,6 +383707,858 @@
       "entity_id": "mtf-22166",
       "action": "modified",
       "note": "Record updated: MOEX"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-38644",
+      "action": "added",
+      "note": "New listing detected: PALMA SALAZAR, Jesus Hector"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-38645",
+      "action": "added",
+      "note": "New listing detected: ARELLANO FELIX, Eduardo"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00480",
+      "action": "removed",
+      "note": "No longer present in source lists: PALMA SALAZAR, Hector Luis"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00687",
+      "action": "removed",
+      "note": "No longer present in source lists: ARELLANO FELIX, Eduardo Ramon"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00723",
+      "action": "removed",
+      "note": "No longer present in source lists: ABBAS, Abdul Hussein"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00724",
+      "action": "removed",
+      "note": "No longer present in source lists: AHMAD, Rasem"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00725",
+      "action": "removed",
+      "note": "No longer present in source lists: AHMAD, Wallid Issa"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00726",
+      "action": "removed",
+      "note": "No longer present in source lists: AL-AMIRI, Adnan Talib Hassim"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00729",
+      "action": "removed",
+      "note": "No longer present in source lists: AL-AZAWI, Dafir"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00730",
+      "action": "removed",
+      "note": "No longer present in source lists: AL-BAZZAZ, Hikmet Abdallah"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00731",
+      "action": "removed",
+      "note": "No longer present in source lists: AL-DAJANI, Leila N.S."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00732",
+      "action": "removed",
+      "note": "No longer present in source lists: AL-DAJANI, Nadim S."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00733",
+      "action": "removed",
+      "note": "No longer present in source lists: AL-DAJANI, Sa'ad"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00734",
+      "action": "removed",
+      "note": "No longer present in source lists: AL-HAMMADI, Hamid Yusif"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00736",
+      "action": "removed",
+      "note": "No longer present in source lists: AL-JABBURI, Sadi Tuma Abbas"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00738",
+      "action": "removed",
+      "note": "No longer present in source lists: AL-MAJID, Hussein Kamel Hassan"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00740",
+      "action": "removed",
+      "note": "No longer present in source lists: AL-QASIR, Nazar Jumah Ali"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00742",
+      "action": "removed",
+      "note": "No longer present in source lists: AL-RUBA, Dr. Khadim"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00744",
+      "action": "removed",
+      "note": "No longer present in source lists: AL-ZIBARI, Arshad Muhammad Ahmad Muhammad"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00745",
+      "action": "removed",
+      "note": "No longer present in source lists: ALAWI, Abdel-Salam Abdel-Rahman"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00746",
+      "action": "removed",
+      "note": "No longer present in source lists: ALWAN, Allaidin Hussain"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00747",
+      "action": "removed",
+      "note": "No longer present in source lists: AMD CO. LTD AGENCY"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00748",
+      "action": "removed",
+      "note": "No longer present in source lists: ARAB PROJECTS COMPANY S.A. LTD."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00749",
+      "action": "removed",
+      "note": "No longer present in source lists: ATIA, Hachim K."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00750",
+      "action": "removed",
+      "note": "No longer present in source lists: DAGHIR, Ali Ashour"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00751",
+      "action": "removed",
+      "note": "No longer present in source lists: DURAND PROPERTIES LIMITED"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00753",
+      "action": "removed",
+      "note": "No longer present in source lists: FARTRADE HOLDINGS S.A."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00754",
+      "action": "removed",
+      "note": "No longer present in source lists: FATTAH, Jum'a Abdul"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00755",
+      "action": "removed",
+      "note": "No longer present in source lists: HABIB, Mohammed Turki"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00756",
+      "action": "removed",
+      "note": "No longer present in source lists: HELFORD DIRECTORS LIMITED"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00757",
+      "action": "removed",
+      "note": "No longer present in source lists: JASIM, Latif Nusayyif"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00758",
+      "action": "removed",
+      "note": "No longer present in source lists: JON, Hana Paul"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00759",
+      "action": "removed",
+      "note": "No longer present in source lists: JUME'AN, George"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00760",
+      "action": "removed",
+      "note": "No longer present in source lists: KARAGHULLY, Labeed A."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00761",
+      "action": "removed",
+      "note": "No longer present in source lists: KHALIL, Dr. Ahmad Murtada Ahmad"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00762",
+      "action": "removed",
+      "note": "No longer present in source lists: MALIK, Assim Mohammed Rafiq Abdul"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00763",
+      "action": "removed",
+      "note": "No longer present in source lists: MOHAMED, Abdul Kader Ibrahim"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00765",
+      "action": "removed",
+      "note": "No longer present in source lists: NAMAN, Saalim"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00766",
+      "action": "removed",
+      "note": "No longer present in source lists: OMRAN, Karim Dhaidas"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00767",
+      "action": "removed",
+      "note": "No longer present in source lists: RZOOKI, Hanna"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00770",
+      "action": "removed",
+      "note": "No longer present in source lists: TALL, Aktham"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00771",
+      "action": "removed",
+      "note": "No longer present in source lists: TARIQ ABU SHANAB EST. FOR TRADE & COMMERCE"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00773",
+      "action": "removed",
+      "note": "No longer present in source lists: TIGRIS TRADING, INC."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00774",
+      "action": "removed",
+      "note": "No longer present in source lists: ZAHRAN, Yousuf"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00775",
+      "action": "removed",
+      "note": "No longer present in source lists: ZAINAL, Akram"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00788",
+      "action": "removed",
+      "note": "No longer present in source lists: HERNANDEZ ZEA, Luis Antonio"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00789",
+      "action": "removed",
+      "note": "No longer present in source lists: ACCIRENT S.A."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00790",
+      "action": "removed",
+      "note": "No longer present in source lists: AEROCOMERCIAL ALAS DE COLOMBIA LTDA."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00791",
+      "action": "removed",
+      "note": "No longer present in source lists: AEROVIAS ATLANTICO LTDA."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00792",
+      "action": "removed",
+      "note": "No longer present in source lists: ASOCIACION TURISTICA INTERNACIONAL S.C.S."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00793",
+      "action": "removed",
+      "note": "No longer present in source lists: CIA. CONSTRUCTORA Y COMERCIALIZADORA DEL SUR LTDA."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00794",
+      "action": "removed",
+      "note": "No longer present in source lists: DESARROLLOS AGROINDUSTRIALES S.A."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00795",
+      "action": "removed",
+      "note": "No longer present in source lists: GREEN ISLAND S.A."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00796",
+      "action": "removed",
+      "note": "No longer present in source lists: INTERCONTINENTAL DE FINANCIACION AEREA  S.A."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00797",
+      "action": "removed",
+      "note": "No longer present in source lists: INVERSIONES Y COMERCIALIZADORA INCOM LTDA."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00798",
+      "action": "removed",
+      "note": "No longer present in source lists: LARGO LEASING LTD."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00799",
+      "action": "removed",
+      "note": "No longer present in source lists: TRANS PACIFIC WORLD LEASING LIMITED"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00800",
+      "action": "removed",
+      "note": "No longer present in source lists: VELEZ RENGIFO, Piedad"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00801",
+      "action": "removed",
+      "note": "No longer present in source lists: ARCE JARAMILLO, Melba Rosa"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-00926",
+      "action": "removed",
+      "note": "No longer present in source lists: QUINTERO SANCLEMENTE, Ramon Alberto"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01000",
+      "action": "removed",
+      "note": "No longer present in source lists: CANO CORREA, Jhon Eidelber"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01005",
+      "action": "removed",
+      "note": "No longer present in source lists: CANO AGUDELO S EN C"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01102",
+      "action": "removed",
+      "note": "No longer present in source lists: ZULUAGA LINDO, Francisco Javier"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01104",
+      "action": "removed",
+      "note": "No longer present in source lists: SOCIEDAD SUPERDEPORTES LTDA."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01418",
+      "action": "removed",
+      "note": "No longer present in source lists: LOPEZ OSPINA, Carlos Antonio"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01419",
+      "action": "removed",
+      "note": "No longer present in source lists: JACOME DEL VALLE, Omar Alfredo"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01420",
+      "action": "removed",
+      "note": "No longer present in source lists: VASQUEZ VALENCIA, Natalia Andrea"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01421",
+      "action": "removed",
+      "note": "No longer present in source lists: SUAZA BARCO, Maria del Carmen"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01422",
+      "action": "removed",
+      "note": "No longer present in source lists: SANCHEZ RIVERA, Doris Patricia"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01423",
+      "action": "removed",
+      "note": "No longer present in source lists: PEREZ MONTERO, Maria Marcela del Pilar"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01424",
+      "action": "removed",
+      "note": "No longer present in source lists: SANCHEZ MARTELL, Julio Cesar Jassan Estuardo"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01425",
+      "action": "removed",
+      "note": "No longer present in source lists: MUNERA VELASQUEZ, Martha Marina"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01426",
+      "action": "removed",
+      "note": "No longer present in source lists: MEJIA ARTEAGA, Nora"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01427",
+      "action": "removed",
+      "note": "No longer present in source lists: HERNANDEZ MEJIA, Jorge Alberto"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01428",
+      "action": "removed",
+      "note": "No longer present in source lists: DURAN PORRAS, Gloria Amparo"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01429",
+      "action": "removed",
+      "note": "No longer present in source lists: BERMUDEZ SUAZA, Pedro Antonio"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01430",
+      "action": "removed",
+      "note": "No longer present in source lists: CONSULTORIA EN CAMBIOS FALCON S.A. DE C.V."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01431",
+      "action": "removed",
+      "note": "No longer present in source lists: HIERROS DE JERUSALEM S.A."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01432",
+      "action": "removed",
+      "note": "No longer present in source lists: TAXI AEREO ANTIOQUENO S.A."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01433",
+      "action": "removed",
+      "note": "No longer present in source lists: LLANOTOUR LTDA."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01434",
+      "action": "removed",
+      "note": "No longer present in source lists: AGROGANADERA LOS SANTOS S.A."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01435",
+      "action": "removed",
+      "note": "No longer present in source lists: AGROESPINAL S.A."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01436",
+      "action": "removed",
+      "note": "No longer present in source lists: AERONAUTICA CONDOR S.A. DE C.V."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01437",
+      "action": "removed",
+      "note": "No longer present in source lists: AERONAUTICA CONDOR DE PANAMA, S.A."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01438",
+      "action": "removed",
+      "note": "No longer present in source lists: GRUPO FALCON DE PANAMA, S.A."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01439",
+      "action": "removed",
+      "note": "No longer present in source lists: GRUPO FALCON S.A."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01440",
+      "action": "removed",
+      "note": "No longer present in source lists: GRUPO GUADALEST S.A. DE C.V."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01441",
+      "action": "removed",
+      "note": "No longer present in source lists: FRANZUL S.A."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01442",
+      "action": "removed",
+      "note": "No longer present in source lists: CONSTRUCTORA GUADALEST S.A."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01443",
+      "action": "removed",
+      "note": "No longer present in source lists: ASES DE COMPETENCIA Y CIA. S.A."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01458",
+      "action": "removed",
+      "note": "No longer present in source lists: KADDOURA, Ali Ahmad"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01459",
+      "action": "removed",
+      "note": "No longer present in source lists: HENAO JARAMILLO, Mario Alberto"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01460",
+      "action": "removed",
+      "note": "No longer present in source lists: ABDUL RAHIM, Ali Mohamad"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01461",
+      "action": "removed",
+      "note": "No longer present in source lists: ALVARADO, Imad Abdul Rahim"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01462",
+      "action": "removed",
+      "note": "No longer present in source lists: DIB EL MALT, Abdul Naser"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01463",
+      "action": "removed",
+      "note": "No longer present in source lists: MADRID FRANCO, Cecilia"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01464",
+      "action": "removed",
+      "note": "No longer present in source lists: CANAS PULIDO, Ramon Alberto"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01465",
+      "action": "removed",
+      "note": "No longer present in source lists: GONZALEZ HOYOS, Carlos Enrique"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01466",
+      "action": "removed",
+      "note": "No longer present in source lists: VARELA BUSTOS, Fernando"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01467",
+      "action": "removed",
+      "note": "No longer present in source lists: HARB, Chekri Mahmoud"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01468",
+      "action": "removed",
+      "note": "No longer present in source lists: ACOSTA SERNA, Robinson Duvan"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01469",
+      "action": "removed",
+      "note": "No longer present in source lists: ACOSTA SERNA, Oscar Alonso"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01470",
+      "action": "removed",
+      "note": "No longer present in source lists: RINCON ORDONEZ, Jorge Enrique"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01471",
+      "action": "removed",
+      "note": "No longer present in source lists: FLOREZ UPEGUI, Francisco Antonio"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01472",
+      "action": "removed",
+      "note": "No longer present in source lists: VARIEDADES HARB SPORT"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01473",
+      "action": "removed",
+      "note": "No longer present in source lists: ALMACEN FUTURO NO. 1"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01474",
+      "action": "removed",
+      "note": "No longer present in source lists: COMERCIAL JINAN S.A."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01475",
+      "action": "removed",
+      "note": "No longer present in source lists: CANALES VENECIA LTDA."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01476",
+      "action": "removed",
+      "note": "No longer present in source lists: FLOREZ HERMANOS LTDA."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01549",
+      "action": "removed",
+      "note": "No longer present in source lists: TASCON ROJAS, Servio Tulio"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01550",
+      "action": "removed",
+      "note": "No longer present in source lists: SAAVEDRA ARCE, Rodrigo Eugenio"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01551",
+      "action": "removed",
+      "note": "No longer present in source lists: GUTIERREZ AGUIRRE, Duffay"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01552",
+      "action": "removed",
+      "note": "No longer present in source lists: CIFUENTES VARGAS, Yanet"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01553",
+      "action": "removed",
+      "note": "No longer present in source lists: CIFUENTES VARGAS, Orlando"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01554",
+      "action": "removed",
+      "note": "No longer present in source lists: UNIVISA S.A."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01555",
+      "action": "removed",
+      "note": "No longer present in source lists: SERVIAGRICOLA CIFUENTES E.U."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01556",
+      "action": "removed",
+      "note": "No longer present in source lists: SAAVEDRA Y CIA. S. EN C."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01557",
+      "action": "removed",
+      "note": "No longer present in source lists: RESTAURANTE BAR PUNTA DEL ESTE"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01558",
+      "action": "removed",
+      "note": "No longer present in source lists: BOSQUE DE SANTA TERESITA LTDA."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01559",
+      "action": "removed",
+      "note": "No longer present in source lists: ALIMENTOS CARNICOS DE TRADICION ESPANOLA LTDA."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01720",
+      "action": "removed",
+      "note": "No longer present in source lists: RAMIREZ DUQUE, Carlos Manuel"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01721",
+      "action": "removed",
+      "note": "No longer present in source lists: CASTRO JARAMILLO, Monica Maria"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01722",
+      "action": "removed",
+      "note": "No longer present in source lists: RODRIGUEZ FERNANDEZ, Andre"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01723",
+      "action": "removed",
+      "note": "No longer present in source lists: MASA FACIL, S.A. DE C.V."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-01724",
+      "action": "removed",
+      "note": "No longer present in source lists: COMERCIALIZADORA DE GANADO Y RENTAS DE CAPITAL S.A."
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-04279",
+      "action": "removed",
+      "note": "No longer present in source lists: LUCENA RAMIREZ, Tibisay"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-04297",
+      "action": "removed",
+      "note": "No longer present in source lists: VIVAS VELASCO, Ramon Dario"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-05765",
+      "action": "removed",
+      "note": "No longer present in source lists: GARCIA CARNEIRO, Jorge Luis"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-07499",
+      "action": "removed",
+      "note": "No longer present in source lists: AURAMENKA, Aliaksei Mikalaevich"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-37169",
+      "action": "removed",
+      "note": "No longer present in source lists: Houmam Jazai'iri"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-37170",
+      "action": "removed",
+      "note": "No longer present in source lists: Humam al Jazaeri"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-37171",
+      "action": "removed",
+      "note": "No longer present in source lists: Hammam al Jazairi"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-37172",
+      "action": "removed",
+      "note": "No longer present in source lists: Hummam Aljazaeri"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-37173",
+      "action": "removed",
+      "note": "No longer present in source lists: Hammam al-Jazaeri"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-37174",
+      "action": "removed",
+      "note": "No longer present in source lists: Houmam al-Jazaeri"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-37175",
+      "action": "removed",
+      "note": "No longer present in source lists: Houmam al-Jazairi"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-37176",
+      "action": "removed",
+      "note": "No longer present in source lists: Humam al-Jazairi"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-37177",
+      "action": "removed",
+      "note": "No longer present in source lists: Hammam Jazai'iri"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-37178",
+      "action": "removed",
+      "note": "No longer present in source lists: Humam Jazai'iri"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-13861",
+      "action": "modified",
+      "note": "Record updated: JAMES II"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-15067",
+      "action": "modified",
+      "note": "Record updated: DA LI"
+    },
+    {
+      "date": "2026-10-06",
+      "entity_id": "mtf-29759",
+      "action": "modified",
+      "note": "Record updated: Zhi Chen"
     }
   ],
   "note": "Live changelog — append-only history of Monaco Trade Forum sanctions data synchronisations."
