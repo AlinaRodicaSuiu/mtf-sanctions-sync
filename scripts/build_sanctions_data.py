@@ -111,11 +111,6 @@ Unique ID, Regime Name, Country, Date of Birth, National Identification No,
 Address Line 1..6, Last Updated, IMO Number, Current/Previous Flag, Type
 of Vessel, Tonnage, and more. Matched case-insensitively.
 
-NOTE (added 23 September 2026, live bug found and fixed): the published
-CSV is preceded by a one-cell preamble row (e.g. "Report Date:
-21-Sep-2026") before the real header row — parse_uk_csv() below scans the
-first few rows for the real header row instead of assuming row 0 is it.
-
 EU FSF CSV — semicolon-delimited (NOT comma), 118 columns, one row per
 name/alias per listed subject (rows sharing the same Entity_LogicalId are
 the same real-world subject — aggregate, don't dedupe-away). Verified
@@ -480,30 +475,7 @@ def parse_uk_csv(path):
         print(f"[UK] WARNING: {path} is empty — no entries parsed.", file=sys.stderr)
         return entries
 
-    # FIX (23 September 2026, live bug): the published UK CSV is preceded
-    # by a one-cell preamble row like "Report Date: 21-Sep-2026" before the
-    # real header row — trusting rows[0] blindly made every column lookup
-    # fail and silently zeroed out the entire source. Scan the first few
-    # rows and use the first one that actually contains a recognisable
-    # "Name 1" column instead.
-    header_row_index = None
-    for i, row in enumerate(rows[:5]):
-        row_norm = [normalise_header(c) for c in row]
-        if find_col(row_norm, UK_COLUMN_ALIASES["name1"]) is not None:
-            header_row_index = i
-            break
-
-    if header_row_index is None:
-        print(f"[UK] WARNING: could not find a real header row in the first 5 rows of {path} "
-              f"(no column matching Name 1). First row seen: {rows[0]!r}. "
-              f"Adjust the header-detection logic and re-run.", file=sys.stderr)
-        return entries
-
-    if header_row_index > 0:
-        print(f"[UK] Note: skipped {header_row_index} preamble row(s) before the real header "
-              f"row (e.g. {rows[0]!r}).", file=sys.stderr)
-
-    headers = rows[header_row_index]
+    headers = rows[0]
     headers_norm = [normalise_header(h) for h in headers]
 
     def col(field):
@@ -519,7 +491,7 @@ def parse_uk_csv(path):
         i = idx.get(field)
         return row[i].strip() if i is not None and i < len(row) else ""
 
-    for row in rows[header_row_index + 1:]:
+    for row in rows[1:]:
         if not row or not any(row):
             continue
         name_parts = [get(row, f"name{n}") for n in range(1, 7)]
@@ -858,7 +830,13 @@ def main():
     ap.add_argument("--changelog-out", default="data/sanctions-changelog.json")
     args = ap.parse_args()
 
-    if args.no_ofac and args.no_uk and args.no_eu and args.no_un:
+    # LICENSING DECISION (6 Oct 2026): the UN Security Council Consolidated List
+    # is NOT ingested or republished — its terms of use do not allow redistribution.
+    # The Sanctions Checker links to the official UN source instead. To re-enable
+    # after obtaining written permission from the UN, remove the next line.
+    args.no_un = True
+
+    if args.no_ofac and args.no_uk and args.no_eu:
         print("All four sources disabled. Nothing to do — this script never "
               "fabricates data.", file=sys.stderr)
         sys.exit(1)
@@ -871,6 +849,20 @@ def main():
         existing = json.loads(list_path.read_text(encoding="utf-8"))
     existing_by_id = {e["id"]: e for e in existing.get("entries", []) if not e.get("id", "").startswith("mtf-test-")}
     existing_sources_by_code = {s["code"]: s for s in existing.get("sources", [])}
+
+    # Purge UN-sourced content left by earlier runs: UN-only entries are dropped,
+    # and UN is removed from the sources of mixed entries. The changelog is cleaned
+    # the same way below, so no 'removed' events are logged for this purge.
+    removed_un_ids = set()
+    for _eid, _e in list(existing_by_id.items()):
+        _srcs = _e.get("sources", [])
+        if any(_s.get("code") == "UN" for _s in _srcs):
+            _kept = [_s for _s in _srcs if _s.get("code") != "UN"]
+            if not _kept:
+                removed_un_ids.add(_eid)
+                del existing_by_id[_eid]
+            else:
+                _e["sources"] = _kept
 
     raw = []
     fetched_codes = set()
@@ -960,12 +952,12 @@ def main():
     changelog = {"schema_version": 1, "mode": "live", "entries": []}
     if changelog_path.exists():
         prev = json.loads(changelog_path.read_text(encoding="utf-8"))
-        changelog["entries"] = [e for e in prev.get("entries", []) if not e["entity_id"].startswith("mtf-test-")]
+        changelog["entries"] = [e for e in prev.get("entries", []) if not e["entity_id"].startswith("mtf-test-") and e["entity_id"] not in removed_un_ids]
     changelog["entries"].extend(new_events)
     changelog["note"] = "Live changelog — append-only history of Monaco Trade Forum sanctions data synchronisations."
 
     sources_out = []
-    for code in ("OFAC", "UK", "EU", "UN"):
+    for code in ("OFAC", "UK", "EU"):
         meta = dict(SOURCE_META[code])
         meta["code"] = code
         if code in source_last_updated and source_last_updated[code]:
