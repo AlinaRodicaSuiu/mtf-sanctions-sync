@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "mode": "live",
-  "last_synchronised": "2026-10-06",
+  "last_synchronised": "2026-10-07",
   "note": "Live data, normalised and deduplicated by Monaco Trade Forum from the sources listed below.",
   "sources": [
     {
@@ -19,7 +19,7 @@
       "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list",
       "license": "Open Government Licence v3.0",
       "code": "UK",
-      "last_updated": "Tue, 06 Oct 2026 10:01:28 GMT",
+      "last_updated": "Wed, 07 Oct 2026 09:29:15 GMT",
       "fetched_this_run": true
     },
     {
