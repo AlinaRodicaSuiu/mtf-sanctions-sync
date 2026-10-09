@@ -475741,6 +475741,348 @@
       "entity_id": "mtf-22166",
       "action": "modified",
       "note": "Record updated: MOEX"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38646",
+      "action": "added",
+      "note": "New listing detected: PARITOSH SHIPPING INC."
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38647",
+      "action": "added",
+      "note": "New listing detected: ORNELLA SHIPPING INC."
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38648",
+      "action": "added",
+      "note": "New listing detected: HECHUANG INTERNATIONAL GROUP LIMITED"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38649",
+      "action": "added",
+      "note": "New listing detected: JLS DRAGON COMPANY LIMITED"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38650",
+      "action": "added",
+      "note": "New listing detected: KANHA SHIPPING INC"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38651",
+      "action": "added",
+      "note": "New listing detected: SHUNHANG SHIP MANAGEMENT LIMITED"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38652",
+      "action": "added",
+      "note": "New listing detected: SAINT ABUNDANT INTERNATIONAL CO LTD"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38653",
+      "action": "added",
+      "note": "New listing detected: TERRA NAV SHIPPING LTD"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38654",
+      "action": "added",
+      "note": "New listing detected: G SPRING"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38655",
+      "action": "added",
+      "note": "New listing detected: PARITOSH"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38656",
+      "action": "added",
+      "note": "New listing detected: KANHA"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38657",
+      "action": "added",
+      "note": "New listing detected: KING CHAIN"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38658",
+      "action": "added",
+      "note": "New listing detected: POLAR"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38659",
+      "action": "added",
+      "note": "New listing detected: BITU"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38660",
+      "action": "added",
+      "note": "New listing detected: STARWAY"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38661",
+      "action": "added",
+      "note": "New listing detected: GAS LUCKY"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38662",
+      "action": "added",
+      "note": "New listing detected: YASHAR"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38663",
+      "action": "added",
+      "note": "New listing detected: HORIZON SHIP MANAGEMENT FZE"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38664",
+      "action": "added",
+      "note": "New listing detected: ARABIANPRO MATERIALS FZCO"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38665",
+      "action": "added",
+      "note": "New listing detected: SSPL SOLUTIONS PRIVATE LIMITED"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38666",
+      "action": "added",
+      "note": "New listing detected: VORA, Dhwani Nisarg"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38667",
+      "action": "added",
+      "note": "New listing detected: VORA, Nisarg Samir"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38668",
+      "action": "added",
+      "note": "New listing detected: TUTER PLASTIK SANAYI VE TICARET LIMITED SIRKETI"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38669",
+      "action": "added",
+      "note": "New listing detected: BGZ DIS TICARET LIMITED SIRKETI"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38670",
+      "action": "added",
+      "note": "New listing detected: PADIDEH PLASTIC POSHTIBAN COMPANY"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38671",
+      "action": "added",
+      "note": "New listing detected: NOORZAD PETROKIMYA URUNLERI NAKLIYE SANAYI VE TICARET LIMITED SIRKETI"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38672",
+      "action": "added",
+      "note": "New listing detected: NOORZAD, Said Ahmad"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38673",
+      "action": "added",
+      "note": "New listing detected: ONE PLUS INTERNATIONAL CO LTD"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38674",
+      "action": "added",
+      "note": "New listing detected: YONG TAI"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38675",
+      "action": "added",
+      "note": "New listing detected: HESSONITE SHIP MANAGEMENT LLC"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38676",
+      "action": "added",
+      "note": "New listing detected: ARGO MARIS"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38677",
+      "action": "added",
+      "note": "New listing detected: BLACK MAYA"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38678",
+      "action": "added",
+      "note": "New listing detected: ATHE NOVA"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38679",
+      "action": "added",
+      "note": "New listing detected: SAMUDRA MARINE SERVICES PRIVATE LIMITED"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38680",
+      "action": "added",
+      "note": "New listing detected: KOCHIKAR, Ketan Manohar"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38681",
+      "action": "added",
+      "note": "New listing detected: SAHU, Bhupendrasingh Dhalsingh"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38682",
+      "action": "added",
+      "note": "New listing detected: CHUNDAKATTIL, Harishyam Hariharan"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38683",
+      "action": "added",
+      "note": "New listing detected: TINA 5"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38684",
+      "action": "added",
+      "note": "New listing detected: NOSTALGIA CO., LTD"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38685",
+      "action": "added",
+      "note": "New listing detected: GRAVION MARITIME CO."
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38686",
+      "action": "added",
+      "note": "New listing detected: SOGL"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38687",
+      "action": "added",
+      "note": "New listing detected: BETTA SHIPPING INC"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38688",
+      "action": "added",
+      "note": "New listing detected: MAKARUA SHIPPING LTD"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38689",
+      "action": "added",
+      "note": "New listing detected: GODDESS SHIPPING CORP."
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38690",
+      "action": "added",
+      "note": "New listing detected: STANDWILL SHIPPING LIMITED"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38691",
+      "action": "added",
+      "note": "New listing detected: MACKEREL"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38692",
+      "action": "added",
+      "note": "New listing detected: GAS MARAKUA"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38693",
+      "action": "added",
+      "note": "New listing detected: ZIXUAN"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38694",
+      "action": "added",
+      "note": "New listing detected: AVA 6"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38695",
+      "action": "added",
+      "note": "New listing detected: SCIENCE RU TRADING CO LTD"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38696",
+      "action": "added",
+      "note": "New listing detected: NORTHPORT NAVIGATION INC."
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38697",
+      "action": "added",
+      "note": "New listing detected: BRICH SHIPPING COMPANY LIMITED"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38698",
+      "action": "added",
+      "note": "New listing detected: NOBLE SEA"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38699",
+      "action": "added",
+      "note": "New listing detected: SHENZHEN"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-38700",
+      "action": "added",
+      "note": "New listing detected: EXFLAME"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-17450",
+      "action": "removed",
+      "note": "No longer present in source lists: HAKUNA MATATA"
+    },
+    {
+      "date": "2026-10-09",
+      "entity_id": "mtf-17453",
+      "action": "removed",
+      "note": "No longer present in source lists: PINOCCHIO"
     }
   ],
   "note": "Live changelog — append-only history of Monaco Trade Forum sanctions data synchronisations."

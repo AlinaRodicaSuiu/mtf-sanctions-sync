@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "mode": "live",
-  "last_synchronised": "2026-10-08",
+  "last_synchronised": "2026-10-09",
   "note": "Live data, normalised and deduplicated by Monaco Trade Forum from the sources listed below.",
   "sources": [
     {
@@ -10,7 +10,7 @@
       "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList",
       "license": "U.S. Government work — public domain (17 U.S.C. §105)",
       "code": "OFAC",
-      "last_updated": "Mon, 05 Oct 2026 19:35:12 GMT",
+      "last_updated": "Thu, 08 Oct 2026 16:47:33 GMT",
       "fetched_this_run": true
     },
     {
@@ -19,7 +19,7 @@
       "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list",
       "license": "Open Government Licence v3.0",
       "code": "UK",
-      "last_updated": "Wed, 07 Oct 2026 09:29:15 GMT",
+      "last_updated": "Thu, 08 Oct 2026 14:31:21 GMT",
       "fetched_this_run": true
     },
     {
@@ -349494,26 +349494,6 @@
       ]
     },
     {
-      "id": "mtf-17450",
-      "type": "vessel",
-      "name": "HAKUNA MATATA",
-      "aliases": [],
-      "country": null,
-      "program": "IRAN-EO13902",
-      "listing_date": null,
-      "imo": "9354167",
-      "flag": "Liberia",
-      "vessel_type": "Container Ship",
-      "identifiers": [],
-      "sources": [
-        {
-          "code": "OFAC",
-          "source_id": "SDN-54931",
-          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
-        }
-      ]
-    },
-    {
       "id": "mtf-17451",
       "type": "vessel",
       "name": "LIDIA",
@@ -349549,26 +349529,6 @@
         {
           "code": "OFAC",
           "source_id": "SDN-54933",
-          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
-        }
-      ]
-    },
-    {
-      "id": "mtf-17453",
-      "type": "vessel",
-      "name": "PINOCCHIO",
-      "aliases": [],
-      "country": null,
-      "program": "IRAN-EO13902",
-      "listing_date": null,
-      "imo": "9400112",
-      "flag": "Liberia",
-      "vessel_type": "Container Ship",
-      "identifiers": [],
-      "sources": [
-        {
-          "code": "OFAC",
-          "source_id": "SDN-54934",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]
@@ -387167,6 +387127,46 @@
       ]
     },
     {
+      "id": "mtf-38646",
+      "type": "entity",
+      "name": "PARITOSH SHIPPING INC.",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58460",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38647",
+      "type": "entity",
+      "name": "ORNELLA SHIPPING INC.",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58461",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
       "id": "mtf-19296",
       "type": "entity",
       "name": "MASAR BADIL",
@@ -387222,6 +387222,286 @@
         {
           "code": "OFAC",
           "source_id": "SDN-58464",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38648",
+      "type": "entity",
+      "name": "HECHUANG INTERNATIONAL GROUP LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58466",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38649",
+      "type": "entity",
+      "name": "JLS DRAGON COMPANY LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58467",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38650",
+      "type": "entity",
+      "name": "KANHA SHIPPING INC",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58468",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38651",
+      "type": "entity",
+      "name": "SHUNHANG SHIP MANAGEMENT LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58469",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38652",
+      "type": "entity",
+      "name": "SAINT ABUNDANT INTERNATIONAL CO LTD",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58470",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38653",
+      "type": "entity",
+      "name": "TERRA NAV SHIPPING LTD",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58471",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38654",
+      "type": "vessel",
+      "name": "G SPRING",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": "9040118",
+      "flag": "Mongolia",
+      "vessel_type": "LPG Tanker",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58473",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38655",
+      "type": "vessel",
+      "name": "PARITOSH",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": "9383352",
+      "flag": "Comoros",
+      "vessel_type": "Asphalt/Bitumen Tanker",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58474",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38656",
+      "type": "vessel",
+      "name": "KANHA",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": "9308766",
+      "flag": "Palau",
+      "vessel_type": "Products Tanker",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58475",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38657",
+      "type": "vessel",
+      "name": "KING CHAIN",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": "9277761",
+      "flag": "Cameroon",
+      "vessel_type": "Crude/Oil Products Tanker",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58476",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38658",
+      "type": "vessel",
+      "name": "POLAR",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": "9050187",
+      "flag": "Tanzania",
+      "vessel_type": "LPG Tanker",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58477",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38659",
+      "type": "vessel",
+      "name": "BITU",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": "9531765",
+      "flag": "Panama",
+      "vessel_type": "Asphalt/Bitumen Tanker",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58478",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38660",
+      "type": "vessel",
+      "name": "STARWAY",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": "9273246",
+      "flag": "Panama",
+      "vessel_type": "Chemical/Products Tanker",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58479",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38661",
+      "type": "vessel",
+      "name": "GAS LUCKY",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": "9177557",
+      "flag": "Bahamas",
+      "vessel_type": "LPG Tanker",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58480",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]
@@ -389267,6 +389547,86 @@
       ]
     },
     {
+      "id": "mtf-38662",
+      "type": "vessel",
+      "name": "YASHAR",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13846",
+      "listing_date": null,
+      "imo": "9129380",
+      "flag": "Comoros",
+      "vessel_type": "LPG Tanker",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58715",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38663",
+      "type": "entity",
+      "name": "HORIZON SHIP MANAGEMENT FZE",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13846",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58716",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38664",
+      "type": "entity",
+      "name": "ARABIANPRO MATERIALS FZCO",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13846",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58717",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38665",
+      "type": "entity",
+      "name": "SSPL SOLUTIONS PRIVATE LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13846",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58718",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
       "id": "mtf-38531",
       "type": "entity",
       "name": "BAJA FIXER GROUP, S.A. DE C.V.",
@@ -389447,6 +389807,26 @@
       ]
     },
     {
+      "id": "mtf-38666",
+      "type": "person",
+      "name": "VORA, Dhwani Nisarg",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13846",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58728",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
       "id": "mtf-38540",
       "type": "entity",
       "name": "VIDEOVIGILANCIA COLABORATIVA, S.A.P.I. DE C.V.",
@@ -389567,6 +389947,26 @@
       ]
     },
     {
+      "id": "mtf-38667",
+      "type": "person",
+      "name": "VORA, Nisarg Samir",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13846",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58735",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
       "id": "mtf-38546",
       "type": "entity",
       "name": "EDIFIKA DESARROLLOS BAJA, S. DE R.L. DE C.V.",
@@ -389662,6 +390062,306 @@
         {
           "code": "OFAC",
           "source_id": "SDN-58740",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38668",
+      "type": "entity",
+      "name": "TUTER PLASTIK SANAYI VE TICARET LIMITED SIRKETI",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13846",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58741",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38669",
+      "type": "entity",
+      "name": "BGZ DIS TICARET LIMITED SIRKETI",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13846",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58742",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38670",
+      "type": "entity",
+      "name": "PADIDEH PLASTIC POSHTIBAN COMPANY",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13846",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58743",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38671",
+      "type": "entity",
+      "name": "NOORZAD PETROKIMYA URUNLERI NAKLIYE SANAYI VE TICARET LIMITED SIRKETI",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13846",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58744",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38672",
+      "type": "person",
+      "name": "NOORZAD, Said Ahmad",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13846",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58745",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38673",
+      "type": "entity",
+      "name": "ONE PLUS INTERNATIONAL CO LTD",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13846",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58746",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38674",
+      "type": "vessel",
+      "name": "YONG TAI",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13846",
+      "listing_date": null,
+      "imo": "9231511",
+      "flag": "Gambia",
+      "vessel_type": "Oil Products Tanker",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58748",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38675",
+      "type": "entity",
+      "name": "HESSONITE SHIP MANAGEMENT LLC",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13846",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58749",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38676",
+      "type": "vessel",
+      "name": "ARGO MARIS",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13846",
+      "listing_date": null,
+      "imo": "9041643",
+      "flag": "Honduras",
+      "vessel_type": "Asphalt/Bitumen Tanker",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58750",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38677",
+      "type": "vessel",
+      "name": "BLACK MAYA",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13846",
+      "listing_date": null,
+      "imo": "9118800",
+      "flag": "Honduras",
+      "vessel_type": "Asphalt/Bitumen Tanker",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58751",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38678",
+      "type": "vessel",
+      "name": "ATHE NOVA",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13846",
+      "listing_date": null,
+      "imo": "9188116",
+      "flag": "Honduras",
+      "vessel_type": "Asphalt/Bitumen Tanker",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58752",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38679",
+      "type": "entity",
+      "name": "SAMUDRA MARINE SERVICES PRIVATE LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13846",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58754",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38680",
+      "type": "person",
+      "name": "KOCHIKAR, Ketan Manohar",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13846",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58755",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38681",
+      "type": "person",
+      "name": "SAHU, Bhupendrasingh Dhalsingh",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13846",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58758",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38682",
+      "type": "person",
+      "name": "CHUNDAKATTIL, Harishyam Hariharan",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13846",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58759",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]
@@ -390262,6 +390962,366 @@
         {
           "code": "OFAC",
           "source_id": "SDN-58790",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38683",
+      "type": "vessel",
+      "name": "TINA 5",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": "9237761",
+      "flag": "Vanuatu",
+      "vessel_type": "Crude Oil Tanker",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58812",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38684",
+      "type": "entity",
+      "name": "NOSTALGIA CO., LTD",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58813",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38685",
+      "type": "entity",
+      "name": "GRAVION MARITIME CO.",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58814",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38686",
+      "type": "vessel",
+      "name": "SOGL",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": "9208227",
+      "flag": "Comoros",
+      "vessel_type": "LPG Tanker",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58815",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38687",
+      "type": "entity",
+      "name": "BETTA SHIPPING INC",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58816",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38688",
+      "type": "entity",
+      "name": "MAKARUA SHIPPING LTD",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58817",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38689",
+      "type": "entity",
+      "name": "GODDESS SHIPPING CORP.",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58818",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38690",
+      "type": "entity",
+      "name": "STANDWILL SHIPPING LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58819",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38691",
+      "type": "vessel",
+      "name": "MACKEREL",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": "9234628",
+      "flag": "Panama",
+      "vessel_type": "Chemical/Products Tanker",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58821",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38692",
+      "type": "vessel",
+      "name": "GAS MARAKUA",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": "9240421",
+      "flag": "Sierra Leone",
+      "vessel_type": "LPG Tanker",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58822",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38693",
+      "type": "vessel",
+      "name": "ZIXUAN",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": "9317298",
+      "flag": "Barbados",
+      "vessel_type": "LPG Tanker",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58823",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38694",
+      "type": "vessel",
+      "name": "AVA 6",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": "9226140",
+      "flag": "Hong Kong",
+      "vessel_type": "Chemical/Products Tanker",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58824",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38695",
+      "type": "entity",
+      "name": "SCIENCE RU TRADING CO LTD",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58827",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38696",
+      "type": "entity",
+      "name": "NORTHPORT NAVIGATION INC.",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58829",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38697",
+      "type": "entity",
+      "name": "BRICH SHIPPING COMPANY LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58830",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38698",
+      "type": "vessel",
+      "name": "NOBLE SEA",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": "9343118",
+      "flag": "San Marino",
+      "vessel_type": "LPG Tanker",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58831",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38699",
+      "type": "vessel",
+      "name": "SHENZHEN",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": "9276561",
+      "flag": "Cameroon",
+      "vessel_type": "Crude Oil Tanker",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58832",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38700",
+      "type": "vessel",
+      "name": "EXFLAME",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": "9294678",
+      "flag": "Gambia",
+      "vessel_type": "Oil Products Tanker",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58834",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]
