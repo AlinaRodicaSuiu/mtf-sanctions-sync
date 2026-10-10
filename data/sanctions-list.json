@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "mode": "live",
-  "last_synchronised": "2026-10-09",
+  "last_synchronised": "2026-10-10",
   "note": "Live data, normalised and deduplicated by Monaco Trade Forum from the sources listed below.",
   "sources": [
     {
@@ -10,7 +10,7 @@
       "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList",
       "license": "U.S. Government work — public domain (17 U.S.C. §105)",
       "code": "OFAC",
-      "last_updated": "Thu, 08 Oct 2026 16:47:33 GMT",
+      "last_updated": "Fri, 09 Oct 2026 14:01:35 GMT",
       "fetched_this_run": true
     },
     {
@@ -259391,26 +259391,6 @@
       ]
     },
     {
-      "id": "mtf-12947",
-      "type": "person",
-      "name": "HTET, Theint Win",
-      "aliases": [],
-      "country": null,
-      "program": "BURMA-EO14014",
-      "listing_date": null,
-      "imo": null,
-      "flag": "-0-",
-      "vessel_type": "-0-",
-      "identifiers": [],
-      "sources": [
-        {
-          "code": "OFAC",
-          "source_id": "SDN-47354",
-          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
-        }
-      ]
-    },
-    {
       "id": "mtf-12948",
       "type": "entity",
       "name": "FY INTERNATIONAL TRADING CO., LIMITED",
@@ -388762,6 +388742,26 @@
         {
           "code": "OFAC",
           "source_id": "SDN-58600",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38701",
+      "type": "entity",
+      "name": "INTERNATIONAL CRIMINAL COURT",
+      "aliases": [],
+      "country": null,
+      "program": "ICC-EO14203",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58601",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]

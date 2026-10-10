@@ -476083,6 +476083,18 @@
       "entity_id": "mtf-17453",
       "action": "removed",
       "note": "No longer present in source lists: PINOCCHIO"
+    },
+    {
+      "date": "2026-10-10",
+      "entity_id": "mtf-38701",
+      "action": "added",
+      "note": "New listing detected: INTERNATIONAL CRIMINAL COURT"
+    },
+    {
+      "date": "2026-10-10",
+      "entity_id": "mtf-12947",
+      "action": "removed",
+      "note": "No longer present in source lists: HTET, Theint Win"
     }
   ],
   "note": "Live changelog — append-only history of Monaco Trade Forum sanctions data synchronisations."
