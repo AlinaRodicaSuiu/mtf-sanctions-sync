@@ -476095,6 +476095,54 @@
       "entity_id": "mtf-12947",
       "action": "removed",
       "note": "No longer present in source lists: HTET, Theint Win"
+    },
+    {
+      "date": "2026-10-13",
+      "entity_id": "mtf-21182",
+      "action": "removed",
+      "note": "No longer present in source lists: Alisher Burkhanovich USMONOV"
+    },
+    {
+      "date": "2026-10-13",
+      "entity_id": "mtf-21830",
+      "action": "removed",
+      "note": "No longer present in source lists: Redbird Corporate Services Ltd"
+    },
+    {
+      "date": "2026-10-13",
+      "entity_id": "mtf-22824",
+      "action": "removed",
+      "note": "No longer present in source lists: Юрий Николаевич ШВЫТКИН"
+    },
+    {
+      "date": "2026-10-13",
+      "entity_id": "mtf-23168",
+      "action": "removed",
+      "note": "No longer present in source lists: Михаил Маратович ФРИДМАН"
+    },
+    {
+      "date": "2026-10-13",
+      "entity_id": "mtf-24352",
+      "action": "removed",
+      "note": "No longer present in source lists: علیرضا تنگسیری"
+    },
+    {
+      "date": "2026-10-13",
+      "entity_id": "mtf-24414",
+      "action": "removed",
+      "note": "No longer present in source lists: Андрей Павлович ФАЛАЛЕЕВ"
+    },
+    {
+      "date": "2026-10-13",
+      "entity_id": "mtf-24578",
+      "action": "removed",
+      "note": "No longer present in source lists: Александр Георгиевич ЛЕОНОВ"
+    },
+    {
+      "date": "2026-10-13",
+      "entity_id": "mtf-25516",
+      "action": "removed",
+      "note": "No longer present in source lists: ООО АРМОРГРУПП"
     }
   ],
   "note": "Live changelog — append-only history of Monaco Trade Forum sanctions data synchronisations."

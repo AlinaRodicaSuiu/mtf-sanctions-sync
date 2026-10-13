@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "mode": "live",
-  "last_synchronised": "2026-10-12",
+  "last_synchronised": "2026-10-13",
   "note": "Live data, normalised and deduplicated by Monaco Trade Forum from the sources listed below.",
   "sources": [
     {
@@ -19,7 +19,7 @@
       "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list",
       "license": "Open Government Licence v3.0",
       "code": "UK",
-      "last_updated": "Thu, 08 Oct 2026 14:31:21 GMT",
+      "last_updated": "Mon, 12 Oct 2026 14:34:16 GMT",
       "fetched_this_run": true
     },
     {
@@ -28,7 +28,7 @@
       "list_url": "https://webgate.ec.europa.eu/fsd/fsf",
       "license": "EU document reuse policy — CC BY 4.0 (Commission Decision 2011/833/EU); attribution required",
       "code": "EU",
-      "last_updated": "22/09/2026",
+      "last_updated": "12/10/2026",
       "fetched_this_run": true
     }
   ],
@@ -448863,29 +448863,6 @@
       ]
     },
     {
-      "id": "mtf-22824",
-      "type": "person",
-      "name": "Юрий Николаевич ШВЫТКИН",
-      "aliases": [
-        "Yuri Nikolaevich SHVYTKIN",
-        "Jurij  Nikolajevitj SJVYTKIN"
-      ],
-      "country": null,
-      "program": "UKR",
-      "listing_date": "2022-02-23",
-      "imo": null,
-      "flag": null,
-      "vessel_type": null,
-      "identifiers": [],
-      "sources": [
-        {
-          "code": "EU",
-          "source_id": "EU.7134.11",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529"
-        }
-      ]
-    },
-    {
       "id": "mtf-22825",
       "type": "person",
       "name": "Сергей Викторович ЧИЖОВ",
@@ -456997,36 +456974,6 @@
       ]
     },
     {
-      "id": "mtf-21182",
-      "type": "person",
-      "name": "Alisher Burkhanovich USMONOV",
-      "aliases": [
-        "Алишер Бурханович УСМАНОВ",
-        "Alisher Burkhanovich USMANOV",
-        "Alisjer USMANOV",
-        "Ališer Usmanov"
-      ],
-      "country": null,
-      "program": "UKR",
-      "listing_date": "2022-02-28",
-      "imo": null,
-      "flag": null,
-      "vessel_type": null,
-      "identifiers": [
-        {
-          "type": "National passport",
-          "value": "55 0314316 (passport-National passport)  (valid from 2019-12-06 to 2029-12-06)"
-        }
-      ],
-      "sources": [
-        {
-          "code": "EU",
-          "source_id": "EU.7514.12",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455"
-        }
-      ]
-    },
-    {
       "id": "mtf-23167",
       "type": "person",
       "name": "Пëтр Олегович АВЕН",
@@ -457048,31 +456995,6 @@
         {
           "code": "EU",
           "source_id": "EU.7515.11",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627"
-        }
-      ]
-    },
-    {
-      "id": "mtf-23168",
-      "type": "person",
-      "name": "Михаил Маратович ФРИДМАН",
-      "aliases": [
-        "Mikhail Maratovich FRIDMAN",
-        "Mikhaïl Fridman",
-        "Michail Fridman",
-        "Михаил Фридман"
-      ],
-      "country": null,
-      "program": "UKR",
-      "listing_date": "2022-02-28",
-      "imo": null,
-      "flag": null,
-      "vessel_type": null,
-      "identifiers": [],
-      "sources": [
-        {
-          "code": "EU",
-          "source_id": "EU.7516.10",
           "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627"
         }
       ]
@@ -495526,28 +495448,6 @@
       ]
     },
     {
-      "id": "mtf-24352",
-      "type": "person",
-      "name": "علیرضا تنگسیری",
-      "aliases": [
-        "Ali Reza TANGSIRI"
-      ],
-      "country": null,
-      "program": "UKR",
-      "listing_date": "2023-07-20",
-      "imo": null,
-      "flag": null,
-      "vessel_type": null,
-      "identifiers": [],
-      "sources": [
-        {
-          "code": "EU",
-          "source_id": "EU.10553.18",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1496"
-        }
-      ]
-    },
-    {
       "id": "mtf-21444",
       "type": "person",
       "name": "Mohsen ASADI",
@@ -498450,31 +498350,6 @@
         {
           "code": "EU",
           "source_id": "EU.10903.15",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875"
-        }
-      ]
-    },
-    {
-      "id": "mtf-24414",
-      "type": "person",
-      "name": "Андрей Павлович ФАЛАЛЕЕВ",
-      "aliases": [
-        "Andrey Pavlovich FALALEEV",
-        "Andrej Pavlovitj FALALEJEV",
-        "Andrej Falalejev",
-        "Andrij Falalejev"
-      ],
-      "country": null,
-      "program": "UKR",
-      "listing_date": "2023-12-18",
-      "imo": null,
-      "flag": null,
-      "vessel_type": null,
-      "identifiers": [],
-      "sources": [
-        {
-          "code": "EU",
-          "source_id": "EU.10904.14",
           "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875"
         }
       ]
@@ -504385,34 +504260,6 @@
         {
           "code": "EU",
           "source_id": "EU.11208.32",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753"
-        }
-      ]
-    },
-    {
-      "id": "mtf-24578",
-      "type": "person",
-      "name": "Александр Георгиевич ЛЕОНОВ",
-      "aliases": [
-        "Alexander Georgievich LEONOV",
-        "Alexandr Leonov"
-      ],
-      "country": null,
-      "program": "UKR",
-      "listing_date": "2024-02-23",
-      "imo": null,
-      "flag": null,
-      "vessel_type": null,
-      "identifiers": [
-        {
-          "type": "Other identification number",
-          "value": "504101219706 (other-Other identification number) (Tax Identification Number)"
-        }
-      ],
-      "sources": [
-        {
-          "code": "EU",
-          "source_id": "EU.11209.31",
           "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753"
         }
       ]
@@ -532199,31 +532046,6 @@
       ]
     },
     {
-      "id": "mtf-21830",
-      "type": "entity",
-      "name": "Redbird Corporate Services Ltd",
-      "aliases": [],
-      "country": "MAURITIUS",
-      "program": "UKR",
-      "listing_date": "2025-07-19",
-      "imo": null,
-      "flag": null,
-      "vessel_type": null,
-      "identifiers": [
-        {
-          "type": "Registration Number",
-          "value": "C48211 (regnumber-Registration Number)  (on 2003-10-27)"
-        }
-      ],
-      "sources": [
-        {
-          "code": "EU",
-          "source_id": "EU.13363.30",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476"
-        }
-      ]
-    },
-    {
       "id": "mtf-21831",
       "type": "entity",
       "name": "Tarabya Logistics Ltd",
@@ -548580,42 +548402,6 @@
         {
           "code": "EU",
           "source_id": "EU.14555.65",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
-        }
-      ]
-    },
-    {
-      "id": "mtf-25516",
-      "type": "entity",
-      "name": "ООО АРМОРГРУПП",
-      "aliases": [
-        "ARMORGRUPP",
-        "Limited Liability Company",
-        "Gesellschaft mit beschränkter Haftung (Limited Liability Company) ARMORGRUPP",
-        "Cuideachta faoi Dhliteanas Teoranta ARMORGRUPP",
-        "Kumpanija b'Responsabbiltà Limitata ARMORGRUPP",
-        "ARMORGRUPP, societate cu răspundere limitată"
-      ],
-      "country": "RUSSIAN FEDERATION",
-      "program": "UKR",
-      "listing_date": "2026-07-23",
-      "imo": null,
-      "flag": null,
-      "vessel_type": null,
-      "identifiers": [
-        {
-          "type": "Other identification number",
-          "value": "5263056732 (other-Other identification number) (INN)"
-        },
-        {
-          "type": "Other identification number",
-          "value": "1065263037597 (other-Other identification number)  (on 2006-09-27)(OGRN)"
-        }
-      ],
-      "sources": [
-        {
-          "code": "EU",
-          "source_id": "EU.14556.64",
           "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
         }
       ]
