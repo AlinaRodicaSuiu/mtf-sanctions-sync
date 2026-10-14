@@ -476143,6 +476143,96 @@
       "entity_id": "mtf-25516",
       "action": "removed",
       "note": "No longer present in source lists: ООО АРМОРГРУПП"
+    },
+    {
+      "date": "2026-10-14",
+      "entity_id": "mtf-38702",
+      "action": "added",
+      "note": "New listing detected: TAMEX LOGISTICS"
+    },
+    {
+      "date": "2026-10-14",
+      "entity_id": "mtf-38703",
+      "action": "added",
+      "note": "New listing detected: INZUNZA PARTIDA, Francisco Javier"
+    },
+    {
+      "date": "2026-10-14",
+      "entity_id": "mtf-38704",
+      "action": "added",
+      "note": "New listing detected: DISTRIBUIDORA DE GAS ECONOMICO, S.A. DE C.V."
+    },
+    {
+      "date": "2026-10-14",
+      "entity_id": "mtf-38705",
+      "action": "added",
+      "note": "New listing detected: GARZA GARCIA, Gamaliel"
+    },
+    {
+      "date": "2026-10-14",
+      "entity_id": "mtf-38706",
+      "action": "added",
+      "note": "New listing detected: GARZA ELIAS, Gamaliel"
+    },
+    {
+      "date": "2026-10-14",
+      "entity_id": "mtf-38707",
+      "action": "added",
+      "note": "New listing detected: CONSTRUCCIONES Y EDIFICACIONES GARZA ELIAS, S.A. DE C.V."
+    },
+    {
+      "date": "2026-10-14",
+      "entity_id": "mtf-38708",
+      "action": "added",
+      "note": "New listing detected: CUADRA SAN DIBANH"
+    },
+    {
+      "date": "2026-10-14",
+      "entity_id": "mtf-38709",
+      "action": "added",
+      "note": "New listing detected: CLUB LA MOLIENDA"
+    },
+    {
+      "date": "2026-10-14",
+      "entity_id": "mtf-38710",
+      "action": "added",
+      "note": "New listing detected: GUAJARDO ALVAREZ, Pablo Cesar"
+    },
+    {
+      "date": "2026-10-14",
+      "entity_id": "mtf-38711",
+      "action": "added",
+      "note": "New listing detected: CONSTRUACEROS DEL FUERTE, S.A. DE C.V."
+    },
+    {
+      "date": "2026-10-14",
+      "entity_id": "mtf-38712",
+      "action": "added",
+      "note": "New listing detected: GAS ENERGIA CONFIABLE, S.A. DE C.V."
+    },
+    {
+      "date": "2026-10-14",
+      "entity_id": "mtf-38713",
+      "action": "added",
+      "note": "New listing detected: INOVA NLD DESARROLLOS INMOBILARIOS, S.A. DE C.V."
+    },
+    {
+      "date": "2026-10-14",
+      "entity_id": "mtf-38714",
+      "action": "added",
+      "note": "New listing detected: PROPANE TRADING GROUP, S.A. DE C.V."
+    },
+    {
+      "date": "2026-10-14",
+      "entity_id": "mtf-38715",
+      "action": "added",
+      "note": "New listing detected: TRANSPORTADORA DE GAS DE NUEVO LAREDO, S.A. DE C.V."
+    },
+    {
+      "date": "2026-10-14",
+      "entity_id": "mtf-38716",
+      "action": "added",
+      "note": "New listing detected: CONCRETOS Y PRODUCTOS ASFALTICOS DEL NORTE, S.A. DE C.V."
     }
   ],
   "note": "Live changelog — append-only history of Monaco Trade Forum sanctions data synchronisations."

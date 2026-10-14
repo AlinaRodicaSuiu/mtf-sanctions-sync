@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "mode": "live",
-  "last_synchronised": "2026-10-13",
+  "last_synchronised": "2026-10-14",
   "note": "Live data, normalised and deduplicated by Monaco Trade Forum from the sources listed below.",
   "sources": [
     {
@@ -10,7 +10,7 @@
       "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList",
       "license": "U.S. Government work — public domain (17 U.S.C. §105)",
       "code": "OFAC",
-      "last_updated": "Fri, 09 Oct 2026 14:01:35 GMT",
+      "last_updated": "Tue, 13 Oct 2026 14:02:11 GMT",
       "fetched_this_run": true
     },
     {
@@ -386622,6 +386622,306 @@
         {
           "code": "OFAC",
           "source_id": "SDN-58414",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38702",
+      "type": "entity",
+      "name": "TAMEX LOGISTICS",
+      "aliases": [],
+      "country": null,
+      "program": "ILLICIT-DRUGS-EO14059",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58416",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38703",
+      "type": "person",
+      "name": "INZUNZA PARTIDA, Francisco Javier",
+      "aliases": [],
+      "country": null,
+      "program": "ILLICIT-DRUGS-EO14059",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58417",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38704",
+      "type": "entity",
+      "name": "DISTRIBUIDORA DE GAS ECONOMICO, S.A. DE C.V.",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT] [ILLICIT-DRUGS-EO14059",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58418",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38705",
+      "type": "person",
+      "name": "GARZA GARCIA, Gamaliel",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT] [ILLICIT-DRUGS-EO14059",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58419",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38706",
+      "type": "person",
+      "name": "GARZA ELIAS, Gamaliel",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT] [ILLICIT-DRUGS-EO14059",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58420",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38707",
+      "type": "entity",
+      "name": "CONSTRUCCIONES Y EDIFICACIONES GARZA ELIAS, S.A. DE C.V.",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT] [ILLICIT-DRUGS-EO14059",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58421",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38708",
+      "type": "entity",
+      "name": "CUADRA SAN DIBANH",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT] [ILLICIT-DRUGS-EO14059",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58422",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38709",
+      "type": "entity",
+      "name": "CLUB LA MOLIENDA",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT] [ILLICIT-DRUGS-EO14059",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58423",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38710",
+      "type": "person",
+      "name": "GUAJARDO ALVAREZ, Pablo Cesar",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT] [ILLICIT-DRUGS-EO14059",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58424",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38711",
+      "type": "entity",
+      "name": "CONSTRUACEROS DEL FUERTE, S.A. DE C.V.",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT] [ILLICIT-DRUGS-EO14059",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58425",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38712",
+      "type": "entity",
+      "name": "GAS ENERGIA CONFIABLE, S.A. DE C.V.",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT] [ILLICIT-DRUGS-EO14059",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58426",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38713",
+      "type": "entity",
+      "name": "INOVA NLD DESARROLLOS INMOBILARIOS, S.A. DE C.V.",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT] [ILLICIT-DRUGS-EO14059",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58427",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38714",
+      "type": "entity",
+      "name": "PROPANE TRADING GROUP, S.A. DE C.V.",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT] [ILLICIT-DRUGS-EO14059",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58428",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38715",
+      "type": "entity",
+      "name": "TRANSPORTADORA DE GAS DE NUEVO LAREDO, S.A. DE C.V.",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT] [ILLICIT-DRUGS-EO14059",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58429",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38716",
+      "type": "entity",
+      "name": "CONCRETOS Y PRODUCTOS ASFALTICOS DEL NORTE, S.A. DE C.V.",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT] [ILLICIT-DRUGS-EO14059",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58430",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]
