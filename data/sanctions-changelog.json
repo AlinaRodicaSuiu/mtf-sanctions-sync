@@ -476233,6 +476233,12 @@
       "entity_id": "mtf-38716",
       "action": "added",
       "note": "New listing detected: CONCRETOS Y PRODUCTOS ASFALTICOS DEL NORTE, S.A. DE C.V."
+    },
+    {
+      "date": "2026-10-15",
+      "entity_id": "mtf-05091",
+      "action": "removed",
+      "note": "No longer present in source lists: RODRIGUEZ GOMEZ, Jorge Jesus"
     }
   ],
   "note": "Live changelog — append-only history of Monaco Trade Forum sanctions data synchronisations."
