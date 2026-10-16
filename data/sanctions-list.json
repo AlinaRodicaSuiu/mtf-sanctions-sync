@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "mode": "live",
-  "last_synchronised": "2026-10-15",
+  "last_synchronised": "2026-10-16",
   "note": "Live data, normalised and deduplicated by Monaco Trade Forum from the sources listed below.",
   "sources": [
     {
@@ -10,7 +10,7 @@
       "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList",
       "license": "U.S. Government work — public domain (17 U.S.C. §105)",
       "code": "OFAC",
-      "last_updated": "Wed, 14 Oct 2026 14:02:30 GMT",
+      "last_updated": "Thu, 15 Oct 2026 16:34:34 GMT",
       "fetched_this_run": true
     },
     {
@@ -19,7 +19,7 @@
       "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list",
       "license": "Open Government Licence v3.0",
       "code": "UK",
-      "last_updated": "Mon, 12 Oct 2026 14:34:16 GMT",
+      "last_updated": "Thu, 15 Oct 2026 10:57:50 GMT",
       "fetched_this_run": true
     },
     {
@@ -28,7 +28,7 @@
       "list_url": "https://webgate.ec.europa.eu/fsd/fsf",
       "license": "EU document reuse policy — CC BY 4.0 (Commission Decision 2011/833/EU); attribution required",
       "code": "EU",
-      "last_updated": "12/10/2026",
+      "last_updated": "15/10/2026",
       "fetched_this_run": true
     }
   ],
@@ -388947,6 +388947,26 @@
       ]
     },
     {
+      "id": "mtf-38717",
+      "type": "entity",
+      "name": "INTERNATIONAL DEVELOPMENT BANK FOR INVESTMENT AND FINANCE",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58571",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
       "id": "mtf-38505",
       "type": "person",
       "name": "TAJAMMAL, Waseem Pasha",
@@ -391602,6 +391622,526 @@
         {
           "code": "OFAC",
           "source_id": "SDN-58834",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38718",
+      "type": "person",
+      "name": "MOHAMMADI, Zhila",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58930",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38719",
+      "type": "entity",
+      "name": "ELITESPHERE TRADING CO., LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58934",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38720",
+      "type": "entity",
+      "name": "SEYYED ABBAS HOSSEINI PARSA AND PARTNERS QESHM GENERAL PARTNERSHIP COMPANY",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58935",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38721",
+      "type": "person",
+      "name": "MOHIESNEJAD, Khaled",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58936",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38722",
+      "type": "person",
+      "name": "HOSSEINI PARSA, Seyyed Abbas",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58937",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38723",
+      "type": "person",
+      "name": "BAVI, Sadegh",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58938",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38724",
+      "type": "entity",
+      "name": "BAVI AND PARTNERS EXCHANGE COMPANY",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58939",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38725",
+      "type": "entity",
+      "name": "ABOLHASAN JALALI AND PARTNERS EXCHANGE COMPANY",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58940",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38726",
+      "type": "person",
+      "name": "JALALI, Abolhasan",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58941",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38727",
+      "type": "person",
+      "name": "KATEBI, Milad",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58942",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38728",
+      "type": "person",
+      "name": "SABETI, Amir",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58943",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38729",
+      "type": "person",
+      "name": "MULLAH MOHAMMADI, Ensiyeh",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58944",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38730",
+      "type": "person",
+      "name": "BORJI, Nazanin",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58945",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38731",
+      "type": "person",
+      "name": "ALLAHYAR, Farzad",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58946",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38732",
+      "type": "person",
+      "name": "VASIGHI MERAJI, Fatemeh",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58947",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38733",
+      "type": "entity",
+      "name": "SOHEIL AND SORUSH NAJAFZADEH AND PARTNERS COMPANY",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58948",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38734",
+      "type": "person",
+      "name": "ABDOLALIPUR, Azadeh",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58949",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38735",
+      "type": "person",
+      "name": "NAJAFZADEH, Sorush",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58950",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38736",
+      "type": "person",
+      "name": "NAJAFZADEH, Soheil",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58951",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38737",
+      "type": "person",
+      "name": "MIRMOHAMMADI, Mansureh",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58952",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38738",
+      "type": "entity",
+      "name": "JAZIREH INTERNATIONAL BANK COMPANY",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58953",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38739",
+      "type": "entity",
+      "name": "CHABAHAR INTERNATIONAL BANK OVERSEAS COMPANY",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58954",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38740",
+      "type": "person",
+      "name": "RAZAVI, Sayyed Ruhollah",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58990",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38741",
+      "type": "entity",
+      "name": "TEJARAT GOSTAR ATLAS PARSIAN KISH COMPANY",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58991",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38742",
+      "type": "entity",
+      "name": "FARZANEGAN ENERGY PARS COMPANY",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58992",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38743",
+      "type": "entity",
+      "name": "BANCO INTERNACIONAL DE COMERCIO S.A.",
+      "aliases": [],
+      "country": null,
+      "program": "CUBA-EO14404",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58997",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]
@@ -553671,6 +554211,42 @@
           "code": "EU",
           "source_id": "EU.14998.71",
           "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38744",
+      "type": "entity",
+      "name": "ARMORGRUPP, societate cu răspundere limitată",
+      "aliases": [
+        "Kumpanija b'Responsabbiltà Limitata ARMORGRUPP",
+        "Cuideachta faoi Dhliteanas Teoranta ARMORGRUPP",
+        "Gesellschaft mit beschränkter Haftung (Limited Liability Company) ARMORGRUPP",
+        "LLC ARMORGRUPP",
+        "ООО АРМОРГРУПП",
+        "Limited Liability Company ARMORGRUPP"
+      ],
+      "country": "RUSSIAN FEDERATION",
+      "program": "UKR",
+      "listing_date": "2026-07-23",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "Other identification number",
+          "value": "1065263037597 (other-Other identification number)  (on 2006-06-27)(OGRN)"
+        },
+        {
+          "type": "Other identification number",
+          "value": "5263056732 (other-Other identification number) (INN)"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.14999.70",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
         }
       ]
     }

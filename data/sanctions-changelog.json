@@ -476239,6 +476239,174 @@
       "entity_id": "mtf-05091",
       "action": "removed",
       "note": "No longer present in source lists: RODRIGUEZ GOMEZ, Jorge Jesus"
+    },
+    {
+      "date": "2026-10-16",
+      "entity_id": "mtf-38717",
+      "action": "added",
+      "note": "New listing detected: INTERNATIONAL DEVELOPMENT BANK FOR INVESTMENT AND FINANCE"
+    },
+    {
+      "date": "2026-10-16",
+      "entity_id": "mtf-38718",
+      "action": "added",
+      "note": "New listing detected: MOHAMMADI, Zhila"
+    },
+    {
+      "date": "2026-10-16",
+      "entity_id": "mtf-38719",
+      "action": "added",
+      "note": "New listing detected: ELITESPHERE TRADING CO., LIMITED"
+    },
+    {
+      "date": "2026-10-16",
+      "entity_id": "mtf-38720",
+      "action": "added",
+      "note": "New listing detected: SEYYED ABBAS HOSSEINI PARSA AND PARTNERS QESHM GENERAL PARTNERSHIP COMPANY"
+    },
+    {
+      "date": "2026-10-16",
+      "entity_id": "mtf-38721",
+      "action": "added",
+      "note": "New listing detected: MOHIESNEJAD, Khaled"
+    },
+    {
+      "date": "2026-10-16",
+      "entity_id": "mtf-38722",
+      "action": "added",
+      "note": "New listing detected: HOSSEINI PARSA, Seyyed Abbas"
+    },
+    {
+      "date": "2026-10-16",
+      "entity_id": "mtf-38723",
+      "action": "added",
+      "note": "New listing detected: BAVI, Sadegh"
+    },
+    {
+      "date": "2026-10-16",
+      "entity_id": "mtf-38724",
+      "action": "added",
+      "note": "New listing detected: BAVI AND PARTNERS EXCHANGE COMPANY"
+    },
+    {
+      "date": "2026-10-16",
+      "entity_id": "mtf-38725",
+      "action": "added",
+      "note": "New listing detected: ABOLHASAN JALALI AND PARTNERS EXCHANGE COMPANY"
+    },
+    {
+      "date": "2026-10-16",
+      "entity_id": "mtf-38726",
+      "action": "added",
+      "note": "New listing detected: JALALI, Abolhasan"
+    },
+    {
+      "date": "2026-10-16",
+      "entity_id": "mtf-38727",
+      "action": "added",
+      "note": "New listing detected: KATEBI, Milad"
+    },
+    {
+      "date": "2026-10-16",
+      "entity_id": "mtf-38728",
+      "action": "added",
+      "note": "New listing detected: SABETI, Amir"
+    },
+    {
+      "date": "2026-10-16",
+      "entity_id": "mtf-38729",
+      "action": "added",
+      "note": "New listing detected: MULLAH MOHAMMADI, Ensiyeh"
+    },
+    {
+      "date": "2026-10-16",
+      "entity_id": "mtf-38730",
+      "action": "added",
+      "note": "New listing detected: BORJI, Nazanin"
+    },
+    {
+      "date": "2026-10-16",
+      "entity_id": "mtf-38731",
+      "action": "added",
+      "note": "New listing detected: ALLAHYAR, Farzad"
+    },
+    {
+      "date": "2026-10-16",
+      "entity_id": "mtf-38732",
+      "action": "added",
+      "note": "New listing detected: VASIGHI MERAJI, Fatemeh"
+    },
+    {
+      "date": "2026-10-16",
+      "entity_id": "mtf-38733",
+      "action": "added",
+      "note": "New listing detected: SOHEIL AND SORUSH NAJAFZADEH AND PARTNERS COMPANY"
+    },
+    {
+      "date": "2026-10-16",
+      "entity_id": "mtf-38734",
+      "action": "added",
+      "note": "New listing detected: ABDOLALIPUR, Azadeh"
+    },
+    {
+      "date": "2026-10-16",
+      "entity_id": "mtf-38735",
+      "action": "added",
+      "note": "New listing detected: NAJAFZADEH, Sorush"
+    },
+    {
+      "date": "2026-10-16",
+      "entity_id": "mtf-38736",
+      "action": "added",
+      "note": "New listing detected: NAJAFZADEH, Soheil"
+    },
+    {
+      "date": "2026-10-16",
+      "entity_id": "mtf-38737",
+      "action": "added",
+      "note": "New listing detected: MIRMOHAMMADI, Mansureh"
+    },
+    {
+      "date": "2026-10-16",
+      "entity_id": "mtf-38738",
+      "action": "added",
+      "note": "New listing detected: JAZIREH INTERNATIONAL BANK COMPANY"
+    },
+    {
+      "date": "2026-10-16",
+      "entity_id": "mtf-38739",
+      "action": "added",
+      "note": "New listing detected: CHABAHAR INTERNATIONAL BANK OVERSEAS COMPANY"
+    },
+    {
+      "date": "2026-10-16",
+      "entity_id": "mtf-38740",
+      "action": "added",
+      "note": "New listing detected: RAZAVI, Sayyed Ruhollah"
+    },
+    {
+      "date": "2026-10-16",
+      "entity_id": "mtf-38741",
+      "action": "added",
+      "note": "New listing detected: TEJARAT GOSTAR ATLAS PARSIAN KISH COMPANY"
+    },
+    {
+      "date": "2026-10-16",
+      "entity_id": "mtf-38742",
+      "action": "added",
+      "note": "New listing detected: FARZANEGAN ENERGY PARS COMPANY"
+    },
+    {
+      "date": "2026-10-16",
+      "entity_id": "mtf-38743",
+      "action": "added",
+      "note": "New listing detected: BANCO INTERNACIONAL DE COMERCIO S.A."
+    },
+    {
+      "date": "2026-10-16",
+      "entity_id": "mtf-38744",
+      "action": "added",
+      "note": "New listing detected: ARMORGRUPP, societate cu răspundere limitată"
     }
   ],
   "note": "Live changelog — append-only history of Monaco Trade Forum sanctions data synchronisations."
