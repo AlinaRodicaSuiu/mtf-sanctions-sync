@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "mode": "live",
-  "last_synchronised": "2026-10-19",
+  "last_synchronised": "2026-10-20",
   "note": "Live data, normalised and deduplicated by Monaco Trade Forum from the sources listed below.",
   "sources": [
     {
@@ -10,7 +10,7 @@
       "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList",
       "license": "U.S. Government work — public domain (17 U.S.C. §105)",
       "code": "OFAC",
-      "last_updated": "Thu, 15 Oct 2026 16:34:34 GMT",
+      "last_updated": "Mon, 19 Oct 2026 14:02:16 GMT",
       "fetched_this_run": true
     },
     {
