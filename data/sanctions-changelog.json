@@ -476407,6 +476407,138 @@
       "entity_id": "mtf-38744",
       "action": "added",
       "note": "New listing detected: ARMORGRUPP, societate cu răspundere limitată"
+    },
+    {
+      "date": "2026-10-22",
+      "entity_id": "mtf-38745",
+      "action": "added",
+      "note": "New listing detected: WHALES SHIPPING LINE LLC"
+    },
+    {
+      "date": "2026-10-22",
+      "entity_id": "mtf-38746",
+      "action": "added",
+      "note": "New listing detected: AMIGOZ SINGAPORE PTE. LTD."
+    },
+    {
+      "date": "2026-10-22",
+      "entity_id": "mtf-38747",
+      "action": "added",
+      "note": "New listing detected: WHALES DIAMOND"
+    },
+    {
+      "date": "2026-10-22",
+      "entity_id": "mtf-38748",
+      "action": "added",
+      "note": "New listing detected: WHALES PEARL"
+    },
+    {
+      "date": "2026-10-22",
+      "entity_id": "mtf-38749",
+      "action": "added",
+      "note": "New listing detected: ROXETTE MARITIME SHIPPING AND TRADING S.A."
+    },
+    {
+      "date": "2026-10-22",
+      "entity_id": "mtf-38750",
+      "action": "added",
+      "note": "New listing detected: KARNAKIS AND KARNAKIS"
+    },
+    {
+      "date": "2026-10-22",
+      "entity_id": "mtf-38751",
+      "action": "added",
+      "note": "New listing detected: ANEMOS"
+    },
+    {
+      "date": "2026-10-22",
+      "entity_id": "mtf-38752",
+      "action": "added",
+      "note": "New listing detected: GLORIS"
+    },
+    {
+      "date": "2026-10-22",
+      "entity_id": "mtf-38753",
+      "action": "added",
+      "note": "New listing detected: PRIDE"
+    },
+    {
+      "date": "2026-10-22",
+      "entity_id": "mtf-38754",
+      "action": "added",
+      "note": "New listing detected: KARNAKIS KOSMAS, Sofianos"
+    },
+    {
+      "date": "2026-10-22",
+      "entity_id": "mtf-38755",
+      "action": "added",
+      "note": "New listing detected: KARNAKIS KOSMAS, Konstantinos"
+    },
+    {
+      "date": "2026-10-22",
+      "entity_id": "mtf-38756",
+      "action": "added",
+      "note": "New listing detected: KARNAKIS KOSMAS, Ioanis"
+    },
+    {
+      "date": "2026-10-22",
+      "entity_id": "mtf-38757",
+      "action": "added",
+      "note": "New listing detected: ORTEGA JONES, Pedro"
+    },
+    {
+      "date": "2026-10-22",
+      "entity_id": "mtf-38758",
+      "action": "added",
+      "note": "New listing detected: ORTEGA JONES, Roberto"
+    },
+    {
+      "date": "2026-10-22",
+      "entity_id": "mtf-38759",
+      "action": "added",
+      "note": "New listing detected: DESTINY"
+    },
+    {
+      "date": "2026-10-22",
+      "entity_id": "mtf-38760",
+      "action": "added",
+      "note": "New listing detected: FLAMINGO 1"
+    },
+    {
+      "date": "2026-10-22",
+      "entity_id": "mtf-38761",
+      "action": "added",
+      "note": "New listing detected: HARMONY"
+    },
+    {
+      "date": "2026-10-22",
+      "entity_id": "mtf-38762",
+      "action": "added",
+      "note": "New listing detected: PRINCE"
+    },
+    {
+      "date": "2026-10-22",
+      "entity_id": "mtf-07152",
+      "action": "removed",
+      "note": "No longer present in source lists: MOXING CARTOON"
+    },
+    {
+      "date": "2026-10-22",
+      "entity_id": "mtf-07475",
+      "action": "removed",
+      "note": "No longer present in source lists: RYBAKOV, Andrei Alekseevich"
+    },
+    {
+      "date": "2026-10-22",
+      "entity_id": "mtf-07896",
+      "action": "removed",
+      "note": "No longer present in source lists: LU, Hezheng"
+    },
+    {
+      "date": "2026-10-22",
+      "entity_id": "mtf-07897",
+      "action": "removed",
+      "note": "No longer present in source lists: SHANGHAI HONGMAN CARTOON AND ANIMATION DESIGN STUDIO"
     }
   ],
   "note": "Live changelog — append-only history of Monaco Trade Forum sanctions data synchronisations."

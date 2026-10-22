@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "mode": "live",
-  "last_synchronised": "2026-10-21",
+  "last_synchronised": "2026-10-22",
   "note": "Live data, normalised and deduplicated by Monaco Trade Forum from the sources listed below.",
   "sources": [
     {
@@ -10,7 +10,7 @@
       "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList",
       "license": "U.S. Government work — public domain (17 U.S.C. §105)",
       "code": "OFAC",
-      "last_updated": "Mon, 19 Oct 2026 14:02:16 GMT",
+      "last_updated": "Wed, 21 Oct 2026 16:35:23 GMT",
       "fetched_this_run": true
     },
     {
@@ -143408,26 +143408,6 @@
       ]
     },
     {
-      "id": "mtf-07152",
-      "type": "entity",
-      "name": "MOXING CARTOON",
-      "aliases": [],
-      "country": null,
-      "program": "DPRK3",
-      "listing_date": null,
-      "imo": null,
-      "flag": "-0-",
-      "vessel_type": "-0-",
-      "identifiers": [],
-      "sources": [
-        {
-          "code": "OFAC",
-          "source_id": "SDN-31042",
-          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
-        }
-      ]
-    },
-    {
       "id": "mtf-07153",
       "type": "person",
       "name": "ABOUZAID EL BAYEH, Juan Manuel",
@@ -149882,26 +149862,6 @@
         {
           "code": "OFAC",
           "source_id": "SDN-32696",
-          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
-        }
-      ]
-    },
-    {
-      "id": "mtf-07475",
-      "type": "person",
-      "name": "RYBAKOV, Andrei Alekseevich",
-      "aliases": [],
-      "country": null,
-      "program": "BELARUS",
-      "listing_date": null,
-      "imo": null,
-      "flag": "-0-",
-      "vessel_type": "-0-",
-      "identifiers": [],
-      "sources": [
-        {
-          "code": "OFAC",
-          "source_id": "SDN-32711",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]
@@ -158162,46 +158122,6 @@
         {
           "code": "OFAC",
           "source_id": "SDN-34023",
-          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
-        }
-      ]
-    },
-    {
-      "id": "mtf-07896",
-      "type": "person",
-      "name": "LU, Hezheng",
-      "aliases": [],
-      "country": null,
-      "program": "DPRK3",
-      "listing_date": null,
-      "imo": null,
-      "flag": "-0-",
-      "vessel_type": "-0-",
-      "identifiers": [],
-      "sources": [
-        {
-          "code": "OFAC",
-          "source_id": "SDN-34024",
-          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
-        }
-      ]
-    },
-    {
-      "id": "mtf-07897",
-      "type": "entity",
-      "name": "SHANGHAI HONGMAN CARTOON AND ANIMATION DESIGN STUDIO",
-      "aliases": [],
-      "country": null,
-      "program": "DPRK3",
-      "listing_date": null,
-      "imo": null,
-      "flag": "-0-",
-      "vessel_type": "-0-",
-      "identifiers": [],
-      "sources": [
-        {
-          "code": "OFAC",
-          "source_id": "SDN-34025",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]
@@ -391267,6 +391187,46 @@
       ]
     },
     {
+      "id": "mtf-38745",
+      "type": "entity",
+      "name": "WHALES SHIPPING LINE LLC",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58810",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38746",
+      "type": "entity",
+      "name": "AMIGOZ SINGAPORE PTE. LTD.",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58811",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
       "id": "mtf-38683",
       "type": "vessel",
       "name": "TINA 5",
@@ -391627,6 +391587,46 @@
       ]
     },
     {
+      "id": "mtf-38747",
+      "type": "vessel",
+      "name": "WHALES DIAMOND",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": "9375032",
+      "flag": "United Arab Emirates",
+      "vessel_type": "Crew/Supply Vessel",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58873",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38748",
+      "type": "vessel",
+      "name": "WHALES PEARL",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": "9483114",
+      "flag": "United Arab Emirates",
+      "vessel_type": "Crew/Supply Vessel",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58874",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
       "id": "mtf-38718",
       "type": "person",
       "name": "MOHAMMADI, Zhila",
@@ -391642,6 +391642,46 @@
         {
           "code": "OFAC",
           "source_id": "SDN-58930",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38749",
+      "type": "entity",
+      "name": "ROXETTE MARITIME SHIPPING AND TRADING S.A.",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58931",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38750",
+      "type": "entity",
+      "name": "KARNAKIS AND KARNAKIS",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58932",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]
@@ -392062,6 +392102,246 @@
         {
           "code": "OFAC",
           "source_id": "SDN-58954",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38751",
+      "type": "vessel",
+      "name": "ANEMOS",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": "9205952",
+      "flag": "Panama",
+      "vessel_type": "General Cargo",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58955",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38752",
+      "type": "vessel",
+      "name": "GLORIS",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": "9449510",
+      "flag": "Panama",
+      "vessel_type": "Bulk Carrier",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58956",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38753",
+      "type": "vessel",
+      "name": "PRIDE",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": "9487407",
+      "flag": "Panama",
+      "vessel_type": "Bulk Carrier",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58957",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38754",
+      "type": "person",
+      "name": "KARNAKIS KOSMAS, Sofianos",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58958",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38755",
+      "type": "person",
+      "name": "KARNAKIS KOSMAS, Konstantinos",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58959",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38756",
+      "type": "person",
+      "name": "KARNAKIS KOSMAS, Ioanis",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58960",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38757",
+      "type": "person",
+      "name": "ORTEGA JONES, Pedro",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58961",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38758",
+      "type": "person",
+      "name": "ORTEGA JONES, Roberto",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58962",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38759",
+      "type": "vessel",
+      "name": "DESTINY",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": "9385491",
+      "flag": "Panama",
+      "vessel_type": "General Cargo",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58963",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38760",
+      "type": "vessel",
+      "name": "FLAMINGO 1",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": "9474199",
+      "flag": "Panama",
+      "vessel_type": "Bulk Carrier",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58964",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38761",
+      "type": "vessel",
+      "name": "HARMONY",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": "9449522",
+      "flag": "Panama",
+      "vessel_type": "General Cargo",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58965",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38762",
+      "type": "vessel",
+      "name": "PRINCE",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": "9548316",
+      "flag": "Panama",
+      "vessel_type": "Bulk Carrier",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58966",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]
