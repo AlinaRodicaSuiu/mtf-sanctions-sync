@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "mode": "live",
-  "last_synchronised": "2026-10-23",
+  "last_synchronised": "2026-10-24",
   "note": "Live data, normalised and deduplicated by Monaco Trade Forum from the sources listed below.",
   "sources": [
     {
@@ -28,7 +28,7 @@
       "list_url": "https://webgate.ec.europa.eu/fsd/fsf",
       "license": "EU document reuse policy — CC BY 4.0 (Commission Decision 2011/833/EU); attribution required",
       "code": "EU",
-      "last_updated": "15/10/2026",
+      "last_updated": "23/10/2026",
       "fetched_this_run": true
     }
   ],
@@ -3943,7 +3943,7 @@
       ],
       "country": "AFGHANISTAN",
       "program": "SDGT",
-      "listing_date": null,
+      "listing_date": "2001-12-24",
       "imo": null,
       "flag": "-0-",
       "vessel_type": "-0-",
@@ -3957,7 +3957,7 @@
         {
           "code": "EU",
           "source_id": "EU.785.28",
-          "list_url": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:015:0001:0019:EN:PDF"
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601960&qid=1787581359299"
         }
       ]
     },
@@ -6843,7 +6843,7 @@
       ],
       "country": null,
       "program": "FTO] [SDGT",
-      "listing_date": null,
+      "listing_date": "2003-02-03",
       "imo": null,
       "flag": "-0-",
       "vessel_type": "-0-",
@@ -6857,7 +6857,7 @@
         {
           "code": "EU",
           "source_id": "EU.1014.53",
-          "list_url": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:015:0001:0019:EN:PDF"
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900"
         }
       ]
     },
@@ -16585,7 +16585,7 @@
       ],
       "country": null,
       "program": "FTO] [SDGT",
-      "listing_date": null,
+      "listing_date": "2005-06-01",
       "imo": null,
       "flag": "-0-",
       "vessel_type": "-0-",
@@ -16599,7 +16599,7 @@
         {
           "code": "EU",
           "source_id": "EU.1094.61",
-          "list_url": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF"
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900"
         }
       ]
     },
@@ -393773,7 +393773,7 @@
       ],
       "country": "PAKISTAN",
       "program": "TAQA",
-      "listing_date": null,
+      "listing_date": "2002-01-11",
       "imo": null,
       "flag": null,
       "vessel_type": null,
@@ -393782,7 +393782,7 @@
         {
           "code": "EU",
           "source_id": "EU.266.94",
-          "list_url": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:015:0001:0019:EN:PDF"
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900"
         }
       ]
     },
@@ -393977,7 +393977,7 @@
         "Organização Al Wafa",
         "L'organisation humanitaire de Wafa"
       ],
-      "country": "PAKISTAN",
+      "country": "KUWAIT",
       "program": "TAQA",
       "listing_date": "2001-10-06",
       "imo": null,
@@ -393988,7 +393988,7 @@
         {
           "code": "EU",
           "source_id": "EU.526.43",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.303.01.0001.01.ENG&toc=OJ:L:2020:303I:TOC"
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900"
         }
       ]
     },
@@ -394488,7 +394488,7 @@
         {
           "code": "EU",
           "source_id": "EU.521.38",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc"
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601960&qid=1787581359299"
         }
       ]
     },
@@ -396569,7 +396569,15 @@
         "Seif al Adel",
         "Muhamad Ibrahim Makkawi",
         "Ibrahim al-Madani",
-        "Mohammed Salahaldin Abd El Halim Zidane"
+        "Mohammed Salahaldin Abd El Halim Zidane",
+        "Abu Khaled al-San’ani",
+        "Muhannad Salem",
+        "Aber Sabil",
+        "Hazem al-Madani",
+        "سالم الشريف",
+        "Salem  al-Sharif",
+        "محمد صلاح الدين عبدالحليم زيدان",
+        "سيف العدل"
       ],
       "country": null,
       "program": "TAQA",
@@ -396582,7 +396590,7 @@
         {
           "code": "EU",
           "source_id": "EU.3724.5",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:097:FULL&from=EN"
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601960&qid=1787581359299"
         }
       ]
     },
@@ -397687,7 +397695,7 @@
       ],
       "country": null,
       "program": "TAQA",
-      "listing_date": null,
+      "listing_date": "2003-01-28",
       "imo": null,
       "flag": null,
       "vessel_type": null,
@@ -397696,7 +397704,7 @@
         {
           "code": "EU",
           "source_id": "EU.1003.87",
-          "list_url": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:159:0069:0085:EN:PDF"
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900"
         }
       ]
     },
@@ -397920,7 +397928,7 @@
       ],
       "country": null,
       "program": "TAQA",
-      "listing_date": null,
+      "listing_date": "2003-09-09",
       "imo": null,
       "flag": null,
       "vessel_type": null,
@@ -397929,7 +397937,7 @@
         {
           "code": "EU",
           "source_id": "EU.1006.79",
-          "list_url": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:015:0001:0019:EN:PDF"
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900"
         }
       ]
     },
@@ -398608,7 +398616,7 @@
       "aliases": [],
       "country": "PAKISTAN",
       "program": "TAQA",
-      "listing_date": null,
+      "listing_date": "2004-01-26",
       "imo": null,
       "flag": null,
       "vessel_type": null,
@@ -398617,7 +398625,7 @@
         {
           "code": "EU",
           "source_id": "EU.994.91",
-          "list_url": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:103:0042:0044:EN:PDF"
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900"
         }
       ]
     },
@@ -400347,7 +400355,7 @@
         {
           "code": "EU",
           "source_id": "EU.4066.88",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc"
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900"
         }
       ]
     },
@@ -403074,14 +403082,16 @@
       "type": "person",
       "name": "Ahmed Deghdegh",
       "aliases": [
+        "Abd El Ilah",
+        "Said Dit Merrikh",
+        "أحمد دغداغ",
         "Abd El Illah",
-        "Abdellillah",
-        "Abdellah Ahmed",
-        "Said"
+        "Abou Abdellah Ahmed",
+        "Abdellillah dit Abdellah Ahmed dit Said"
       ],
-      "country": null,
+      "country": "ALGERIA",
       "program": "TAQA",
-      "listing_date": null,
+      "listing_date": "2008-07-03",
       "imo": null,
       "flag": null,
       "vessel_type": null,
@@ -403090,7 +403100,7 @@
         {
           "code": "EU",
           "source_id": "EU.2154.23",
-          "list_url": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0012:0015:EN:PDF"
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900"
         }
       ]
     },
@@ -403114,7 +403124,7 @@
         {
           "code": "EU",
           "source_id": "EU.2167.16",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc"
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900"
         }
       ]
     },
@@ -403223,7 +403233,7 @@
         {
           "code": "EU",
           "source_id": "EU.2158.77",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372"
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601960&qid=1787581359299"
         }
       ]
     },
@@ -403721,7 +403731,7 @@
         {
           "code": "EU",
           "source_id": "EU.3415.74",
-          "list_url": "http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1063&from=EN"
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900"
         }
       ]
     },
@@ -407009,7 +407019,7 @@
         {
           "code": "EU",
           "source_id": "EU.3092.36",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc"
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900"
         }
       ]
     },
@@ -408860,7 +408870,7 @@
       ],
       "country": "INDONESIA",
       "program": "TAQA",
-      "listing_date": null,
+      "listing_date": "2011-07-19",
       "imo": null,
       "flag": null,
       "vessel_type": null,
@@ -408869,7 +408879,7 @@
         {
           "code": "EU",
           "source_id": "EU.4057.52",
-          "list_url": "http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1773&from=EN"
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900"
         }
       ]
     },
@@ -409043,7 +409053,7 @@
         {
           "code": "EU",
           "source_id": "EU.2796.38",
-          "list_url": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:219:0003:0004:EN:PDF"
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900"
         }
       ]
     },
@@ -413049,9 +413059,10 @@
       "type": "person",
       "name": "Monir Chouka",
       "aliases": [
-        "Abu Adam"
+        "Abu Adam",
+        "Abu Hamza"
       ],
-      "country": null,
+      "country": "SYRIAN ARAB REPUBLIC",
       "program": "TAQA",
       "listing_date": "2012-01-25",
       "imo": null,
@@ -413060,18 +413071,18 @@
       "identifiers": [
         {
           "type": "National passport",
-          "value": "5208323009 (passport-National passport) (passport issued in stadt bonn, germany on 2.2.2007, expires on 1.2.2012)"
+          "value": "5208323009 (passport-National passport)  (on 2007-02-02 valid to 2012-02-01)(passport issued in stadt bonn, germany on 2.2.2007, expires on 1.2.2012)"
         },
         {
           "type": "National identification card",
-          "value": "5209530116 (id-National identification card) [known to be expired](national identity card issued in stadt bonn, germany on 21.6.2006, expired on 20.6.2011)"
+          "value": "5209530116 (id-National identification card)  (on 2006-06-21 valid to 2011-06-20)[known to be expired](national identity card issued in stadt bonn, germany on 21.6.2006, expired on 20.6.2011)"
         }
       ],
       "sources": [
         {
           "code": "EU",
           "source_id": "EU.2568.35",
-          "list_url": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:035:0004:0005:EN:PDF"
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900"
         }
       ]
     },
@@ -413295,13 +413306,17 @@
         {
           "type": "National identification card",
           "value": "353010405480001 (id-National identification card)"
+        },
+        {
+          "type": "National passport",
+          "value": "C3967156 (passport-National passport) ((Indonesian number))"
         }
       ],
       "sources": [
         {
           "code": "EU",
           "source_id": "EU.2875.36",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC"
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900"
         }
       ]
     },
@@ -415843,7 +415858,8 @@
       "type": "entity",
       "name": "Mouvement pour l’Unification et le Jihad en Afrique de l’Ouest",
       "aliases": [
-        "MUJAO"
+        "MUJAO",
+        "حركة التوحيد والجهاد في غرب إفريقيا"
       ],
       "country": "MALI",
       "program": "TAQA",
@@ -415856,7 +415872,7 @@
         {
           "code": "EU",
           "source_id": "EU.3025.21",
-          "list_url": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:338:0023:0024:EN:PDF"
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900"
         }
       ]
     },
@@ -421523,7 +421539,9 @@
       "aliases": [
         "Shafi al-Ajmi",
         "Sheikh Shafi al-Ajmi",
-        "Shaykh Abu-Sultan"
+        "Shaykh Abu-Sultan",
+        "Shafi S. M. S. Alajmi",
+        "شافي سلطان محمد سلطان العجمي"
       ],
       "country": "KUWAIT",
       "program": "TAQA",
@@ -421535,13 +421553,21 @@
         {
           "type": "National passport",
           "value": "0216155930 (passport-National passport) ((passport no. ))"
+        },
+        {
+          "type": "National identification card",
+          "value": "273010101204 (id-National identification card) (National identification no)"
+        },
+        {
+          "type": "National passport",
+          "value": "03111298 (passport-National passport)  (on 2010-09-16)[known to be expired](expired 15.9.2020 in the name of Shafi S M S Alajmi,)"
         }
       ],
       "sources": [
         {
           "code": "EU",
           "source_id": "EU.2913.65",
-          "list_url": "http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0002&from=EN"
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601960&qid=1787581359299"
         }
       ]
     },
@@ -424629,7 +424655,7 @@
         {
           "code": "EU",
           "source_id": "EU.3403.46",
-          "list_url": "http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1063&from=EN"
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900"
         }
       ]
     },
@@ -424649,7 +424675,7 @@
         {
           "code": "EU",
           "source_id": "EU.3404.11",
-          "list_url": "http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1063&from=EN"
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900"
         }
       ]
     },
@@ -425401,7 +425427,7 @@
         {
           "code": "EU",
           "source_id": "EU.3438.68",
-          "list_url": "http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN"
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900"
         }
       ]
     },
@@ -434472,7 +434498,8 @@
         "Brainse na hÁise Theas",
         "Cúige Khorasan an Stáit Ioslamaigh",
         "An Stáit Ioslamach san Iaráic agus sa Leiveaint — Khorasan",
-        "ISIL - K"
+        "ISIL - K",
+        "ISKP"
       ],
       "country": null,
       "program": "TAQA",
@@ -434485,7 +434512,7 @@
         {
           "code": "EU",
           "source_id": "EU.5121.69",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.116.01.0010.01.ENG&toc=OJ%3AL%3A2023%3A116%3ATOC"
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601960&qid=1787581359299"
         }
       ]
     },
@@ -546027,35 +546054,6 @@
       ]
     },
     {
-      "id": "mtf-22132",
-      "type": "entity",
-      "name": "ongxin Zhicheng Technology Group Company Limited",
-      "aliases": [
-        "Beijing Integrity Technology Company Limited,",
-        "永信至诚科技集团股份有限公司",
-        "Integrity Technology Group"
-      ],
-      "country": "CHINA",
-      "program": "CYB",
-      "listing_date": "2026-03-16",
-      "imo": null,
-      "flag": null,
-      "vessel_type": null,
-      "identifiers": [
-        {
-          "type": "Other identification number",
-          "value": "91110108562135265P (other-Other identification number)  (in Beijing)(Unified Social Credit Code\\nDate of registration: 2.9.2010)"
-        }
-      ],
-      "sources": [
-        {
-          "code": "EU",
-          "source_id": "EU.14292.14",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589"
-        }
-      ]
-    },
-    {
       "id": "mtf-22133",
       "type": "entity",
       "name": "Haywire Kitten",
@@ -554320,6 +554318,260 @@
       ]
     },
     {
+      "id": "mtf-38763",
+      "type": "person",
+      "name": "Мария Владимировна ДУДКО",
+      "aliases": [
+        "Maria Vladimirovna DUDKO"
+      ],
+      "country": null,
+      "program": "RUSDA",
+      "listing_date": "2026-06-15",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.14932.69",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38764",
+      "type": "person",
+      "name": "Саша ЙОСТ",
+      "aliases": [
+        "Sasha JOST",
+        "Александра ЙОСТ",
+        "Alexandra JOST"
+      ],
+      "country": null,
+      "program": "RUSDA",
+      "listing_date": "2026-06-15",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.14933.68",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38765",
+      "type": "person",
+      "name": "Роман Юрьевич АНТОНОВСКИЙ",
+      "aliases": [
+        "Roman Yurevich ANTONOVSKII"
+      ],
+      "country": null,
+      "program": "RUSDA",
+      "listing_date": "2026-06-15",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.14934.67",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38766",
+      "type": "person",
+      "name": "Павел Алексеевич АСТАХОВ",
+      "aliases": [
+        "Pavel Alekseyevich ASTAKHOV"
+      ],
+      "country": null,
+      "program": "RUSDA",
+      "listing_date": "2026-06-15",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.14935.66",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38767",
+      "type": "person",
+      "name": "Ольга Адольфовна КИРИЙ",
+      "aliases": [
+        "Olga Adolfovna KIRIY"
+      ],
+      "country": null,
+      "program": "RUSDA",
+      "listing_date": "2026-06-15",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.14936.65",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38768",
+      "type": "person",
+      "name": "Игор Валентинович МАЛЬЦЕВ",
+      "aliases": [
+        "Igor Valentinovich MALTSEV"
+      ],
+      "country": null,
+      "program": "RUSDA",
+      "listing_date": "2026-06-15",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.14937.64",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38769",
+      "type": "person",
+      "name": "Мария Юрьевна ВОЛКОНСКАЯ",
+      "aliases": [
+        "Марія Юріївна ВОЛКОНСЬКА",
+        "Maria Yurievna VOLKONSKAYA"
+      ],
+      "country": null,
+      "program": "RUSDA",
+      "listing_date": "2026-06-15",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.14938.63",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38770",
+      "type": "person",
+      "name": "Анатолий Александрович КУЗИЧЕВ",
+      "aliases": [
+        "Anatoly Aleksandrovich KUZICHEV"
+      ],
+      "country": null,
+      "program": "RUSDA",
+      "listing_date": "2026-06-15",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.14939.62",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38771",
+      "type": "person",
+      "name": "Георгий Александрович ШЕВКУНОВ",
+      "aliases": [
+        "Georgiy Aleksandrovich SHEVKUNOV"
+      ],
+      "country": null,
+      "program": "RUSDA",
+      "listing_date": "2026-06-15",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.14940.40",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38772",
+      "type": "person",
+      "name": "Кирилл ФЕДОРОВ",
+      "aliases": [
+        "Kirill FEDOROV"
+      ],
+      "country": null,
+      "program": "RUSDA",
+      "listing_date": "2026-06-15",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.14941.39",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38773",
+      "type": "entity",
+      "name": "Президентский Фонд Культурных Инициатив / ПФКИ",
+      "aliases": [
+        "Presidential Foundation for Cultural Initiatives/ PFKI"
+      ],
+      "country": "RUSSIAN FEDERATION",
+      "program": "RUSDA",
+      "listing_date": "2026-06-15",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "Tax identification number",
+          "value": "9704068763 (taxid-Tax identification number) (INN)"
+        },
+        {
+          "type": "Registration Number",
+          "value": "1217700257170 (regnumber-Registration Number)  (on 2021-06-01)(OGRN)"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.14942.38",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356"
+        }
+      ]
+    },
+    {
       "id": "mtf-25645",
       "type": "person",
       "name": "דניאלה וייס",
@@ -554527,6 +554779,668 @@
           "code": "EU",
           "source_id": "EU.14999.70",
           "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38774",
+      "type": "person",
+      "name": "Елена Геннадьевна БАГУДИНА",
+      "aliases": [
+        "Elena Gennadyevna BAGUDINA"
+      ],
+      "country": null,
+      "program": "RUS",
+      "listing_date": "2026-07-13",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.15000.71",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38775",
+      "type": "person",
+      "name": "Дмитрий Валерьянович ГАЧКО",
+      "aliases": [
+        "Dmitry Valerianovich GACHKO"
+      ],
+      "country": null,
+      "program": "RUS",
+      "listing_date": "2026-07-13",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.15001.70",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38776",
+      "type": "person",
+      "name": "Сергей Анатольевич ОВЧИННИКОВ",
+      "aliases": [
+        "Sergey Anatolevich OVCHINNIKOV"
+      ],
+      "country": null,
+      "program": "RUS",
+      "listing_date": "2026-07-13",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.15002.69",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38777",
+      "type": "person",
+      "name": "Михаил Михайлович ФОМИН",
+      "aliases": [
+        "Mikhail Mikhailovich FOMIN"
+      ],
+      "country": null,
+      "program": "RUS",
+      "listing_date": "2026-07-13",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.15003.68",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38778",
+      "type": "person",
+      "name": "Александр Владимирович ГНУТОВ",
+      "aliases": [
+        "Alexander Vladimirovich GNUTOV"
+      ],
+      "country": null,
+      "program": "RUS",
+      "listing_date": "2026-07-13",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "National passport",
+          "value": "6100202615 (passport-National passport)"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.15004.67",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38779",
+      "type": "person",
+      "name": "Алексей Владимирович АНАШКИН",
+      "aliases": [
+        "Alexei Vladimirovich ANASHKIN"
+      ],
+      "country": null,
+      "program": "RUS",
+      "listing_date": "2026-07-13",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "National passport",
+          "value": "8902524698 (passport-National passport)"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.15005.66",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38780",
+      "type": "person",
+      "name": "Егор Викторович АВЕРКИН",
+      "aliases": [
+        "Egor Viktorovich AVERKIN"
+      ],
+      "country": null,
+      "program": "RUS",
+      "listing_date": "2026-07-13",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "National passport",
+          "value": "8912267789 (passport-National passport)"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.15006.65",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38781",
+      "type": "person",
+      "name": "Александр Анатольевич ГРИШАНИН",
+      "aliases": [
+        "Alexander Anatolevich GRISHANIN"
+      ],
+      "country": null,
+      "program": "RUS",
+      "listing_date": "2026-07-13",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "National passport",
+          "value": "8911222216 (passport-National passport)"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.15007.64",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38782",
+      "type": "person",
+      "name": "Семен Викторович КУЗНЕЦОВ",
+      "aliases": [
+        "Semyon Viktorovich KUZNETSOV"
+      ],
+      "country": null,
+      "program": "RUS",
+      "listing_date": "2026-07-13",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "National passport",
+          "value": "79271857062 (passport-National passport)"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.15008.63",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38783",
+      "type": "person",
+      "name": "Иван Васильевич ВЕШКИН",
+      "aliases": [
+        "Ivan Vasilyevich VESHKIN"
+      ],
+      "country": null,
+      "program": "RUS",
+      "listing_date": "2026-07-13",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "National passport",
+          "value": "8903739994 (passport-National passport)"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.15009.62",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38784",
+      "type": "person",
+      "name": "Галина Васильевна МОКШАНОВА",
+      "aliases": [
+        "Galina Vasilievna MOKSHANOVA"
+      ],
+      "country": null,
+      "program": "RUS",
+      "listing_date": "2026-07-13",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "National passport",
+          "value": "8910200628 (passport-National passport)"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.15010.40",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38785",
+      "type": "entity",
+      "name": "VK",
+      "aliases": [],
+      "country": "RUSSIAN FEDERATION",
+      "program": "RUS",
+      "listing_date": "2026-07-13",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "Other identification number",
+          "value": "1233900010585 (other-Other identification number) (OGRN (Trade register number))"
+        },
+        {
+          "type": "Other identification number",
+          "value": "3900015862 (other-Other identification number) (TIN)"
+        },
+        {
+          "type": "Tax identification number",
+          "value": "3900015862 (taxid-Tax identification number) (INN (Russian tax ID))"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.15011.39",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38786",
+      "type": "entity",
+      "name": "Акционерное Общество Инвестиционная Компания Коммуникационная Платформа",
+      "aliases": [
+        "Communication Platform LLC"
+      ],
+      "country": "RUSSIAN FEDERATION",
+      "program": "RUS",
+      "listing_date": "2026-07-13",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "Other identification number",
+          "value": "9714058267 (other-Other identification number) (TIN)"
+        },
+        {
+          "type": "Tax identification number",
+          "value": "9714058267 (taxid-Tax identification number) (INN (Russian tax ID))"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.15014.36",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38787",
+      "type": "entity",
+      "name": "永信至诚科技集团股份有限公司",
+      "aliases": [
+        "Yongxin Zhicheng Technology Group Company Limited",
+        "Beijing Integrity Technology Company Limited",
+        "Integrity Technology Group"
+      ],
+      "country": "CHINA",
+      "program": "CYB",
+      "listing_date": "2026-03-16",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "Other identification number",
+          "value": "91110108562135265P (other-Other identification number)  (in Beijing)(Unified Social Credit Code Date of registration: 2.9.2010)"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.15015.35",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38788",
+      "type": "person",
+      "name": "Ali Akbar ANSARI",
+      "aliases": [
+        "Ali ANSARI"
+      ],
+      "country": null,
+      "program": "IRN",
+      "listing_date": "2026-07-30",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.15016.34",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601883"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38789",
+      "type": "entity",
+      "name": "MAPNA Group",
+      "aliases": [],
+      "country": "IRAN (ISLAMIC REPUBLIC OF)",
+      "program": "IRN",
+      "listing_date": "2026-07-30",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "Other identification number",
+          "value": "411111477788 (other-Other identification number)"
+        },
+        {
+          "type": "Other identification number",
+          "value": "10101431259 (other-Other identification number) (National ID)"
+        },
+        {
+          "type": "Registration Number",
+          "value": "99134 (regnumber-Registration Number)"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.15017.33",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601883"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38790",
+      "type": "person",
+      "name": "Александр Юрьевич ЧАЙКО",
+      "aliases": [
+        "Alexander Yuryevich CHAIKO",
+        "Aleksandr Yuryevich CHAYKO"
+      ],
+      "country": null,
+      "program": "UKR",
+      "listing_date": "2026-03-16",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "Tax identification number",
+          "value": "503009120703 (taxid-Tax identification number)"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.15018.32",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38791",
+      "type": "person",
+      "name": "Андрей Викторович КОНДРОВ",
+      "aliases": [
+        "Andrey Viktorovich KONDROV"
+      ],
+      "country": null,
+      "program": "UKR",
+      "listing_date": "2026-03-16",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.15019.31",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38792",
+      "type": "person",
+      "name": "Артем Игоревич ГОРОДИЛОВ",
+      "aliases": [
+        "Artem Igorevich GORODILOV"
+      ],
+      "country": null,
+      "program": "UKR",
+      "listing_date": "2026-03-16",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "Tax identification number",
+          "value": "370203319194 (taxid-Tax identification number)"
+        },
+        {
+          "type": "National passport",
+          "value": "series 4507 No 336855 (passport-National passport)  (on 2004-08-20)(issued on\\n20.8.2004 by the centre of internal affairs in\\nMoscow (Sokolniki District))"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.15020.9",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38793",
+      "type": "person",
+      "name": "Сергей Викторович ЧУБАРЫКИН",
+      "aliases": [
+        "Sergey Viktorovich CHUBARYKIN"
+      ],
+      "country": null,
+      "program": "UKR",
+      "listing_date": "2026-03-16",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "Tax identification number",
+          "value": "231523648681 (taxid-Tax identification number)"
+        },
+        {
+          "type": "National passport",
+          "value": "series 6102 No 632261 (passport-National passport)  (on 2002-10-16)"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.15021.8",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38794",
+      "type": "person",
+      "name": "Віктор Вікторович ФIЛОНОВ",
+      "aliases": [
+        "Виктор Викторович ФИЛОНОВ",
+        "Viktor Viktorovich FILONOV"
+      ],
+      "country": null,
+      "program": "UKR",
+      "listing_date": "2026-03-16",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.15022.7",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38795",
+      "type": "person",
+      "name": "Владимир Вячеславович СЕЛИВЁРСТОВ",
+      "aliases": [
+        "Vladimir Viatcheslavovitch SELIVERSTOV"
+      ],
+      "country": "RUSSIAN FEDERATION",
+      "program": "UKR",
+      "listing_date": "2026-03-16",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "National passport",
+          "value": "series 3418 No 265658 (passport-National passport) (issued in 2018)"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.15023.6",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38796",
+      "type": "person",
+      "name": "Вадим Иванович ПАНКОВ",
+      "aliases": [
+        "Vadim Ivanovych PANKOV"
+      ],
+      "country": null,
+      "program": "UKR",
+      "listing_date": "2026-03-16",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.15024.5",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38797",
+      "type": "person",
+      "name": "Денис Александрович СУВОРОВ",
+      "aliases": [
+        "Denis Aleksandrovich SUVOROV"
+      ],
+      "country": null,
+      "program": "UKR",
+      "listing_date": "2026-03-16",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.15025.4",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38798",
+      "type": "person",
+      "name": "Алексей Николаевич ТОЛМАЧЕВ",
+      "aliases": [
+        "Aleksey Nikolaevich TOLMACHEV"
+      ],
+      "country": null,
+      "program": "UKR",
+      "listing_date": "2026-03-16",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "Tax identification number",
+          "value": "463205326671 (taxid-Tax identification number)"
+        },
+        {
+          "type": "National passport",
+          "value": "series 6103 No 814361 (passport-National passport)  (on 2003-04-08)(issued on\\n8.4.2003 by the Railway District Department\\nof Internal Affairs)"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.15026.3",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613"
         }
       ]
     }
