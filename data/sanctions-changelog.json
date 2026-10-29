@@ -479557,6 +479557,84 @@
       "entity_id": "mtf-18265",
       "action": "modified",
       "note": "Record updated: FARDIS PRISON"
+    },
+    {
+      "date": "2026-10-29",
+      "entity_id": "mtf-38799",
+      "action": "added",
+      "note": "New listing detected: ZIGAMA CREDIT AND SAVINGS SOCIETY"
+    },
+    {
+      "date": "2026-10-29",
+      "entity_id": "mtf-38800",
+      "action": "added",
+      "note": "New listing detected: FIRST FINANCIAL AND TECHNICAL DEVELOPMENT CENTER"
+    },
+    {
+      "date": "2026-10-29",
+      "entity_id": "mtf-38801",
+      "action": "added",
+      "note": "New listing detected: KIM, Kyong Ju"
+    },
+    {
+      "date": "2026-10-29",
+      "entity_id": "mtf-38802",
+      "action": "added",
+      "note": "New listing detected: SO, Hyong Jin"
+    },
+    {
+      "date": "2026-10-29",
+      "entity_id": "mtf-38803",
+      "action": "added",
+      "note": "New listing detected: HAN, Yu Song"
+    },
+    {
+      "date": "2026-10-29",
+      "entity_id": "mtf-38804",
+      "action": "added",
+      "note": "New listing detected: KIM, Sung Gwan"
+    },
+    {
+      "date": "2026-10-29",
+      "entity_id": "mtf-38805",
+      "action": "added",
+      "note": "New listing detected: HYON, Se Il"
+    },
+    {
+      "date": "2026-10-29",
+      "entity_id": "mtf-38806",
+      "action": "added",
+      "note": "New listing detected: BOYKOV, Ilya Aleksandrovich"
+    },
+    {
+      "date": "2026-10-29",
+      "entity_id": "mtf-38807",
+      "action": "added",
+      "note": "New listing detected: KIM, Ki Hyok"
+    },
+    {
+      "date": "2026-10-29",
+      "entity_id": "mtf-38808",
+      "action": "added",
+      "note": "New listing detected: KIM, Hyo Dong"
+    },
+    {
+      "date": "2026-10-29",
+      "entity_id": "mtf-38809",
+      "action": "added",
+      "note": "New listing detected: OBERTAS, Vitold Viktorovich"
+    },
+    {
+      "date": "2026-10-29",
+      "entity_id": "mtf-38810",
+      "action": "added",
+      "note": "New listing detected: MINISTRY OF DEFENCE OF THE REPUBLIC OF RWANDA"
+    },
+    {
+      "date": "2026-10-29",
+      "entity_id": "mtf-04375",
+      "action": "modified",
+      "note": "Record updated: RI, Thae Chol"
     }
   ],
   "note": "Live changelog — append-only history of Monaco Trade Forum sanctions data synchronisations."
