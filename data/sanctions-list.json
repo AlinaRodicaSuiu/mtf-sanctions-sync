@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "mode": "live",
-  "last_synchronised": "2026-11-04",
+  "last_synchronised": "2026-11-05",
   "note": "Live data, normalised and deduplicated by Monaco Trade Forum from the sources listed below.",
   "sources": [
     {
@@ -10,7 +10,7 @@
       "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList",
       "license": "U.S. Government work — public domain (17 U.S.C. §105)",
       "code": "OFAC",
-      "last_updated": "Wed, 28 Oct 2026 14:03:09 GMT",
+      "last_updated": "Wed, 04 Nov 2026 17:33:12 GMT",
       "fetched_this_run": true
     },
     {
@@ -375217,7 +375217,7 @@
       "name": "TOLIBOV, Mohammed Ali",
       "aliases": [],
       "country": null,
-      "program": "NPWMD] [IFSR",
+      "program": "NPWMD] [IFSR] [IRAN-CON-ARMS-EO",
       "listing_date": null,
       "imo": null,
       "flag": "-0-",
@@ -382177,7 +382177,7 @@
       "name": "VANGUARD TACTICAL SUPPLY LIMITED",
       "aliases": [],
       "country": null,
-      "program": "NPWMD] [IFSR",
+      "program": "NPWMD] [IFSR] [IRAN-CON-ARMS-EO",
       "listing_date": null,
       "imo": null,
       "flag": "-0-",
@@ -392652,6 +392652,286 @@
       ]
     },
     {
+      "id": "mtf-38811",
+      "type": "entity",
+      "name": "FUGO GROUND SERVICES INC",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59050",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38812",
+      "type": "person",
+      "name": "SHARMA, Suniel Kumar",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59053",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38813",
+      "type": "person",
+      "name": "SHAHID, Jaspreet Preeti",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59054",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38814",
+      "type": "entity",
+      "name": "OCEANIEK TECHNOLOGIES INDIA",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59055",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38815",
+      "type": "person",
+      "name": "DHIMAN, Ashwani Kumar",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59056",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38816",
+      "type": "person",
+      "name": "SINGH, Ishwinder",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59057",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38817",
+      "type": "entity",
+      "name": "ESWATINI MARITIME AFFAIRS AND INTERNATIONAL SHIP REGISTRY PTE. LTD.",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59058",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38818",
+      "type": "entity",
+      "name": "PRECEPT TRENDS PRIVATE LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59059",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38819",
+      "type": "entity",
+      "name": "POLYNESIA MARITIME PRIVATE LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59060",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38820",
+      "type": "entity",
+      "name": "ALEXARYA FINSERV PRIVATE LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59061",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38821",
+      "type": "entity",
+      "name": "ALEXARYA MEDIA AND ENTERTAINMENT PRIVATE LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59062",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38822",
+      "type": "entity",
+      "name": "ARYAVART SHIP MANAGEMENT PRIVATE LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59063",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38823",
+      "type": "entity",
+      "name": "VIHARABOATING PRIVATE LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59064",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38824",
+      "type": "entity",
+      "name": "ARYAVART MARITIME AND EDUCATIONAL TRUST",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59065",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
       "id": "mtf-38810",
       "type": "entity",
       "name": "MINISTRY OF DEFENCE OF THE REPUBLIC OF RWANDA",
@@ -392667,6 +392947,26 @@
         {
           "code": "OFAC",
           "source_id": "SDN-59069",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38825",
+      "type": "person",
+      "name": "DOMULLODZHANOV, Alisher",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-CON-ARMS-EO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59090",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]

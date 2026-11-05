@@ -479635,6 +479635,108 @@
       "entity_id": "mtf-04375",
       "action": "modified",
       "note": "Record updated: RI, Thae Chol"
+    },
+    {
+      "date": "2026-11-05",
+      "entity_id": "mtf-38811",
+      "action": "added",
+      "note": "New listing detected: FUGO GROUND SERVICES INC"
+    },
+    {
+      "date": "2026-11-05",
+      "entity_id": "mtf-38812",
+      "action": "added",
+      "note": "New listing detected: SHARMA, Suniel Kumar"
+    },
+    {
+      "date": "2026-11-05",
+      "entity_id": "mtf-38813",
+      "action": "added",
+      "note": "New listing detected: SHAHID, Jaspreet Preeti"
+    },
+    {
+      "date": "2026-11-05",
+      "entity_id": "mtf-38814",
+      "action": "added",
+      "note": "New listing detected: OCEANIEK TECHNOLOGIES INDIA"
+    },
+    {
+      "date": "2026-11-05",
+      "entity_id": "mtf-38815",
+      "action": "added",
+      "note": "New listing detected: DHIMAN, Ashwani Kumar"
+    },
+    {
+      "date": "2026-11-05",
+      "entity_id": "mtf-38816",
+      "action": "added",
+      "note": "New listing detected: SINGH, Ishwinder"
+    },
+    {
+      "date": "2026-11-05",
+      "entity_id": "mtf-38817",
+      "action": "added",
+      "note": "New listing detected: ESWATINI MARITIME AFFAIRS AND INTERNATIONAL SHIP REGISTRY PTE. LTD."
+    },
+    {
+      "date": "2026-11-05",
+      "entity_id": "mtf-38818",
+      "action": "added",
+      "note": "New listing detected: PRECEPT TRENDS PRIVATE LIMITED"
+    },
+    {
+      "date": "2026-11-05",
+      "entity_id": "mtf-38819",
+      "action": "added",
+      "note": "New listing detected: POLYNESIA MARITIME PRIVATE LIMITED"
+    },
+    {
+      "date": "2026-11-05",
+      "entity_id": "mtf-38820",
+      "action": "added",
+      "note": "New listing detected: ALEXARYA FINSERV PRIVATE LIMITED"
+    },
+    {
+      "date": "2026-11-05",
+      "entity_id": "mtf-38821",
+      "action": "added",
+      "note": "New listing detected: ALEXARYA MEDIA AND ENTERTAINMENT PRIVATE LIMITED"
+    },
+    {
+      "date": "2026-11-05",
+      "entity_id": "mtf-38822",
+      "action": "added",
+      "note": "New listing detected: ARYAVART SHIP MANAGEMENT PRIVATE LIMITED"
+    },
+    {
+      "date": "2026-11-05",
+      "entity_id": "mtf-38823",
+      "action": "added",
+      "note": "New listing detected: VIHARABOATING PRIVATE LIMITED"
+    },
+    {
+      "date": "2026-11-05",
+      "entity_id": "mtf-38824",
+      "action": "added",
+      "note": "New listing detected: ARYAVART MARITIME AND EDUCATIONAL TRUST"
+    },
+    {
+      "date": "2026-11-05",
+      "entity_id": "mtf-38825",
+      "action": "added",
+      "note": "New listing detected: DOMULLODZHANOV, Alisher"
+    },
+    {
+      "date": "2026-11-05",
+      "entity_id": "mtf-18739",
+      "action": "modified",
+      "note": "Record updated: TOLIBOV, Mohammed Ali"
+    },
+    {
+      "date": "2026-11-05",
+      "entity_id": "mtf-19074",
+      "action": "modified",
+      "note": "Record updated: VANGUARD TACTICAL SUPPLY LIMITED"
     }
   ],
   "note": "Live changelog — append-only history of Monaco Trade Forum sanctions data synchronisations."
