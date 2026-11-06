@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "mode": "live",
-  "last_synchronised": "2026-11-05",
+  "last_synchronised": "2026-11-06",
   "note": "Live data, normalised and deduplicated by Monaco Trade Forum from the sources listed below.",
   "sources": [
     {
@@ -10,7 +10,7 @@
       "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList",
       "license": "U.S. Government work — public domain (17 U.S.C. §105)",
       "code": "OFAC",
-      "last_updated": "Wed, 04 Nov 2026 17:33:12 GMT",
+      "last_updated": "Thu, 05 Nov 2026 17:30:40 GMT",
       "fetched_this_run": true
     },
     {
@@ -118812,7 +118812,7 @@
       "name": "ESPERANZA",
       "aliases": [],
       "country": null,
-      "program": "VENEZUELA-EO13850",
+      "program": "VENEZUELA-EO13850] [CUBA-EO14404",
       "listing_date": null,
       "imo": "9289166",
       "flag": "Cuba",
@@ -124541,13 +124541,13 @@
     {
       "id": "mtf-06211",
       "type": "vessel",
-      "name": "GIRALT",
+      "name": "LOURDES",
       "aliases": [],
       "country": null,
-      "program": "VENEZUELA-EO13850",
+      "program": "VENEZUELA-EO13850] [CUBA-EO14404",
       "listing_date": null,
       "imo": "9259692",
-      "flag": "Panama",
+      "flag": "Cuba",
       "vessel_type": "Crude Oil Tanker",
       "identifiers": [],
       "sources": [
@@ -124564,7 +124564,7 @@
       "name": "CAROIL TRANSPORT MARINE LTD",
       "aliases": [],
       "country": null,
-      "program": "VENEZUELA-EO13850",
+      "program": "VENEZUELA-EO13850] [CUBA-EO14404",
       "listing_date": null,
       "imo": null,
       "flag": "-0-",
@@ -124661,13 +124661,13 @@
     {
       "id": "mtf-06217",
       "type": "vessel",
-      "name": "CARLOTA C",
+      "name": "MARIA CRISTINA",
       "aliases": [],
       "country": null,
-      "program": "VENEZUELA-EO13850",
+      "program": "VENEZUELA-EO13850] [CUBA-EO14404",
       "listing_date": null,
       "imo": "9502453",
-      "flag": "Panama",
+      "flag": "Cuba",
       "vessel_type": "Chemical/Products Tanker",
       "identifiers": [],
       "sources": [
@@ -140358,7 +140358,7 @@
       "name": "CEIEC",
       "aliases": [],
       "country": null,
-      "program": "VENEZUELA",
+      "program": "VENEZUELA] [CUBA-EO14404",
       "listing_date": null,
       "imo": null,
       "flag": "-0-",
@@ -388892,6 +388892,166 @@
       ]
     },
     {
+      "id": "mtf-38826",
+      "type": "entity",
+      "name": "ASIAN WELFARE LOTTERIES CO LTD",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58563",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38827",
+      "type": "entity",
+      "name": "CB GENERAL INSURANCE PLC",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58564",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38828",
+      "type": "entity",
+      "name": "CAMBODIAN RESOURCE ENERGY DEVELOPMENT CO LTD",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58565",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38829",
+      "type": "entity",
+      "name": "CAMBODIAN UNITE WEI YE INVESTMENT CO LTD",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58566",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38830",
+      "type": "entity",
+      "name": "DT ZHI ZAO CO LTD",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58567",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38831",
+      "type": "entity",
+      "name": "FIRST AQUATIC INDUSTRIAL CO LTD",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58568",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38832",
+      "type": "entity",
+      "name": "MO NET BEAUTY CO LTD",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58569",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38833",
+      "type": "entity",
+      "name": "PRINCE INTERNATIONAL AIRLINES CO LTD",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58570",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
       "id": "mtf-38717",
       "type": "entity",
       "name": "INTERNATIONAL DEVELOPMENT BANK FOR INVESTMENT AND FINANCE",
@@ -388912,6 +389072,106 @@
       ]
     },
     {
+      "id": "mtf-38834",
+      "type": "entity",
+      "name": "RICHENG PROPERTY DEVELOPER CO LTD",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58572",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38835",
+      "type": "entity",
+      "name": "TIAN XU INTERNATIONAL TECHNOLOGY PLC",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58573",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38836",
+      "type": "entity",
+      "name": "ZHX PRINTING EQUIPMENT CAMBODIA CO LTD",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58574",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38837",
+      "type": "person",
+      "name": "QIU, Yong",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58575",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38838",
+      "type": "person",
+      "name": "HE, Yujing",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58595",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
       "id": "mtf-38505",
       "type": "person",
       "name": "TAJAMMAL, Waseem Pasha",
@@ -388927,6 +389187,26 @@
         {
           "code": "OFAC",
           "source_id": "SDN-58596",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38839",
+      "type": "entity",
+      "name": "SUPER LIGHT SPEED KH TECHNOLOGY CO., LTD.",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58597",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]
@@ -389172,6 +389452,26 @@
       ]
     },
     {
+      "id": "mtf-38840",
+      "type": "person",
+      "name": "PANG, Visal",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58625",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
       "id": "mtf-38608",
       "type": "entity",
       "name": "A7 NETWORK",
@@ -389187,6 +389487,66 @@
         {
           "code": "OFAC",
           "source_id": "SDN-58626",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38841",
+      "type": "entity",
+      "name": "CAMBODIA FIRST UNITE CONSTRUCTION GROUP CO., LTD.",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58627",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38842",
+      "type": "entity",
+      "name": "FIRST UNITE INTERNATIONAL LOGISTICS CO., LTD.",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58628",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38843",
+      "type": "entity",
+      "name": "FIRST UNITE NETWORKS ENTERTAINMENT CO., LTD.",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58629",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]
@@ -389227,6 +389587,226 @@
         {
           "code": "OFAC",
           "source_id": "SDN-58631",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38844",
+      "type": "entity",
+      "name": "FIRST UNITE PROPERTY CO., LTD.",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58632",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38845",
+      "type": "entity",
+      "name": "FIRST UNITE DECORATION CAMBODIA CO., LTD.",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58636",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38846",
+      "type": "entity",
+      "name": "CAMBODIAN FIRST UNITE CONSTRUCTION MACHINERY CO., LTD.",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58637",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38847",
+      "type": "entity",
+      "name": "LINKEDUS TECHNOLOGY CO., LTD.",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58638",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38848",
+      "type": "entity",
+      "name": "CAMBO DUTY FREE MERCHANDISE CO., LTD.",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58639",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38849",
+      "type": "entity",
+      "name": "MARCO POLO HOTEL CO. LTD.",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58640",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38850",
+      "type": "entity",
+      "name": "U-LIFE GO NOW CO., LTD.",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58641",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38851",
+      "type": "entity",
+      "name": "U-LIFE KH SUPER APP CO., LTD.",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58642",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38852",
+      "type": "entity",
+      "name": "MERITWISE GROUP PUBLIC LTD",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58644",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38853",
+      "type": "entity",
+      "name": "CHEN HUA HOLDINGS PTE LTD",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58645",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38854",
+      "type": "entity",
+      "name": "GREENMEADOWS PROPERTIES SDN BHD",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58646",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]
@@ -389387,6 +389967,326 @@
         {
           "code": "OFAC",
           "source_id": "SDN-58654",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38855",
+      "type": "person",
+      "name": "ZHAO, Mengyao",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58655",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38856",
+      "type": "entity",
+      "name": "GREENBAY MULTI MEDIA PTE LTD",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58656",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38857",
+      "type": "entity",
+      "name": "SUN SPEED HOLDINGS LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58657",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38858",
+      "type": "entity",
+      "name": "PREMIUM FINANCIAL LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58658",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38859",
+      "type": "entity",
+      "name": "GLAD VAST LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58659",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38860",
+      "type": "entity",
+      "name": "GLAD SPARKLE LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58660",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38861",
+      "type": "entity",
+      "name": "GLAD HARVEST LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58661",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38862",
+      "type": "entity",
+      "name": "GLAD GLORY LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58662",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38863",
+      "type": "entity",
+      "name": "DIRECT ASTUTE HK LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58663",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38864",
+      "type": "entity",
+      "name": "DIRECT ASTUTE LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58664",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38865",
+      "type": "entity",
+      "name": "SOLAR SCAPE FINANCE LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58665",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38866",
+      "type": "entity",
+      "name": "SOLAR SCAPE LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58666",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38867",
+      "type": "entity",
+      "name": "VICTORY FLORA LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58667",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38868",
+      "type": "entity",
+      "name": "WIN APPLAUSE LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58668",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38869",
+      "type": "entity",
+      "name": "CELESTIAL DRIVE LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58669",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38870",
+      "type": "entity",
+      "name": "SINO SAGACIOUS LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "TCO",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58670",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]
@@ -391852,6 +392752,146 @@
       ]
     },
     {
+      "id": "mtf-38871",
+      "type": "person",
+      "name": "RODRIGUEZ LOPEZ CALLEJA, Guillermo Faustino",
+      "aliases": [],
+      "country": null,
+      "program": "CUBA-EO14404",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58890",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38872",
+      "type": "vessel",
+      "name": "GLORIA C",
+      "aliases": [],
+      "country": null,
+      "program": "CUBA-EO14404",
+      "listing_date": null,
+      "imo": "9540273",
+      "flag": "Cuba",
+      "vessel_type": "Chemical/Products Tanker",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58910",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38873",
+      "type": "entity",
+      "name": "TENTACOOL COMMERCIAL INC",
+      "aliases": [],
+      "country": null,
+      "program": "CUBA-EO14404",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58911",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38874",
+      "type": "person",
+      "name": "RODRIGUEZ LASTRES, Any",
+      "aliases": [],
+      "country": null,
+      "program": "CUBA-EO14404",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58912",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38875",
+      "type": "entity",
+      "name": "EMPRESA IMPORTADORA Y EXPORTADORA DE PRODUCTOS DE LA ELECTRONICA Y LAS COMUNICACIONES",
+      "aliases": [],
+      "country": null,
+      "program": "CUBA-EO14404",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58913",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38876",
+      "type": "entity",
+      "name": "EMPRESA COMERCIALIZADORA DE SERVICIOS TECNICOS Y TECNOLOGICOS",
+      "aliases": [],
+      "country": null,
+      "program": "CUBA-EO14404",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58915",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38877",
+      "type": "entity",
+      "name": "BEIJING H AND C TECHNOLOGIES CO., LTD",
+      "aliases": [],
+      "country": null,
+      "program": "CUBA-EO14404",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-58917",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
       "id": "mtf-38718",
       "type": "person",
       "name": "MOHAMMADI, Zhila",
@@ -392672,6 +393712,26 @@
       ]
     },
     {
+      "id": "mtf-38878",
+      "type": "person",
+      "name": "CHUI, Kok Wa",
+      "aliases": [],
+      "country": null,
+      "program": "CYBER4",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59052",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
       "id": "mtf-38812",
       "type": "person",
       "name": "SHARMA, Suniel Kumar",
@@ -392927,6 +393987,66 @@
         {
           "code": "OFAC",
           "source_id": "SDN-59065",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38879",
+      "type": "entity",
+      "name": "INTERNACIONAL MARITIMA SA",
+      "aliases": [],
+      "country": null,
+      "program": "CUBA-EO14404",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59066",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38880",
+      "type": "entity",
+      "name": "PETROLEOS MARITIMOS DEL CARIBE S.A.",
+      "aliases": [],
+      "country": null,
+      "program": "CUBA-EO14404",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59067",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-38881",
+      "type": "vessel",
+      "name": "EMILIA",
+      "aliases": [],
+      "country": null,
+      "program": "CUBA-EO14404",
+      "listing_date": null,
+      "imo": "9242209",
+      "flag": "Cuba",
+      "vessel_type": "LPG Tanker",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59068",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]
