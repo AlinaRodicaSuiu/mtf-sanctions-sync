@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "mode": "live",
-  "last_synchronised": "2026-11-07",
+  "last_synchronised": "2026-11-08",
   "note": "Live data, normalised and deduplicated by Monaco Trade Forum from the sources listed below. NOTE: EU could not be fetched this run (HTTP 500 downloading https://webgate.ec.europa.eu/fsd/fsf/public/files/csvFullSanctionsList_1_1/content?token=dG9rZW4tMjAxNw: Internal Server Error) — that source's previously-known entries were kept unchanged rather than removed.",
   "sources": [
     {
