@@ -475,7 +475,17 @@ def parse_uk_csv(path):
         print(f"[UK] WARNING: {path} is empty — no entries parsed.", file=sys.stderr)
         return entries
 
-    headers = rows[0]
+    # The FCDO export may start with preamble rows (e.g. "Report Date,...") before the
+    # real header row. Find the first row (within the first 15) that holds the key columns.
+    header_i = 0
+    for _i, _r in enumerate(rows[:15]):
+        _n = [normalise_header(h) for h in _r]
+        if find_col(_n, UK_COLUMN_ALIASES["name1"]) is not None and find_col(_n, UK_COLUMN_ALIASES["unique_id"]) is not None:
+            header_i = _i
+            break
+    if header_i:
+        print(f"[UK] Header row found at row {header_i + 1} (skipped {header_i} preamble row(s)).", file=sys.stderr)
+    headers = rows[header_i]
     headers_norm = [normalise_header(h) for h in headers]
 
     def col(field):
@@ -491,7 +501,7 @@ def parse_uk_csv(path):
         i = idx.get(field)
         return row[i].strip() if i is not None and i < len(row) else ""
 
-    for row in rows[1:]:
+    for row in rows[header_i + 1:]:
         if not row or not any(row):
             continue
         name_parts = [get(row, f"name{n}") for n in range(1, 7)]
@@ -873,7 +883,10 @@ def main():
         if not args.no_ofac:
             try:
                 path, http_last_mod = resolve_source(args.ofac, DEFAULT_OFAC_URL, tmp_dir)
-                raw += parse_ofac_csv(path)
+                _n_ofac = parse_ofac_csv(path)
+                if not _n_ofac:
+                    raise RuntimeError('OFAC file downloaded but 0 entries were parsed (format change?)')
+                raw += _n_ofac
                 fetched_codes.add("OFAC")
                 if http_last_mod:
                     source_last_updated["OFAC"] = http_last_mod
@@ -884,7 +897,10 @@ def main():
         if not args.no_uk:
             try:
                 path, http_last_mod = resolve_source(args.uk, DEFAULT_UK_URL, tmp_dir)
-                raw += parse_uk_csv(path)
+                _n_uk = parse_uk_csv(path)
+                if not _n_uk:
+                    raise RuntimeError('UK file downloaded but 0 entries were parsed (format change?)')
+                raw += _n_uk
                 fetched_codes.add("UK")
                 if http_last_mod:
                     source_last_updated["UK"] = http_last_mod
@@ -899,6 +915,8 @@ def main():
                 file_gen_date = next((e.pop("_file_generation_date", None) for e in eu_entries[:1]), None)
                 for e in eu_entries:
                     e.pop("_file_generation_date", None)
+                if not eu_entries:
+                    raise RuntimeError('EU file downloaded but 0 entries were parsed (format change?)')
                 raw += eu_entries
                 fetched_codes.add("EU")
                 source_last_updated["EU"] = file_gen_date or http_last_mod
@@ -948,11 +966,29 @@ def main():
 
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     new_events = diff_for_changelog(existing_by_id, merged_by_id, today)
+    # A source that had no entries before (first load, or recovery after a bad run) is a
+    # baseline, not thousands of "new listings": drop the 'added' events that come only from it.
+    _existing_codes = {s_.get("code") for e_ in existing_by_id.values() for s_ in e_.get("sources", [])}
+    _baseline = {c for c in fetched_codes if c not in _existing_codes}
+    if _baseline:
+        new_events = [ev for ev in new_events
+                      if not (ev["action"] == "added"
+                              and {s_.get("code") for s_ in merged_by_id[ev["entity_id"]].get("sources", [])} <= _baseline)]
+        print(f"Baseline load for {sorted(_baseline)}: bulk 'added' events suppressed.", file=sys.stderr)
 
     changelog = {"schema_version": 1, "mode": "live", "entries": []}
     if changelog_path.exists():
         prev = json.loads(changelog_path.read_text(encoding="utf-8"))
         changelog["entries"] = [e for e in prev.get("entries", []) if not e["entity_id"].startswith("mtf-test-") and e["entity_id"] not in removed_un_ids]
+        # Drop mass-removal artefacts (a day with >5000 'removed' events is a failed parse, not real delistings).
+        _rem = {}
+        for e in changelog["entries"]:
+            if e.get("action") == "removed":
+                _rem[e["date"]] = _rem.get(e["date"], 0) + 1
+        _bad = {d for d, n in _rem.items() if n > 5000}
+        if _bad:
+            changelog["entries"] = [e for e in changelog["entries"] if not (e.get("action") == "removed" and e["date"] in _bad)]
+            print(f"Purged mass 'removed' artefacts for dates {sorted(_bad)}.", file=sys.stderr)
     changelog["entries"].extend(new_events)
     changelog["note"] = "Live changelog — append-only history of Monaco Trade Forum sanctions data synchronisations."
 
