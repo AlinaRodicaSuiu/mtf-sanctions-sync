@@ -416083,6 +416083,24 @@
       "entity_id": "mtf-49221",
       "action": "modified",
       "note": "Record updated: NOVUS ENERGY DMCC"
+    },
+    {
+      "date": "2026-11-14",
+      "entity_id": "mtf-52136",
+      "action": "added",
+      "note": "New listing detected: LOS MENDOZA DRUG TRAFFICKING ORGANIZATION"
+    },
+    {
+      "date": "2026-11-14",
+      "entity_id": "mtf-52137",
+      "action": "added",
+      "note": "New listing detected: LOS LORENZANAS"
+    },
+    {
+      "date": "2026-11-14",
+      "entity_id": "mtf-07432",
+      "action": "modified",
+      "note": "Record updated: LOS HUISTAS DRUG TRAFFICKING ORGANIZATION"
     }
   ],
   "note": "Live changelog — append-only history of Monaco Trade Forum sanctions data synchronisations."

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "mode": "live",
-  "last_synchronised": "2026-11-13",
+  "last_synchronised": "2026-11-14",
   "note": "Live data, normalised and deduplicated by Monaco Trade Forum from the sources listed below.",
   "sources": [
     {
@@ -10,7 +10,7 @@
       "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList",
       "license": "U.S. Government work — public domain (17 U.S.C. §105)",
       "code": "OFAC",
-      "last_updated": "Mon, 09 Nov 2026 19:36:18 GMT",
+      "last_updated": "Fri, 13 Nov 2026 16:33:06 GMT",
       "fetched_this_run": true
     },
     {
@@ -162826,7 +162826,7 @@
       "name": "LOS HUISTAS DRUG TRAFFICKING ORGANIZATION",
       "aliases": [],
       "country": null,
-      "program": "ILLICIT-DRUGS-EO14059",
+      "program": "SDGT] [ILLICIT-DRUGS-EO14059",
       "listing_date": null,
       "imo": null,
       "flag": "-0-",
@@ -409706,6 +409706,26 @@
       ]
     },
     {
+      "id": "mtf-52136",
+      "type": "entity",
+      "name": "LOS MENDOZA DRUG TRAFFICKING ORGANIZATION",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT] [ILLICIT-DRUGS-EO14059",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59031",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
       "id": "mtf-38811",
       "type": "entity",
       "name": "FUGO GROUND SERVICES INC",
@@ -410081,6 +410101,26 @@
         {
           "code": "OFAC",
           "source_id": "SDN-59069",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52137",
+      "type": "entity",
+      "name": "LOS LORENZANAS",
+      "aliases": [],
+      "country": null,
+      "program": "FTO] [SDGT",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59070",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]
