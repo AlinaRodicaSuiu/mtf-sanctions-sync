@@ -416101,6 +416101,96 @@
       "entity_id": "mtf-07432",
       "action": "modified",
       "note": "Record updated: LOS HUISTAS DRUG TRAFFICKING ORGANIZATION"
+    },
+    {
+      "date": "2026-11-17",
+      "entity_id": "mtf-52138",
+      "action": "added",
+      "note": "New listing detected: HAR HEVRON DEVELOPMENT COMPANY LTD"
+    },
+    {
+      "date": "2026-11-17",
+      "entity_id": "mtf-52139",
+      "action": "added",
+      "note": "New listing detected: HAR HEBRON DEVELOPMENT CO; SOUTHERN MT. HEBRON DEVELOPMENT CO (1986) LTD"
+    },
+    {
+      "date": "2026-11-17",
+      "entity_id": "mtf-52140",
+      "action": "added",
+      "note": "New listing detected: ARIEL RESIDENTIAL JUDEA AND SAMARIA LIMITED"
+    },
+    {
+      "date": "2026-11-17",
+      "entity_id": "mtf-52141",
+      "action": "added",
+      "note": "New listing detected: AMI GVIRTZMAN ARCHITECTS 2021 LTD"
+    },
+    {
+      "date": "2026-11-17",
+      "entity_id": "mtf-52142",
+      "action": "added",
+      "note": "New listing detected: HEMDAT SHOMRON LTD"
+    },
+    {
+      "date": "2026-11-17",
+      "entity_id": "mtf-52143",
+      "action": "added",
+      "note": "New listing detected: Z.F. BUILDING COMPANY LTD"
+    },
+    {
+      "date": "2026-11-17",
+      "entity_id": "mtf-52144",
+      "action": "added",
+      "note": "New listing detected: Z.F. CONSTRUCTION"
+    },
+    {
+      "date": "2026-11-17",
+      "entity_id": "mtf-52145",
+      "action": "added",
+      "note": "New listing detected: ZVI FOX CONSTRUCTION"
+    },
+    {
+      "date": "2026-11-17",
+      "entity_id": "mtf-52146",
+      "action": "added",
+      "note": "New listing detected: S.A.G. (VELVEL) BUILDING & DEVELOPMENT LTD."
+    },
+    {
+      "date": "2026-11-17",
+      "entity_id": "mtf-52147",
+      "action": "added",
+      "note": "New listing detected: LEV HAHAR YAZAMUT LIMITED"
+    },
+    {
+      "date": "2026-11-17",
+      "entity_id": "mtf-52148",
+      "action": "added",
+      "note": "New listing detected: HAREY ZAHAV MANAGEMENT LTD"
+    },
+    {
+      "date": "2026-11-17",
+      "entity_id": "mtf-52149",
+      "action": "added",
+      "note": "New listing detected: TZAV 9"
+    },
+    {
+      "date": "2026-11-17",
+      "entity_id": "mtf-52150",
+      "action": "added",
+      "note": "New listing detected: TSAV 9"
+    },
+    {
+      "date": "2026-11-17",
+      "entity_id": "mtf-21597",
+      "action": "modified",
+      "note": "Record updated: Order 9"
+    },
+    {
+      "date": "2026-11-17",
+      "entity_id": "mtf-43147",
+      "action": "modified",
+      "note": "Record updated: Zhi Chen"
     }
   ],
   "note": "Live changelog — append-only history of Monaco Trade Forum sanctions data synchronisations."

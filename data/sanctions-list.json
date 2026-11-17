@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "mode": "live",
-  "last_synchronised": "2026-11-16",
+  "last_synchronised": "2026-11-17",
   "note": "Live data, normalised and deduplicated by Monaco Trade Forum from the sources listed below.",
   "sources": [
     {
@@ -19,7 +19,7 @@
       "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list",
       "license": "Open Government Licence v3.0",
       "code": "UK",
-      "last_updated": "Thu, 12 Nov 2026 15:44:40 GMT",
+      "last_updated": "Tue, 17 Nov 2026 11:01:45 GMT",
       "fetched_this_run": true
     },
     {
@@ -603131,9 +603131,9 @@
     {
       "id": "mtf-43147",
       "type": "entity",
-      "name": "Zhi CHEN",
+      "name": "Zhi Chen",
       "aliases": [
-        "Zhi Chen"
+        "Zhi CHEN"
       ],
       "country": null,
       "program": "The Global Human Rights Sanctions Regulations 2020",
@@ -605171,6 +605171,300 @@
         {
           "code": "UK",
           "source_id": "GHR0202",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52138",
+      "type": "entity",
+      "name": "HAR HEVRON DEVELOPMENT COMPANY LTD",
+      "aliases": [],
+      "country": null,
+      "program": "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026",
+      "listing_date": "17/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "GHR0203",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52139",
+      "type": "entity",
+      "name": "HAR HEBRON DEVELOPMENT CO; SOUTHERN MT. HEBRON DEVELOPMENT CO (1986) LTD",
+      "aliases": [],
+      "country": null,
+      "program": "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026",
+      "listing_date": "17/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "GHR0203",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52140",
+      "type": "entity",
+      "name": "ARIEL RESIDENTIAL JUDEA AND SAMARIA LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026",
+      "listing_date": "17/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "GHR0204",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52141",
+      "type": "entity",
+      "name": "AMI GVIRTZMAN ARCHITECTS 2021 LTD",
+      "aliases": [],
+      "country": null,
+      "program": "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026",
+      "listing_date": "17/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "GHR0205",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52142",
+      "type": "entity",
+      "name": "HEMDAT SHOMRON LTD",
+      "aliases": [],
+      "country": null,
+      "program": "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026",
+      "listing_date": "17/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "GHR0206",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52143",
+      "type": "entity",
+      "name": "Z.F. BUILDING COMPANY LTD",
+      "aliases": [],
+      "country": null,
+      "program": "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026",
+      "listing_date": "17/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "GHR0207",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52144",
+      "type": "entity",
+      "name": "Z.F. CONSTRUCTION",
+      "aliases": [],
+      "country": null,
+      "program": "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026",
+      "listing_date": "17/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "GHR0207",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52145",
+      "type": "entity",
+      "name": "ZVI FOX CONSTRUCTION",
+      "aliases": [],
+      "country": null,
+      "program": "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026",
+      "listing_date": "17/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "GHR0207",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52146",
+      "type": "entity",
+      "name": "S.A.G. (VELVEL) BUILDING & DEVELOPMENT LTD.",
+      "aliases": [],
+      "country": null,
+      "program": "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026",
+      "listing_date": "17/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "GHR0208",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        },
+        {
+          "code": "UK",
+          "source_id": "GHR0208",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52147",
+      "type": "entity",
+      "name": "LEV HAHAR YAZAMUT LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026",
+      "listing_date": "17/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "GHR0210",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52148",
+      "type": "entity",
+      "name": "HAREY ZAHAV MANAGEMENT LTD",
+      "aliases": [],
+      "country": null,
+      "program": "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026",
+      "listing_date": "17/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "GHR0212",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52149",
+      "type": "entity",
+      "name": "TZAV 9",
+      "aliases": [],
+      "country": null,
+      "program": "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026",
+      "listing_date": "17/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "GHR0213",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-21597",
+      "type": "entity",
+      "name": "Order 9",
+      "aliases": [
+        "Tsav 9",
+        "Tzav 9",
+        "Ordinul 9"
+      ],
+      "country": "UNKNOWN",
+      "program": "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026",
+      "listing_date": "17/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "GHR0213",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        },
+        {
+          "code": "EU",
+          "source_id": "EU.11919.63",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401960"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52150",
+      "type": "entity",
+      "name": "TSAV 9",
+      "aliases": [],
+      "country": null,
+      "program": "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026",
+      "listing_date": "17/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "GHR0213",
           "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
         }
       ]
@@ -1016375,30 +1016669,6 @@
           "code": "EU",
           "source_id": "EU.11892.7",
           "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401602"
-        }
-      ]
-    },
-    {
-      "id": "mtf-21597",
-      "type": "entity",
-      "name": "Order 9",
-      "aliases": [
-        "Tsav 9",
-        "Tzav 9",
-        "Ordinul 9"
-      ],
-      "country": "UNKNOWN",
-      "program": "HR",
-      "listing_date": "2024-07-15",
-      "imo": null,
-      "flag": null,
-      "vessel_type": null,
-      "identifiers": [],
-      "sources": [
-        {
-          "code": "EU",
-          "source_id": "EU.11919.63",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401960"
         }
       ]
     },
