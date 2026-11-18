@@ -416191,6 +416191,12 @@
       "entity_id": "mtf-43147",
       "action": "modified",
       "note": "Record updated: Zhi Chen"
+    },
+    {
+      "date": "2026-11-18",
+      "entity_id": "mtf-43147",
+      "action": "modified",
+      "note": "Record updated: Zhi CHEN"
     }
   ],
   "note": "Live changelog — append-only history of Monaco Trade Forum sanctions data synchronisations."
