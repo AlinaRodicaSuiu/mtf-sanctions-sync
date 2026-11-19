@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "mode": "live",
-  "last_synchronised": "2026-11-18",
+  "last_synchronised": "2026-11-19",
   "note": "Live data, normalised and deduplicated by Monaco Trade Forum from the sources listed below.",
   "sources": [
     {
@@ -10,7 +10,7 @@
       "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList",
       "license": "U.S. Government work — public domain (17 U.S.C. §105)",
       "code": "OFAC",
-      "last_updated": "Fri, 13 Nov 2026 16:33:06 GMT",
+      "last_updated": "Wed, 18 Nov 2026 17:35:53 GMT",
       "fetched_this_run": true
     },
     {
@@ -410301,6 +410301,126 @@
         {
           "code": "OFAC",
           "source_id": "SDN-59099",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52151",
+      "type": "person",
+      "name": "KHECHEN, Hassan",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59173",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52152",
+      "type": "person",
+      "name": "KHECHEN, Ibrahim",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59174",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52153",
+      "type": "entity",
+      "name": "GOLD GLOBAL COMPANY",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59175",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52154",
+      "type": "entity",
+      "name": "SANKARI GOLD KUYUMCULUK TICARET LIMITED SIRKETI",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59176",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52155",
+      "type": "entity",
+      "name": "WA TA'AWANU ASSOCIATION",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59188",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52156",
+      "type": "person",
+      "name": "CHOUMAN, Afif Abdel Rida",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59189",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]

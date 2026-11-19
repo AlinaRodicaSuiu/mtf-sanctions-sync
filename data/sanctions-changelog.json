@@ -416197,6 +416197,42 @@
       "entity_id": "mtf-43147",
       "action": "modified",
       "note": "Record updated: Zhi CHEN"
+    },
+    {
+      "date": "2026-11-19",
+      "entity_id": "mtf-52151",
+      "action": "added",
+      "note": "New listing detected: KHECHEN, Hassan"
+    },
+    {
+      "date": "2026-11-19",
+      "entity_id": "mtf-52152",
+      "action": "added",
+      "note": "New listing detected: KHECHEN, Ibrahim"
+    },
+    {
+      "date": "2026-11-19",
+      "entity_id": "mtf-52153",
+      "action": "added",
+      "note": "New listing detected: GOLD GLOBAL COMPANY"
+    },
+    {
+      "date": "2026-11-19",
+      "entity_id": "mtf-52154",
+      "action": "added",
+      "note": "New listing detected: SANKARI GOLD KUYUMCULUK TICARET LIMITED SIRKETI"
+    },
+    {
+      "date": "2026-11-19",
+      "entity_id": "mtf-52155",
+      "action": "added",
+      "note": "New listing detected: WA TA'AWANU ASSOCIATION"
+    },
+    {
+      "date": "2026-11-19",
+      "entity_id": "mtf-52156",
+      "action": "added",
+      "note": "New listing detected: CHOUMAN, Afif Abdel Rida"
     }
   ],
   "note": "Live changelog — append-only history of Monaco Trade Forum sanctions data synchronisations."
