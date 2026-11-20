@@ -416233,6 +416233,186 @@
       "entity_id": "mtf-52156",
       "action": "added",
       "note": "New listing detected: CHOUMAN, Afif Abdel Rida"
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-52157",
+      "action": "added",
+      "note": "New listing detected: 'NDRANGHETA"
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-52158",
+      "action": "added",
+      "note": "New listing detected: FIGLIOMENI, Angelo"
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-52159",
+      "action": "added",
+      "note": "New listing detected: FIGLIOMENI, Cosimo"
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-52160",
+      "action": "added",
+      "note": "New listing detected: COMMISSO, Francesco"
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-52161",
+      "action": "added",
+      "note": "New listing detected: COMMISSO, Rocco Remo"
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-52162",
+      "action": "added",
+      "note": "New listing detected: VESCIO SR., Luigi"
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-52163",
+      "action": "added",
+      "note": "New listing detected: DEMARIA, Vincenzo"
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-52164",
+      "action": "added",
+      "note": "New listing detected: FRATELLI VESCIO FUNERAL HOMES LTD."
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-52165",
+      "action": "added",
+      "note": "New listing detected: VESCIO FUNERAL HOMES INC."
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-52166",
+      "action": "added",
+      "note": "New listing detected: VESCIO FUNERAL HOME MAPLE INC."
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-52167",
+      "action": "added",
+      "note": "New listing detected: VESCIO, Rose"
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-52168",
+      "action": "added",
+      "note": "New listing detected: VESCIO JR., Luigi"
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-52169",
+      "action": "added",
+      "note": "New listing detected: VESCIO, Laura"
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-52170",
+      "action": "added",
+      "note": "New listing detected: PHANTOM LIMOUSINE SERVICES INC."
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-52171",
+      "action": "added",
+      "note": "New listing detected: COMANCHERO OUTLAW MOTORCYCLE GANG"
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-52172",
+      "action": "added",
+      "note": "New listing detected: COFFEN, Marco Francis"
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-52173",
+      "action": "added",
+      "note": "New listing detected: VARELA VILLAR, Alexandre"
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-52174",
+      "action": "added",
+      "note": "New listing detected: MEEHAN, Allan John Norman"
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-52175",
+      "action": "added",
+      "note": "New listing detected: NAUFAHU, Pasilika"
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-52176",
+      "action": "added",
+      "note": "New listing detected: NAUFAHU, Vetekina"
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-52177",
+      "action": "added",
+      "note": "New listing detected: WAH, Saw Shwe"
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-52178",
+      "action": "added",
+      "note": "New listing detected: ONE, Saw A"
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-52179",
+      "action": "added",
+      "note": "New listing detected: ZHAO, Hui"
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-52180",
+      "action": "added",
+      "note": "New listing detected: BEI FANG BO LIN CONSTRUCTION DECORATION CO., LTD."
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-52181",
+      "action": "added",
+      "note": "New listing detected: ZHZ INVESTMENT CONSULTING CO., LTD."
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-52182",
+      "action": "added",
+      "note": "New listing detected: HAR HEBRON DEVELOPMENT CO"
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-52183",
+      "action": "added",
+      "note": "New listing detected: SOUTHERN MT. HEBRON DEVELOPMENT CO (1986) LTD"
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-01233",
+      "action": "removed",
+      "note": "No longer present in source lists: 'NDRANGHETA ORGANIZATION"
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-49571",
+      "action": "removed",
+      "note": "No longer present in source lists: LNG SOARS"
+    },
+    {
+      "date": "2026-11-20",
+      "entity_id": "mtf-52139",
+      "action": "removed",
+      "note": "No longer present in source lists: HAR HEBRON DEVELOPMENT CO; SOUTHERN MT. HEBRON DEVELOPMENT CO (1986) LTD"
     }
   ],
   "note": "Live changelog — append-only history of Monaco Trade Forum sanctions data synchronisations."
