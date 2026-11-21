@@ -416413,6 +416413,234 @@
       "entity_id": "mtf-52139",
       "action": "removed",
       "note": "No longer present in source lists: HAR HEBRON DEVELOPMENT CO; SOUTHERN MT. HEBRON DEVELOPMENT CO (1986) LTD"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52184",
+      "action": "added",
+      "note": "New listing detected: ARABNEJAD, Mojtaba"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52185",
+      "action": "added",
+      "note": "New listing detected: BAVAND, Mohammad Javad"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52186",
+      "action": "added",
+      "note": "New listing detected: TAJ, Majid"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52187",
+      "action": "added",
+      "note": "New listing detected: SERVATI, Mohammadhossein"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52188",
+      "action": "added",
+      "note": "New listing detected: Олег Иванович СЛАДКЕВИЧ"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52189",
+      "action": "added",
+      "note": "New listing detected: Рустам Нургалиевич МИННИХАНОВ"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52190",
+      "action": "added",
+      "note": "New listing detected: Александр Михайлович КАЛЯГИН"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52191",
+      "action": "added",
+      "note": "New listing detected: Олег Владимирович ТРОФИМОВ"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52192",
+      "action": "added",
+      "note": "New listing detected: Ірина Вікторівна КРАВЧЕНКО"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52193",
+      "action": "added",
+      "note": "New listing detected: 송도원국제소년단야영소"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52194",
+      "action": "added",
+      "note": "New listing detected: Федеральное государственное бюджетное образовательное учреждение “Всероссийский детский центр ‘Океан’”"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52195",
+      "action": "added",
+      "note": "New listing detected: Преображенский ОСЦ"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52196",
+      "action": "added",
+      "note": "New listing detected: ООО СОК “Ромашка”"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52197",
+      "action": "added",
+      "note": "New listing detected: Мостуризм"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52198",
+      "action": "added",
+      "note": "New listing detected: ООО “АРТ-КВЕСТ”"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52199",
+      "action": "added",
+      "note": "New listing detected: ООО “ДОК ‘Спутник’”"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52200",
+      "action": "added",
+      "note": "New listing detected: Али Османович ЧОМАЕВ"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52201",
+      "action": "added",
+      "note": "New listing detected: Максим Николаевич ШВЕЦ"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52202",
+      "action": "added",
+      "note": "New listing detected: Ренард Владимирович КУТКОВСКИЙ"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52203",
+      "action": "added",
+      "note": "New listing detected: Ганна Станіславівна МОЛЧАНОВА"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52204",
+      "action": "added",
+      "note": "New listing detected: Свiтлана Эдиславiвна БЕСПАЛОВА"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52205",
+      "action": "added",
+      "note": "New listing detected: Детский центр «Солнечный берег»"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52206",
+      "action": "added",
+      "note": "New listing detected: Детский лагерь “Радуга”"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52207",
+      "action": "added",
+      "note": "New listing detected: ООО «ЦДиЮП «Мир»"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52208",
+      "action": "added",
+      "note": "New listing detected: ООО \"ЛЕТО\""
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52209",
+      "action": "added",
+      "note": "New listing detected: Общество с ограниченной ответственностью «ОТДЫХ-71»"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52210",
+      "action": "added",
+      "note": "New listing detected: Детский Курорт “Вита”"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52211",
+      "action": "added",
+      "note": "New listing detected: ООО ДОК \"Сигнал\""
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52212",
+      "action": "added",
+      "note": "New listing detected: ООО ДОЦ \"Котлостроитель\""
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52213",
+      "action": "added",
+      "note": "New listing detected: Центр изучения молодежной среды"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52214",
+      "action": "added",
+      "note": "New listing detected: Муниципальное бюджетное образовательное учреждение дополнительного образования \"детский оздоровительно-образовательный центр \"бригантина\""
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52215",
+      "action": "added",
+      "note": "New listing detected: Ramil Nailevich BADGUTDINOV"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52216",
+      "action": "added",
+      "note": "New listing detected: Sergey Aleksandrovich BASHKOV"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52217",
+      "action": "added",
+      "note": "New listing detected: Sergey Nikolaevich BESSONOV"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52218",
+      "action": "added",
+      "note": "New listing detected: Viktor Evgenevich IVANOV"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52219",
+      "action": "added",
+      "note": "New listing detected: Aleksandr Yurevich DYUKAREV"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-52220",
+      "action": "added",
+      "note": "New listing detected: Olga Alekseevna BELYAVTSEVA"
+    },
+    {
+      "date": "2026-11-21",
+      "entity_id": "mtf-43147",
+      "action": "modified",
+      "note": "Record updated: Zhi Chen"
     }
   ],
   "note": "Live changelog — append-only history of Monaco Trade Forum sanctions data synchronisations."
