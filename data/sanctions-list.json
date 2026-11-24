@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "mode": "live",
-  "last_synchronised": "2026-11-23",
+  "last_synchronised": "2026-11-24",
   "note": "Live data, normalised and deduplicated by Monaco Trade Forum from the sources listed below.",
   "sources": [
     {
@@ -10,7 +10,7 @@
       "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList",
       "license": "U.S. Government work — public domain (17 U.S.C. §105)",
       "code": "OFAC",
-      "last_updated": "Fri, 20 Nov 2026 20:32:32 GMT",
+      "last_updated": "Mon, 23 Nov 2026 17:32:54 GMT",
       "fetched_this_run": true
     },
     {
@@ -19,7 +19,7 @@
       "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list",
       "license": "Open Government Licence v3.0",
       "code": "UK",
-      "last_updated": "Mon, 23 Nov 2026 10:13:18 GMT",
+      "last_updated": "Tue, 24 Nov 2026 10:58:38 GMT",
       "fetched_this_run": true
     },
     {
@@ -410786,6 +410786,386 @@
       ]
     },
     {
+      "id": "mtf-52221",
+      "type": "entity",
+      "name": "H N B TRADING CO LLC",
+      "aliases": [],
+      "country": null,
+      "program": "SDGT] [IFSR",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59110",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52222",
+      "type": "entity",
+      "name": "GRAND TARGET HEAVY EQUIPMENT AND MACHINERY SPARE PARTS TRADING L.L.C",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59111",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52223",
+      "type": "entity",
+      "name": "RECAZ STAR GENERAL TRADING LLC",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59112",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52224",
+      "type": "entity",
+      "name": "RAHBAR BAZARGANI NESIM BAHARAN QESHM COMPANY",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59113",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52225",
+      "type": "entity",
+      "name": "HEMRAJ TRADING L.L.C",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59114",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52226",
+      "type": "entity",
+      "name": "MINA FASHKI AND PARTNERS EXCHANGE COMPANY",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59116",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52227",
+      "type": "entity",
+      "name": "OGA GLOBAL GENERAL TRADING L.L.C",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59117",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52228",
+      "type": "entity",
+      "name": "EWAN AL MADEENA GENERAL TRADING LLC",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59118",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52229",
+      "type": "entity",
+      "name": "DEXTEROUS GLOBAL DMCC",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59119",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52230",
+      "type": "person",
+      "name": "KALHOR, Ali",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59120",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52231",
+      "type": "entity",
+      "name": "GESPL INTERNATIONAL GENERAL TRADING LLC",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59121",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52232",
+      "type": "entity",
+      "name": "MEETHALE RAW MATERIALS TRADING COMPANY LLC",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59122",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52233",
+      "type": "person",
+      "name": "HEMMATI, Valiollah",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59123",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52234",
+      "type": "person",
+      "name": "JALALI, Sayyed Mohammad",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59124",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52235",
+      "type": "person",
+      "name": "FASHKI, Mina",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59125",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52236",
+      "type": "person",
+      "name": "FASHKI, Farzad",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59126",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52237",
+      "type": "entity",
+      "name": "BOGAZICI GUMRUKLEME ITHALAT IHRACAT TURIZM PETROL URUNLERI SANAYI VE TICARET LIMITED SIRKETI",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59127",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52238",
+      "type": "entity",
+      "name": "GRANDEZ TRADING LIMITED",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59128",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52239",
+      "type": "entity",
+      "name": "KHORE AL HILAL GOODS WHOLESALERS TRADING LLC",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59130",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
       "id": "mtf-52151",
       "type": "person",
       "name": "KHECHEN, Hassan",
@@ -410866,6 +411246,146 @@
       ]
     },
     {
+      "id": "mtf-52240",
+      "type": "entity",
+      "name": "ROYAH ALTAHABIA TRADING L.L.C",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59178",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52241",
+      "type": "entity",
+      "name": "NORDIC INTERNATIONAL TRADING LLC",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59180",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52242",
+      "type": "entity",
+      "name": "ALAM AL SAHRA BUILDING MATERIALS TRADING CO. L.L.C",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59183",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52243",
+      "type": "entity",
+      "name": "BERKELEY TRADING LLC",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59184",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52244",
+      "type": "entity",
+      "name": "INTEGRAL PETRO ENERGY TRADING LLC",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59185",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52245",
+      "type": "entity",
+      "name": "ROBUST TRADING LLC",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13871",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59186",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52246",
+      "type": "entity",
+      "name": "IRAN CENTER FOR EXCHANGE OF CURRENCY AND GOLD",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59187",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
       "id": "mtf-52155",
       "type": "entity",
       "name": "WA TA'AWANU ASSOCIATION",
@@ -410901,6 +411421,86 @@
         {
           "code": "OFAC",
           "source_id": "SDN-59189",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52247",
+      "type": "entity",
+      "name": "MELLAT EXCHANGE COMPANY",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59230",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52248",
+      "type": "person",
+      "name": "AKHLAGHI, Mahmoud",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59231",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52249",
+      "type": "person",
+      "name": "FAZLJU, Parviz",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59232",
+          "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52250",
+      "type": "person",
+      "name": "ABBASI, Mohammad Hossein",
+      "aliases": [],
+      "country": null,
+      "program": "IRAN-EO13902",
+      "listing_date": null,
+      "imo": null,
+      "flag": "-0-",
+      "vessel_type": "-0-",
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "OFAC",
+          "source_id": "SDN-59233",
           "list_url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
         }
       ]
@@ -606170,6 +606770,251 @@
       ]
     },
     {
+      "id": "mtf-52251",
+      "type": "entity",
+      "name": "Sarim Al Din Mufadal",
+      "aliases": [],
+      "country": null,
+      "program": "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026",
+      "listing_date": "24/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "GHR0214",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52252",
+      "type": "entity",
+      "name": "Sarim Al-Din MUFADDAL",
+      "aliases": [],
+      "country": null,
+      "program": "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026",
+      "listing_date": "24/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "GHR0214",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52253",
+      "type": "entity",
+      "name": "Mohamed MOUFLEH",
+      "aliases": [],
+      "country": null,
+      "program": "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026",
+      "listing_date": "24/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "GHR0215",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52254",
+      "type": "entity",
+      "name": "Mohamad MOFLEH",
+      "aliases": [],
+      "country": null,
+      "program": "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026",
+      "listing_date": "24/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "GHR0215",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52255",
+      "type": "entity",
+      "name": "Mohammad MOFLIH",
+      "aliases": [],
+      "country": null,
+      "program": "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026",
+      "listing_date": "24/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "GHR0215",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52256",
+      "type": "entity",
+      "name": "Muhammad MOUFLEH",
+      "aliases": [],
+      "country": null,
+      "program": "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026",
+      "listing_date": "24/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "GHR0215",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52257",
+      "type": "entity",
+      "name": "Mohammed MOUFLIH",
+      "aliases": [],
+      "country": null,
+      "program": "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026",
+      "listing_date": "24/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "GHR0215",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52258",
+      "type": "entity",
+      "name": "Muhammed MUFLEH",
+      "aliases": [],
+      "country": null,
+      "program": "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026",
+      "listing_date": "24/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "GHR0215",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52259",
+      "type": "entity",
+      "name": "Abdul Hakim AL KHAIWANI",
+      "aliases": [],
+      "country": null,
+      "program": "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026",
+      "listing_date": "24/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "GHR0216",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52260",
+      "type": "entity",
+      "name": "Abdulhakim AL KHIYAWANI",
+      "aliases": [],
+      "country": null,
+      "program": "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026",
+      "listing_date": "24/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "GHR0216",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52261",
+      "type": "entity",
+      "name": "Abdulkarim Amiruddin Hussein AL-HOUTHI",
+      "aliases": [],
+      "country": null,
+      "program": "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026",
+      "listing_date": "24/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "GHR0217",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52262",
+      "type": "entity",
+      "name": "Myo Htut HLAING",
+      "aliases": [],
+      "country": null,
+      "program": "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026",
+      "listing_date": "23/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "GHR0218",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        },
+        {
+          "code": "UK",
+          "source_id": "GHR0218",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
       "id": "mtf-43186",
       "type": "entity",
       "name": "Goran Assad JALAL",
@@ -733751,6 +734596,116 @@
         {
           "code": "UK",
           "source_id": "MYA0085",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52263",
+      "type": "entity",
+      "name": "Myat Thet Oo",
+      "aliases": [],
+      "country": null,
+      "program": "The Myanmar (Sanctions) Regulations 2021",
+      "listing_date": "23/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "MYA0086",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        },
+        {
+          "code": "UK",
+          "source_id": "MYA0086",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        },
+        {
+          "code": "UK",
+          "source_id": "MYA0086",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        },
+        {
+          "code": "UK",
+          "source_id": "MYA0086",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52264",
+      "type": "entity",
+      "name": "Myo Min TUN",
+      "aliases": [],
+      "country": null,
+      "program": "The Myanmar (Sanctions) Regulations 2021",
+      "listing_date": "23/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "MYA0088",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52265",
+      "type": "entity",
+      "name": "Kyaw SOE",
+      "aliases": [],
+      "country": null,
+      "program": "The Myanmar (Sanctions) Regulations 2021",
+      "listing_date": "23/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "MYA0089",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        },
+        {
+          "code": "UK",
+          "source_id": "MYA0089",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        },
+        {
+          "code": "UK",
+          "source_id": "MYA0089",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52266",
+      "type": "entity",
+      "name": "Kyaw Swar OO",
+      "aliases": [],
+      "country": null,
+      "program": "The Myanmar (Sanctions) Regulations 2021",
+      "listing_date": "23/11/2026",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "MYA0090",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        },
+        {
+          "code": "UK",
+          "source_id": "MYA0090",
           "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
         }
       ]
@@ -929649,6 +930604,26 @@
       "id": "mtf-52088",
       "type": "entity",
       "name": "The Houthis",
+      "aliases": [],
+      "country": null,
+      "program": "The Yemen (Sanctions) (EU Exit) Regulations 2020",
+      "listing_date": "01/03/2022",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "YEM0010",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52267",
+      "type": "entity",
+      "name": "Ansar Allah",
       "aliases": [],
       "country": null,
       "program": "The Yemen (Sanctions) (EU Exit) Regulations 2020",
