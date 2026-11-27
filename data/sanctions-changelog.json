@@ -416923,6 +416923,126 @@
       "entity_id": "mtf-52267",
       "action": "added",
       "note": "New listing detected: Ansar Allah"
+    },
+    {
+      "date": "2026-11-27",
+      "entity_id": "mtf-52268",
+      "action": "added",
+      "note": "New listing detected: IMO 8027705"
+    },
+    {
+      "date": "2026-11-27",
+      "entity_id": "mtf-52269",
+      "action": "added",
+      "note": "New listing detected: Russian: Открытое Акционерное Общество “ОБОРОНТЕСТ”"
+    },
+    {
+      "date": "2026-11-27",
+      "entity_id": "mtf-52270",
+      "action": "added",
+      "note": "New listing detected: Общество с Ограниченной Ответственностью “КБ ЛИС”"
+    },
+    {
+      "date": "2026-11-27",
+      "entity_id": "mtf-52271",
+      "action": "added",
+      "note": "New listing detected: Акционерное Общество “Золоторудная Компания Павлик”"
+    },
+    {
+      "date": "2026-11-27",
+      "entity_id": "mtf-52272",
+      "action": "added",
+      "note": "New listing detected: УЗТМ"
+    },
+    {
+      "date": "2026-11-27",
+      "entity_id": "mtf-22169",
+      "action": "removed",
+      "note": "No longer present in source lists: Uralmashzavod  JSC"
+    },
+    {
+      "date": "2026-11-27",
+      "entity_id": "mtf-25525",
+      "action": "removed",
+      "note": "No longer present in source lists: ОБОРОНТЕСТ"
+    },
+    {
+      "date": "2026-11-27",
+      "entity_id": "mtf-25609",
+      "action": "removed",
+      "note": "No longer present in source lists: AO  ‘’Реалист Банк’’"
+    },
+    {
+      "date": "2026-11-27",
+      "entity_id": "mtf-25628",
+      "action": "removed",
+      "note": "No longer present in source lists: ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННО СТЬЮ КБ ЛИС"
+    },
+    {
+      "date": "2026-11-27",
+      "entity_id": "mtf-25636",
+      "action": "removed",
+      "note": "No longer present in source lists: АКЦИОНЕРНОЕ  ОБЩЕСТВО  ЗОЛОТОРУДНА Я КОМПАНИЯ  ПАВЛИК"
+    },
+    {
+      "date": "2026-11-27",
+      "entity_id": "mtf-22031",
+      "action": "modified",
+      "note": "Record updated: Karaji Agricultural and Medical Research Center"
+    },
+    {
+      "date": "2026-11-27",
+      "entity_id": "mtf-22170",
+      "action": "modified",
+      "note": "Record updated: “Beget” LLC"
+    },
+    {
+      "date": "2026-11-27",
+      "entity_id": "mtf-25522",
+      "action": "modified",
+      "note": "Record updated: ООО ЛАГГАР ПРО"
+    },
+    {
+      "date": "2026-11-27",
+      "entity_id": "mtf-25603",
+      "action": "modified",
+      "note": "Record updated: Непубличное Акционерное общество “Калмыцкая Нефтегазовая Компания”"
+    },
+    {
+      "date": "2026-11-27",
+      "entity_id": "mtf-25604",
+      "action": "modified",
+      "note": "Record updated: ОБ УЗТМ-КАРТЭКС"
+    },
+    {
+      "date": "2026-11-27",
+      "entity_id": "mtf-25611",
+      "action": "modified",
+      "note": "Record updated: АО Углеметбанк"
+    },
+    {
+      "date": "2026-11-27",
+      "entity_id": "mtf-25624",
+      "action": "modified",
+      "note": "Record updated: Акционерное общество “Пергам Инжиниринг”"
+    },
+    {
+      "date": "2026-11-27",
+      "entity_id": "mtf-41591",
+      "action": "modified",
+      "note": "Record updated: Ivan Sergeyevich Kravtsov"
+    },
+    {
+      "date": "2026-11-27",
+      "entity_id": "mtf-50011",
+      "action": "modified",
+      "note": "Record updated: JSC 'REALIST BANK'"
+    },
+    {
+      "date": "2026-11-27",
+      "entity_id": "mtf-52251",
+      "action": "modified",
+      "note": "Record updated: Sarim Al Din MUFADAL"
     }
   ],
   "note": "Live changelog — append-only history of Monaco Trade Forum sanctions data synchronisations."

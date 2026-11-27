@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "mode": "live",
-  "last_synchronised": "2026-11-26",
+  "last_synchronised": "2026-11-27",
   "note": "Live data, normalised and deduplicated by Monaco Trade Forum from the sources listed below.",
   "sources": [
     {
@@ -19,7 +19,7 @@
       "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list",
       "license": "Open Government Licence v3.0",
       "code": "UK",
-      "last_updated": "Tue, 24 Nov 2026 10:58:38 GMT",
+      "last_updated": "Thu, 26 Nov 2026 12:36:43 GMT",
       "fetched_this_run": true
     },
     {
@@ -28,7 +28,7 @@
       "list_url": "https://webgate.ec.europa.eu/fsd/fsf",
       "license": "EU document reuse policy — CC BY 4.0 (Commission Decision 2011/833/EU); attribution required",
       "code": "EU",
-      "last_updated": "20/11/2026",
+      "last_updated": "27/11/2026",
       "fetched_this_run": true
     }
   ],
@@ -553519,6 +553519,11 @@
           "code": "UK",
           "source_id": "CHW0042",
           "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        },
+        {
+          "code": "UK",
+          "source_id": "CHW0042",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
         }
       ]
     },
@@ -606770,9 +606775,9 @@
       ]
     },
     {
-      "id": "mtf-52251",
+      "id": "mtf-52252",
       "type": "entity",
-      "name": "Sarim Al Din Mufadal",
+      "name": "Sarim Al-Din MUFADDAL",
       "aliases": [],
       "country": null,
       "program": "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026",
@@ -606790,9 +606795,9 @@
       ]
     },
     {
-      "id": "mtf-52252",
+      "id": "mtf-52251",
       "type": "entity",
-      "name": "Sarim Al-Din MUFADDAL",
+      "name": "Sarim Al Din MUFADAL",
       "aliases": [],
       "country": null,
       "program": "The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026",
@@ -708028,7 +708033,7 @@
         },
         {
           "code": "EU",
-          "source_id": "EU.13894.78",
+          "source_id": "EU.17628.31",
           "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982"
         }
       ]
@@ -730537,6 +730542,33 @@
         {
           "code": "UK",
           "source_id": "LIB0079",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52268",
+      "type": "vessel",
+      "name": "IMO 8027705",
+      "aliases": [
+        "AEGEAN"
+      ],
+      "country": null,
+      "program": "The Libya (Sanctions) (EU Exit) Regulations 2020",
+      "listing_date": "24/11/2026",
+      "imo": "IMO8027705",
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "UK",
+          "source_id": "LIB0080",
+          "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        },
+        {
+          "code": "UK",
+          "source_id": "LIB0080",
           "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
         }
       ]
@@ -863359,14 +863391,25 @@
       "id": "mtf-50011",
       "type": "entity",
       "name": "JSC 'REALIST BANK'",
-      "aliases": [],
-      "country": null,
+      "aliases": [
+        "JSC \"Realist Bank\""
+      ],
+      "country": "RUSSIAN FEDERATION",
       "program": "The Russia (Sanctions) (EU Exit) Regulations 2019",
       "listing_date": "06/08/2026",
       "imo": null,
       "flag": null,
       "vessel_type": null,
-      "identifiers": [],
+      "identifiers": [
+        {
+          "type": "Tax identification number",
+          "value": "770901001 (taxid-Tax identification number) (Principal place of business: Russian Federation)"
+        },
+        {
+          "type": "Tax identification number",
+          "value": "3801002781 (taxid-Tax identification number) (Type of entity: Joint Stock Company\\n\\nPlace of registration: Russian Federation\\n\\nDate of registration: 5.12.1990)"
+        }
+      ],
       "sources": [
         {
           "code": "UK",
@@ -863387,6 +863430,11 @@
           "code": "UK",
           "source_id": "RUS3712",
           "list_url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+        },
+        {
+          "code": "EU",
+          "source_id": "EU.17627.32",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
         }
       ]
     },
@@ -1048435,39 +1048483,6 @@
       ]
     },
     {
-      "id": "mtf-25522",
-      "type": "entity",
-      "name": "ООО ЛАГГАР ПРО",
-      "aliases": [
-        "LLC LAGGAR PRO",
-        "Limited Liability Company LAGGAR PRO",
-        "LAGGAR PRO, societate cu răspundere limitată"
-      ],
-      "country": "RUSSIAN FEDERATION",
-      "program": "UKR",
-      "listing_date": "2026-07-23",
-      "imo": null,
-      "flag": null,
-      "vessel_type": null,
-      "identifiers": [
-        {
-          "type": "Other identification number",
-          "value": "5250070144 (other-Other identification number)  (on 2018-06-15)(INN)"
-        },
-        {
-          "type": "Other identification number",
-          "value": "1185275034218 (other-Other identification number) (OGRN)"
-        }
-      ],
-      "sources": [
-        {
-          "code": "EU",
-          "source_id": "EU.14564.35",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
-        }
-      ]
-    },
-    {
       "id": "mtf-25523",
       "type": "entity",
       "name": "ООО МСКА ИНЖИНИРИНГ",
@@ -1048531,39 +1048546,6 @@
         {
           "code": "EU",
           "source_id": "EU.14566.33",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
-        }
-      ]
-    },
-    {
-      "id": "mtf-25525",
-      "type": "entity",
-      "name": "ОБОРОНТЕСТ",
-      "aliases": [
-        "Открытое Акционерное Общество",
-        "Open joint stock company “Oborontest”",
-        "Oborontest, societate deschisă pe acțiuni"
-      ],
-      "country": "RUSSIAN FEDERATION",
-      "program": "UKR",
-      "listing_date": "2026-07-23",
-      "imo": null,
-      "flag": null,
-      "vessel_type": null,
-      "identifiers": [
-        {
-          "type": "Other identification number",
-          "value": "7717686763 (other-Other identification number)  (on 2020-11-12)(INN)"
-        },
-        {
-          "type": "Other identification number",
-          "value": "1107746923008 (other-Other identification number) (OGRN)"
-        }
-      ],
-      "sources": [
-        {
-          "code": "EU",
-          "source_id": "EU.14567.32",
           "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
         }
       ]
@@ -1051330,98 +1051312,6 @@
       ]
     },
     {
-      "id": "mtf-25603",
-      "type": "entity",
-      "name": "НЕПУБЛИЧНОЕ  АКЦИОНЕРНОЕ  ОБЩЕСТВО  \"КАЛМЫЦКАЯ  НЕФТЕГАЗОВАЯ  КОМПАНИЯ\"",
-      "aliases": [
-        "АО  \"КАЛМНЕФТЕГА З\"",
-        "NON PUBLIC JOINT STOCK  COMPANY  \"KALMYK OIL  AND GAS  COMPANY",
-        "JSC  KALMNEFTEGAZ",
-        "súkromná akciová spoločnosť „Kalmyk Oil and Gas Company“"
-      ],
-      "country": "RUSSIAN FEDERATION",
-      "program": "UKR",
-      "listing_date": "2026-06-23",
-      "imo": null,
-      "flag": null,
-      "vessel_type": null,
-      "identifiers": [
-        {
-          "type": "Tax identification number",
-          "value": "0814135906 (taxid-Tax identification number)"
-        },
-        {
-          "type": "Other identification number",
-          "value": "1020800767371 (other-Other identification number) (OGRN - Russian Primary State Registration Number)"
-        }
-      ],
-      "sources": [
-        {
-          "code": "EU",
-          "source_id": "EU.14739.44",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
-        }
-      ]
-    },
-    {
-      "id": "mtf-25604",
-      "type": "entity",
-      "name": "ОБ УЗТМ КАРТЭКС",
-      "aliases": [
-        "UK UZTM  KARTEX LLC",
-        "UPRAVLYAYUSH CHAYA  KOMPANIYA  UZTM KARTEKS"
-      ],
-      "country": "RUSSIAN FEDERATION",
-      "program": "UKR",
-      "listing_date": "2026-07-23",
-      "imo": null,
-      "flag": null,
-      "vessel_type": null,
-      "identifiers": [
-        {
-          "type": "Tax identification number",
-          "value": "7727298791 (taxid-Tax identification number)"
-        }
-      ],
-      "sources": [
-        {
-          "code": "EU",
-          "source_id": "EU.14740.22",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
-        }
-      ]
-    },
-    {
-      "id": "mtf-22169",
-      "type": "entity",
-      "name": "Uralmashzavod  JSC",
-      "aliases": [
-        "УЗТМ",
-        "ПАО  УРАЛМАШЗАВО Д",
-        "UZTM",
-        "URALMASHPLAN T JSC"
-      ],
-      "country": "RUSSIAN FEDERATION",
-      "program": "UKR",
-      "listing_date": "2026-07-23",
-      "imo": null,
-      "flag": null,
-      "vessel_type": null,
-      "identifiers": [
-        {
-          "type": "Tax identification number",
-          "value": "6663005798 (taxid-Tax identification number)"
-        }
-      ],
-      "sources": [
-        {
-          "code": "EU",
-          "source_id": "EU.14741.21",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
-        }
-      ]
-    },
-    {
       "id": "mtf-25605",
       "type": "entity",
       "name": "ООО ИЗ КАРТЭКС  ИМЕНИ П.Г.  КОРОБКОВА",
@@ -1051550,37 +1051440,6 @@
       ]
     },
     {
-      "id": "mtf-25609",
-      "type": "entity",
-      "name": "AO  ‘’Реалист Банк’’",
-      "aliases": [
-        "JSC ‘’Realist  Bank’’"
-      ],
-      "country": "RUSSIAN FEDERATION",
-      "program": "UKR",
-      "listing_date": "2026-07-23",
-      "imo": null,
-      "flag": null,
-      "vessel_type": null,
-      "identifiers": [
-        {
-          "type": "Other identification number",
-          "value": "770901001 (other-Other identification number) (KPP - Russian Tax Registration Reason Code)"
-        },
-        {
-          "type": "Tax identification number",
-          "value": "3801002781 (taxid-Tax identification number)"
-        }
-      ],
-      "sources": [
-        {
-          "code": "EU",
-          "source_id": "EU.14746.16",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
-        }
-      ]
-    },
-    {
       "id": "mtf-25610",
       "type": "entity",
       "name": "АО ‘’Банк  ‘’Агророс’’",
@@ -1051607,38 +1051466,6 @@
         {
           "code": "EU",
           "source_id": "EU.14747.15",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
-        }
-      ]
-    },
-    {
-      "id": "mtf-25611",
-      "type": "entity",
-      "name": "АО  Углеметбанк",
-      "aliases": [
-        "JSC  Uglemetbank",
-        "JSC Coalmetbank"
-      ],
-      "country": "RUSSIAN FEDERATION",
-      "program": "UKR",
-      "listing_date": "2026-07-23",
-      "imo": null,
-      "flag": null,
-      "vessel_type": null,
-      "identifiers": [
-        {
-          "type": "Other identification number",
-          "value": "744801001 (other-Other identification number) (KPP - RussianTax Registration Reason Code)"
-        },
-        {
-          "type": "Tax identification number",
-          "value": "4214005204 (taxid-Tax identification number)"
-        }
-      ],
-      "sources": [
-        {
-          "code": "EU",
-          "source_id": "EU.14748.14",
           "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
         }
       ]
@@ -1051734,31 +1051561,6 @@
         {
           "code": "EU",
           "source_id": "EU.14753.85",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
-        }
-      ]
-    },
-    {
-      "id": "mtf-22170",
-      "type": "entity",
-      "name": "“Beget” LLC",
-      "aliases": [],
-      "country": "RUSSIAN FEDERATION",
-      "program": "UKR",
-      "listing_date": "2026-07-23",
-      "imo": null,
-      "flag": null,
-      "vessel_type": null,
-      "identifiers": [
-        {
-          "type": "Registration Number",
-          "value": "1077847645590 (regnumber-Registration Number)"
-        }
-      ],
-      "sources": [
-        {
-          "code": "EU",
-          "source_id": "EU.14754.84",
           "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
         }
       ]
@@ -1052193,37 +1051995,6 @@
       ]
     },
     {
-      "id": "mtf-25624",
-      "type": "entity",
-      "name": "Акционерное  общество Пергам  Инжиниринг",
-      "aliases": [
-        "Joint Stock  Company Pergam  Engineering"
-      ],
-      "country": "RUSSIAN FEDERATION",
-      "program": "UKR",
-      "listing_date": "2026-07-23",
-      "imo": null,
-      "flag": null,
-      "vessel_type": null,
-      "identifiers": [
-        {
-          "type": "Tax identification number",
-          "value": "7713226814 (taxid-Tax identification number) (INN - Taxpayer Identification Number)"
-        },
-        {
-          "type": "Other identification number",
-          "value": "1027700285612 (other-Other identification number) (OGRN)"
-        }
-      ],
-      "sources": [
-        {
-          "code": "EU",
-          "source_id": "EU.14793.58",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
-        }
-      ]
-    },
-    {
       "id": "mtf-25625",
       "type": "entity",
       "name": "Акционерное общество “Алюминий Металлург Рус”",
@@ -1052320,50 +1052091,6 @@
         {
           "code": "EU",
           "source_id": "EU.14797.54",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
-        }
-      ]
-    },
-    {
-      "id": "mtf-25628",
-      "type": "entity",
-      "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННО СТЬЮ КБ ЛИС",
-      "aliases": [
-        "ООО КБ  ЛИС",
-        "Gortenziya",
-        "Gortensia",
-        "Hortensia",
-        "Hortensia Design Bureau",
-        "Hydrangea",
-        "Hydrangea Design Bureau",
-        "Design Bureau",
-        "LIMITED LIABILITY COMPANY KB LIS",
-        "LLC “KB LIS”"
-      ],
-      "country": "RUSSIAN FEDERATION",
-      "program": "UKR",
-      "listing_date": "2026-07-23",
-      "imo": null,
-      "flag": null,
-      "vessel_type": null,
-      "identifiers": [
-        {
-          "type": "Other identification number",
-          "value": "470601001 (other-Other identification number) (KPP)"
-        },
-        {
-          "type": "Tax identification number",
-          "value": "4706059162 (taxid-Tax identification number) (INN - Taxpayer Identification Number)"
-        },
-        {
-          "type": "Registration Number",
-          "value": "1234700008982 (regnumber-Registration Number)  (on 2023-04-14)"
-        }
-      ],
-      "sources": [
-        {
-          "code": "EU",
-          "source_id": "EU.14798.53",
           "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
         }
       ]
@@ -1052658,40 +1052385,6 @@
         {
           "code": "EU",
           "source_id": "EU.14819.18",
-          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
-        }
-      ]
-    },
-    {
-      "id": "mtf-25636",
-      "type": "entity",
-      "name": "АКЦИОНЕРНОЕ  ОБЩЕСТВО  ЗОЛОТОРУДНА Я КОМПАНИЯ  ПАВЛИК",
-      "aliases": [
-        "АО  ‘ПАВЛИК",
-        "Pavlik",
-        "JSC Gold  Mining Company Pavlik",
-        "JSC Pavlik"
-      ],
-      "country": "RUSSIAN FEDERATION",
-      "program": "UKR",
-      "listing_date": "2026-07-23",
-      "imo": null,
-      "flag": null,
-      "vessel_type": null,
-      "identifiers": [
-        {
-          "type": "Tax identification number",
-          "value": "4900000681 (taxid-Tax identification number) (INN - Tax payer identification number)"
-        },
-        {
-          "type": "Other identification number",
-          "value": "1024900957399 (other-Other identification number) (OGRN)"
-        }
-      ],
-      "sources": [
-        {
-          "code": "EU",
-          "source_id": "EU.14820.93",
           "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
         }
       ]
@@ -1055247,6 +1054940,305 @@
           "code": "EU",
           "source_id": "EU.15043",
           "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602263"
+        }
+      ]
+    },
+    {
+      "id": "mtf-25604",
+      "type": "entity",
+      "name": "ОБ УЗТМ-КАРТЭКС",
+      "aliases": [
+        "UK UZTM KARTEX LLC",
+        "Upravlyayushchaya Kompaniya UZTM KARTEKS"
+      ],
+      "country": null,
+      "program": "UKR",
+      "listing_date": null,
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.17614.66",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
+        }
+      ]
+    },
+    {
+      "id": "mtf-25522",
+      "type": "entity",
+      "name": "ООО ЛАГГАР ПРО",
+      "aliases": [
+        "LLC LAGGAR PRO",
+        "Limited Liability Company LAGGAR PRO"
+      ],
+      "country": "RUSSIAN FEDERATION",
+      "program": "UKR",
+      "listing_date": null,
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "Other identification number",
+          "value": "1185275034218 (other-Other identification number) (Type of entity: Limited liability company\\n\\nPlace of registration: Russian Federation\\n\\nDate of registration: 15.6.2018)"
+        },
+        {
+          "type": "Tax identification number",
+          "value": "5250070144 (taxid-Tax identification number)"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.17616.64",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52269",
+      "type": "entity",
+      "name": "Russian: Открытое Акционерное Общество “ОБОРОНТЕСТ”",
+      "aliases": [
+        "Open joint stock company “Oborontest”"
+      ],
+      "country": "RUSSIAN FEDERATION",
+      "program": "UKR",
+      "listing_date": null,
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "Tax identification number",
+          "value": "7717686763 (taxid-Tax identification number) (Type of entity: Joint stock company\\n\\nPlace of registration: Moscow, Russian Federation\\n\\nDate of registration: 12.11.2020\\n\\nOGRN: 1107746923008)"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.17617.63",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
+        }
+      ]
+    },
+    {
+      "id": "mtf-25611",
+      "type": "entity",
+      "name": "АО Углеметбанк",
+      "aliases": [
+        "JSC Uglemetbank",
+        "JSC Coalmetbank"
+      ],
+      "country": "RUSSIAN FEDERATION",
+      "program": "UKR",
+      "listing_date": "2026-07-23",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "Tax identification number",
+          "value": "744801001 (taxid-Tax identification number)"
+        },
+        {
+          "type": "Tax identification number",
+          "value": "4214005204 (taxid-Tax identification number) (Type of entity: Joint Stock Company\\n\\nPlace of registration: Russian Federation\\n\\nDate of registration: 27.7.1994)"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.17619.61",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52270",
+      "type": "entity",
+      "name": "Общество с Ограниченной Ответственностью “КБ ЛИС”",
+      "aliases": [
+        "ООО “КБ ЛИС”",
+        "Gortenziya",
+        "Gortensia",
+        "Hortensia",
+        "“Hortensia” Design Bureau",
+        "Hydrangea",
+        "“Hydrangea” Design Bureau",
+        "Design Bureau",
+        "Limited Liability Company “KB LIS\"",
+        "LLC “KB LIS”"
+      ],
+      "country": "RUSSIAN FEDERATION",
+      "program": "UKR",
+      "listing_date": null,
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "Tax identification number",
+          "value": "470601001 (taxid-Tax identification number)"
+        },
+        {
+          "type": "Registration Number",
+          "value": "1234700008982 (regnumber-Registration Number)"
+        },
+        {
+          "type": "Tax identification number",
+          "value": "4706059162 (taxid-Tax identification number) (Place of registration: Russian Federation\\n\\nDate of registration: 14.4.2023)"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.17620.39",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
+        }
+      ]
+    },
+    {
+      "id": "mtf-25603",
+      "type": "entity",
+      "name": "Непубличное Акционерное общество “Калмыцкая Нефтегазовая Компания”",
+      "aliases": [
+        "АО “Калмнефтегаз”",
+        "Non-Public Joint-Stock Company “Kalmyk Oil and Gas Company”",
+        "JSC Kalmneftegaz"
+      ],
+      "country": "RUSSIAN FEDERATION",
+      "program": "UKR",
+      "listing_date": null,
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "Tax identification number",
+          "value": "0814135906 (taxid-Tax identification number) (OGRN: 1020800767371\\n\\nDate of registration: 17.12.2002\\n\\nDate of creation: 11.3.2001)"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.17621.38",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
+        }
+      ]
+    },
+    {
+      "id": "mtf-22170",
+      "type": "entity",
+      "name": "“Beget” LLC",
+      "aliases": [],
+      "country": "RUSSIAN FEDERATION",
+      "program": "UKR",
+      "listing_date": null,
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "Registration Number",
+          "value": "1077847645590 (regnumber-Registration Number) (Associated individuals: Aleksei Yuryevich Manikin; Aleksandr Yuryevich Iljin; Aleksandr Klukov)"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.17622.37",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
+        }
+      ]
+    },
+    {
+      "id": "mtf-25624",
+      "type": "entity",
+      "name": "Акционерное общество “Пергам Инжиниринг”",
+      "aliases": [
+        "Joint Stock Company “Pergam Engineering”"
+      ],
+      "country": "RUSSIAN FEDERATION",
+      "program": "UKR",
+      "listing_date": null,
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "Tax identification number",
+          "value": "7713226814 (taxid-Tax identification number) (Place of registration:127254, Moscow, Ogorodny Prospekt, Building 5, Structure 4, Floor 3, Room 305\\n\\nDate of registration: 7.10.2002)"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.17623.36",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52271",
+      "type": "entity",
+      "name": "Акционерное Общество “Золоторудная Компания Павлик”",
+      "aliases": [
+        "АО “Павлик”",
+        "Pavlik",
+        "JSC Gold Mining Company “Pavlik”",
+        "JSC Pavlik"
+      ],
+      "country": "RUSSIAN FEDERATION",
+      "program": "UKR",
+      "listing_date": null,
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "Tax identification number",
+          "value": "4900000681 (taxid-Tax identification number) (Place of registration: Magadan, Russia\\n\\nDate of registration: 16.10.2002\\n\\nOGRN: 1024900957399\\n\\nType of entity: Joint Stock Company)"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.17624.35",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
+        }
+      ]
+    },
+    {
+      "id": "mtf-52272",
+      "type": "entity",
+      "name": "УЗТМ",
+      "aliases": [
+        "ПАО Уралмашзавод",
+        "UZTM",
+        "Uralmashzavod JSC",
+        "Uralmashplant JSC"
+      ],
+      "country": "RUSSIAN FEDERATION",
+      "program": "UKR",
+      "listing_date": "2026-07-23",
+      "imo": null,
+      "flag": null,
+      "vessel_type": null,
+      "identifiers": [
+        {
+          "type": "Tax identification number",
+          "value": "6663005798 (taxid-Tax identification number)"
+        }
+      ],
+      "sources": [
+        {
+          "code": "EU",
+          "source_id": "EU.17631.7",
+          "list_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845"
         }
       ]
     }
